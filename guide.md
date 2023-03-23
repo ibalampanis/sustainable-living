@@ -1,3 +1,15 @@
+# Sustainable Living: Tips and Tricks for a Greener Lifestyle
+
+## Getting started with sustainable & green living
+
+Defining environmental sustainability in a clear and intelligible way, is of paramount importance, in order to approach this topic properly.
+Following a green lifestyle, means to shape a way of life oriented to some earth-friendly key directions, stated below.
+
+- Redefine your needs and develop lighter habits
+- Protect natural resources by avoiding their overconsumption and safeguarding biodiversity
+- Be actively aware of the current threats posed to environment (i.e. climate crisis components) and get eco-conscious
+- Become more adaptive and open to eco-friendly practices
+
 ## There are many things you can do to live a greener lifestyle.Here are some ideas to get you started:
 
 ###  Reduce your energy consumption
@@ -84,3 +96,22 @@ Joining a local environmental organization or volunteering for environmental cau
 </h4>
 <br>
 </h1>
+
+## Understanding the value of a sustainable lifestyle
+
+Applying and including the above practices to your everyday life, will certainly be beneficial and valuable for both sides. To be more specific, we present you some demonstrative rewarding cases.
+
+- Restrict your negative environmental impact
+    - reduce your carbon footprint
+
+- Lessen your daily expenses, that being:
+    - green energy is cost-effective and keeps your electricity bills at low levels
+    - eco-friendly products are gradually becoming more affordable
+
+- Pave the way for a healthier life
+    - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues
+
+- Share and spread your green lifestyle profile
+    - inspire and bring more people closer to the sustainable living model
+    - don't forget that it's all about collaboration and contribution when we need game-changing results
+    - make the first step for the desired domino effect
