@@ -443,3 +443,7 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 ## Interesting videos
 
 1. [Going Green: Tips for a Zero-Waste Lifestyle, TEDxYouth](https://www.youtube.com/watch?v=pw75xPQEbhk)
+2. [Defining Sustainability: Absolutely, TEDxGoodenoughCollege](https://www.youtube.com/watch?v=B-dCmbViDEQ)
+3. [The future of sustainability–from Net Zero to Net Positive, TEDxPearlStreet](https://www.youtube.com/watch?v=EFlySkr6-10)
+4. [Sustainability In The Digital Age, TEDxBonn](https://www.youtube.com/watch?v=VpFgNZSwm-A)
+5. [What is Sustainability, UCLA](https://www.youtube.com/watch?v=zx04Kl8y4dE)
