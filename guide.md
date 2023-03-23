@@ -356,6 +356,12 @@ on the environment and connect with others who share your values.
 <h1 align="center">
 	<img height="200"  width="200" src="media/optimize.png" alt="">
 
+### Go smart
+
+- Try having smart home gadgets, like [programmable thermostat](https://www.energy.gov/energysaver/programmable-thermostats), leds or smart switches. This way you can control exaclty when you use anything in your home and monitor how much do you use it.
+
+<h1 align="center">
+	<img height="200"  width="200" src="media/eco.png" alt="">
 
 <h4 align="right">
 
