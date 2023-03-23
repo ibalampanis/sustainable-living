@@ -52,8 +52,7 @@ Recycling is a great way to reduce waste, but it's even better to reduce the amo
 	<img height="200"  width="200" src="media/reuse.png">
 	<h4 align="right">
 
-[Image source](https://www.nicepng.com/ourpic/u2q8i1u2r5r5r5q8_recycling-symbol-icon-outline-dark-green-recycling-logo/)
-
+[Image source](https://www.flaticon.com/free-icon/reuse_1012887)
 </h4>
 </h1>
 
