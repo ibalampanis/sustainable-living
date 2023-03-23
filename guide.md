@@ -355,6 +355,12 @@ on the environment and connect with others who share your values.
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/optimize.png" alt="">
+<h4 align="right">
+
+[Image source](https://www.flaticon.com/free-icon/development_2629663?term=optimize&page=1&position=27&origin=search&related_id=2629663)
+</h4>
+
+</h1>
 
 ### Go smart
 
@@ -363,13 +369,7 @@ on the environment and connect with others who share your values.
 <h1 align="center">
 	<img height="200"  width="200" src="media/eco.png" alt="">
 
-<h4 align="right">
 
-[Image source](https://www.flaticon.com/free-icon/development_2629663?term=optimize&page=1&position=27&origin=search&related_id=2629663)
-
-</h4>
-
-</h1>
 
 ## Understanding the value of a sustainable lifestyle
 
