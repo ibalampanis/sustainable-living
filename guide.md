@@ -1,5 +1,41 @@
 # Sustainable Living: Tips and Tricks for a Greener Lifestyle
 
+---
+
+## Table of Contents
+
+---
+
+- [Getting started with sustainable & green living](#getting-started-with-sustainable--green-living)
+- [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started-)
+  - [Reduce your energy consumption](#reduce-your-energy-consumption)
+  - [Use sustainable transportation](#use-sustainable-transportation)
+  - [Reduce your water usage](#reduce-your-water-usage)
+  - [Reduce your waste](#reduce-your-waste)
+  - [Eat a plant-based diet](#eat-a-plant-based-diet)
+  - [Support eco-friendly businesses](#support-eco-friendly-businesses)
+  - [Get involved in your community](#get-involved-in-your-community)
+  - [Reduce your washing](#reduce-your-washing)
+  - [Clean with castile](#clean-with-castile)
+  - [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
+  - [Recycle as much as you can](#recycle-as-much-as-you-can)
+  - [Look after your electrical appliances](#look-after-your-electrical-appliances)
+  - [Create clean air](#create-clean-air)
+  - [Change your shower head](#change-your-shower-head)
+  - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
+  - [Practise eco-driving](#practise-eco-driving)
+  - [Draught-proof your home](#draught-proof-your-home)
+  - [Buy vintage furniture](#buy-vintage-furniture)
+  - [Optimise your white goods](#optimise-your-white-goods)
+  - [Go smart](#go-smart)
+  - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
+- [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
+- [European Union's (EU) 2030 Agenda for Sustainable Development](#european-union--s--eu--2030-agenda-for-sustainable-development)
+- [Citations](#citations)
+- [Interesting videos](#interesting-videos)
+
+---
+
 ## Getting started with sustainable & green living
 
 Defining environmental sustainability in a clear and intelligible way, is of paramount importance, in order to approach
