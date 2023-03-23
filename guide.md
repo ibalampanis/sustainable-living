@@ -4,9 +4,15 @@
 <h1 align="center">
 	<img width="150" src="media/energy-efficiency.jpg">
 	<br>
+    <br>
 </h1>
 
 * **Use sustainable transportation:** Instead of driving everywhere, consider walking, biking, or taking public transportation. This will not only reduce your carbon footprint but also improve your health.
+<h1 align="center">
+	<img width="400" src="media/sustainable_transportation.png">
+	<br>
+    <br>
+</h1>
 
 * **Reduce your water usage:** You can conserve water by taking shorter showers, fixing leaky faucets, and watering your lawn and garden only when necessary.
 
