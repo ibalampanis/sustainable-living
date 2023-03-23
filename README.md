@@ -1,6 +1,6 @@
 # Sustainable Living: Tips and Tricks for a Greener Lifestyle
 <h1 align="center">
-	<img width="300" src="media/green_earth.png" alt="green_earth">
+	<img width="300" src="media/green_earth.png" >
 	<br>
 </h1>
 
