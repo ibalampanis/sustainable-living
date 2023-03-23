@@ -230,6 +230,15 @@ Applying and including the above practices to your everyday life, will certainly
     - don't forget that it's all about collaboration and contribution when we need game-changing results
     - make the first step for the desired domino effect
 
+## European Union's (EU) 2030 Agenda for Sustainable Development
+EU's [2030 agenda](https://sdgs.un.org/2030agenda) is a large and ambitious project, aimed to tackle many issues humanity faces, related to the UN's [17 Sustainable Development Goals](https://sdgs.un.org/goals). It comprises 169 targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
+
+- **People**: everyone deserves to have the opportunity to live a dignified life, away from poverty and realize their dreams and potential.
+- **Planet**: we have to protect our planet from its demise, embracing sustainable means in production and consumption, optimizing our natural resource management, ensuring that the present and future generations can survive.
+- **Prosperity**: everybody should be able to live in economic, social and technological prosperity.
+- **Peace**: sustainable development needs a world where people will no longer live in conflict and violence.
+- **Partnership**: to achieve goals of sustainable development, we have to work together as we depend on each other to prosper.
+
 ## Citations
 
 1. Gendre, I. (2023, February 28). What is green living? Greenly. Retrieved March 23, 2023, from https://greenly.earth/en-us/blog/company-guide/what-is-green-living 
