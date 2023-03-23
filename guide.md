@@ -15,6 +15,11 @@
 </h1>
 
 * **Reduce your water usage:** You can conserve water by taking shorter showers, fixing leaky faucets, and watering your lawn and garden only when necessary.
+<h1 align="center">
+	<img width="300" src="media/water_usage.png">
+	<br>
+    <br>
+</h1>
 
 * **Reduce your waste:** Recycling is a great way to reduce waste, but it's even better to reduce the amount of waste you produce in the first place. Consider using reusable bags, containers, and water bottles, and composting your food scraps.
 
