@@ -368,7 +368,12 @@ on the environment and connect with others who share your values.
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/eco.png" alt="">
+</h1>
+<h4 align=right>
 
+[Image source](https://www.flaticon.com/free-icon/ecology-364_10142464?term=eco&page=1&position=33&origin=search&related_id=10142464)
+
+</h4>
 
 
 ## Understanding the value of a sustainable lifestyle
