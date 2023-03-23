@@ -49,10 +49,11 @@ You can conserve water by taking shorter showers, fixing leaky faucets, and wate
 ### Reduce your waste
 Recycling is a great way to reduce waste, but it's even better to reduce the amount of waste you produce in the first place. Consider using reusable bags, containers, and water bottles, and composting your food scraps.
 <h1 align="center">
-	<img height="200"  width="200" src="media/reuse.png">
+	<img width="200" src="media/reduce_waste.png">
 	<h4 align="right">
 
-[Image source](https://www.flaticon.com/free-icon/reuse_1012887)
+[Image source](https://www.thantmyanmar.com/en/engagement/reduce-plastic-waste-in-organizations)
+
 </h4>
 </h1>
 
