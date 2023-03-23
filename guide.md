@@ -29,7 +29,7 @@
 	<img width="300" src="media/water_usage.png">
 	<h4 align="right">
 
-[Image source](https://www.thecivilengineer.org/news/european-cities-lead-the-way-to-sustainable-transport)
+[Image source](https://www.ci.colton.ca.us/839/Water-Efficiency)
 
 </h4>
 <br>
@@ -40,7 +40,7 @@
 	<img width="300" src="media/recycling.png">
 	<h4 align="right">
 
-[Image source](https://www.thecivilengineer.org/news/european-cities-lead-the-way-to-sustainable-transport)
+[Image source](https://www.nicepng.com/ourpic/u2q8i1u2r5r5r5q8_recycling-symbol-icon-outline-dark-green-recycling-logo/)
 
 </h4>
 <br>
@@ -73,7 +73,7 @@
 	<img width="400" src="media/volunteer.png">
 	<h4 align="right">
 
-[Image source](https://www.thecivilengineer.org/news/european-cities-lead-the-way-to-sustainable-transport)
+[Image source](https://kidsaidcolorado.org/volunteer/)
 
 </h4>
 <br>
