@@ -111,8 +111,8 @@ on the environment and connect with others who share your values.
 - ***"Waste Not Every day" by Erin Rhoads***, published by **Hardie Grant Books** and priced at £10, the biggest impact
   on the
   environment caused by fashion occurs after we bring clothing home. In fact, 82% of the energy a garment consumes is a
-  result of the washing and drying we do every week. Rhoads proposes alternatives to traditional washing, such as
-  spot-cleaning and using diluted vodka or lemon juice to eliminate odors.
+  result of the washing and drying we do every week. **Rhoads** proposes alternatives to traditional washing, such as
+  spot-cleaning and using diluted vodka or lemon juice to eliminate odors.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/washing-machine.png" alt="">
@@ -135,7 +135,7 @@ on the environment and connect with others who share your values.
   which was traditionally made with pure olive oil from Spain, but is now commonly produced by blending vegetable oils
   like hemp, avocado, jojoba, and coconut. For a straightforward and versatile kitchen spray, combine 50ml of castile
   soap with 800ml of tap water in a spray bottle, and add a few drops of essential oils, such as tea tree oil, which has
-  antibacterial properties. Finally, spray the solution and wipe it down with a clean cloth.
+  antibacterial properties. Finally, spray the solution and wipe it down with a clean cloth.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/clean.png" alt="">
@@ -153,7 +153,7 @@ on the environment and connect with others who share your values.
   protection,
   and she recommends purchasing a reusable tampon applicator. This applicator is reusable, fits any size of tampon, and
   is antimicrobial and simple to insert. Once used, it can be wiped, rinsed, and returned to its storage box, which
-  conveniently fits in a purse. It should be sterilized in hot water between periods for hygiene purposes.
+  conveniently fits in a purse. It should be sterilized in hot water between periods for hygiene purposes.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/plastic-free.png" alt="">
@@ -171,14 +171,14 @@ on the environment and connect with others who share your values.
 - **Helen Bird**, a plastics expert at Wrap, a government waste advisory organization, states that many major
   supermarkets
   offer in-store collection points for stretchy plastics such as carrier bags, bread bags, and frozen food bags, which
-  cannot typically be recycled at home.
+  cannot typically be recycled at home.<sup>2</sup>
 
 
 - **TerraCycle** is a company that specializes in rescuing waste that is difficult to recycle and is not handled by
   local
   councils. They offer national recycling programs free of charge, as well as sell zero-waste boxes that allow you to
   gather and return most non-organic, non-recyclable, and non-hazardous waste for recycling purposes. You can visit
-  their website to locate a program in your area or establish your own.
+  their website to locate a program in your area or establish your own.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/recycle-symbol.png" alt="">
@@ -198,14 +198,14 @@ on the environment and connect with others who share your values.
   regularly clean and maintain them. By doing so, white goods, laptops, and mobile devices can last longer. Restart
   operates a nationwide network of skill-sharing workshops and promotes a commercial repair directory in London. To find
   similar events in your area, visit repaircafe.org. Gunter stresses that if spare parts are not accessible, these
-  appliances may be discarded, resulting in a significant carbon impact.
+  appliances may be discarded, resulting in a significant carbon impact.<sup>2</sup>
 
 
 - If your electrical appliance is truly irreparable, **Rhoads** recommends contacting the manufacturer or the company
   from
   which you made the purchase to inquire if they would take back the item or its packaging for reuse or recycling. While
   not all charity shops accept electrical items, the homelessness charity Emmaus welcomes working items that are tested
-  before being resold, making it a great place to purchase secondhand electrical goods as well.
+  before being resold, making it a great place to purchase secondhand electrical goods as well.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/look_after_electrics.png" alt="">
@@ -226,7 +226,7 @@ on the environment and connect with others who share your values.
   it emits oxygen at night." Meanwhile, **Chillingsworth** claims that peace lilies and Boston ferns flourish in
   high-humidity environments and can decrease the concentration of mould spores in the air, making them suitable for
   bathrooms. Weeping figs are the best option for removing formaldehyde released by furniture and carpets, making them a
-  suitable choice for living areas.
+  suitable choice for living areas.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/plants.png" alt="">
@@ -244,7 +244,7 @@ on the environment and connect with others who share your values.
 - According to Brian Horne from the ***Energy Saving Trust (EST)***, "investing in an aerated shower head can have a
   significant impact on water and energy consumption." These shower heads incorporate air into the water flow, thereby
   reducing water usage. Horne explains that "a water-efficient shower head could save a four-person household £70 per
-  year on gas for water heating, as well as an additional £115 on water bills if they use a meter."
+  year on gas for water heating, as well as an additional £115 on water bills if they use a meter."<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/shower.png" alt="">
@@ -263,7 +263,7 @@ on the environment and connect with others who share your values.
   provider. Last year, the EST recognized four suppliers, including Green Energy UK, Good Energy, Ecotricity, and
   Octopus Energy, who openly disclosed the renewable sources of their energy on their websites. Nevertheless, Horne
   cautions that even if you opt for a green energy plan, it does not mean that you can neglect energy conservation
-  efforts.
+  efforts.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/green-energy.png" alt="">
@@ -286,7 +286,7 @@ on the environment and connect with others who share your values.
   additional 45kg decreases fuel economy by 2%). When driving at less than 40mph, it is more energy-efficient to open a
   window rather than using air conditioning. It is advised to switch off engines if they are idle for more than a
   minute (since 5-8% of fuel is consumed while idling), and avoid sudden acceleration and heavy braking as it can
-  significantly increase fuel consumption.
+  significantly increase fuel consumption.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/eco-driving.png" alt="">
@@ -305,9 +305,11 @@ on the environment and connect with others who share your values.
   low-energy
   design, draught-proofing windows, doors, letterboxes, fireplaces, and loft hatches is one of the most affordable and
   effective ways to save money and energy at home. It can be done professionally for approximately £200, or using
-  products such as Gap Seal, as a DIY project.
+  products such as Gap Seal, as a DIY project.<sup>2</sup>
 
-- Another easy way is to double-glaze your windows as non double-glazed windows can be the reason for a home to lose up to 30% of its heating or cooling.<sup>3</sup> You can also combine the windows with curtains with heavy liners, to close them when the sun sets not to lose any extra heat.
+- Another easy way is to double-glaze your windows as non double-glazed windows can be the reason for a home to lose up
+  to 30% of its heating or cooling.<sup>3</sup> You can also combine the windows with curtains with heavy liners, to
+  close them when the sun sets not to lose any extra heat.
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/window.png" alt="">
@@ -330,7 +332,7 @@ on the environment and connect with others who share your values.
   local auction houses and charity shops, such as the ***British Heart Foundation***, which offers dedicated home stores
   and a
   free collection service. After that, a focused search can be conducted on platforms such as Freecycle and Facebook
-  Marketplace.
+  Marketplace.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/clock.png" alt="">
@@ -345,26 +347,31 @@ on the environment and connect with others who share your values.
 
 ### Optimise your white goods
 
-- **U Switch**, an independent energy comparison service, suggests that the cost of running your fridge and freezer makes up
+- **U Switch**, an independent energy comparison service, suggests that the cost of running your fridge and freezer
+  makes up
   approximately 7% of your total energy bill, as they are among the few household devices that are constantly on. To
-  save energy, **U Switch** recommends replacing your fridge and/or freezer if it is over a decade old, even if it is still
+  save energy, **U Switch** recommends replacing your fridge and/or freezer if it is over a decade old, even if it is
+  still
   functioning. The cost of a new model will be offset by energy savings over time. Additionally, it is important to
   maintain your fridge's temperature at 5°C or below (most are kept at around 7°C, which causes food to spoil sooner),
   and ensure there is a 10cm gap behind it to allow heat to escape. Finally, check that the seal is strong, as if it
-  cannot hold a piece of paper when closed, it may be allowing warm air to enter, forcing it to work harder.
+  cannot hold a piece of paper when closed, it may be allowing warm air to enter, forcing it to work harder.<sup>2</sup>
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/optimize.png" alt="">
 <h4 align="right">
 
 [Image source](https://www.flaticon.com/free-icon/development_2629663?term=optimize&page=1&position=27&origin=search&related_id=2629663)
+
 </h4>
 
 </h1>
 
 ### Go smart
 
-- Try having smart home gadgets, like [programmable thermostat](https://www.energy.gov/energysaver/programmable-thermostats), leds or smart switches. This way you can control exaclty when you use anything in your home and monitor how much do you use it.
+- Try having smart home gadgets,
+  like [programmable thermostat](https://www.energy.gov/energysaver/programmable-thermostats), leds or smart switches.
+  This way you can control exactly when you use anything in your home and monitor how much do you use it.
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/eco.png" alt="">
@@ -377,8 +384,10 @@ on the environment and connect with others who share your values.
 
 ### Insulate, Insulate, Insulate
 
-- Your house isn't always that good at keeping in the heat. So try insulating around heat sources like [radiatiors](https://www.doityourself.com/stry/installing-reflective-insulation-behind-radiators), or places that are not usually insulating, like the attic.
-- Chimney ballons are also another way of insulating your home, of course, if you have a chimney.
+- Your house isn't always that good at keeping in the heat. So try insulating around heat sources
+  like [radiators](https://www.doityourself.com/stry/installing-reflective-insulation-behind-radiators), or places that
+  are not usually insulating, like the attic.
+- Chimney balloons are also another way of insulating your home, of course, if you have a chimney.
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/insulation.png" alt="">
@@ -388,7 +397,6 @@ on the environment and connect with others who share your values.
 [Image source](https://www.flaticon.com/free-icon/house_3638003?term=insulate&page=1&position=2&origin=search&related_id=3638003)
 
 </h4>
-
 
 ## Understanding the value of a sustainable lifestyle
 
