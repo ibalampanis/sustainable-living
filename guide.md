@@ -22,6 +22,11 @@
 </h1>
 
 * **Reduce your waste:** Recycling is a great way to reduce waste, but it's even better to reduce the amount of waste you produce in the first place. Consider using reusable bags, containers, and water bottles, and composting your food scraps.
+<h1 align="center">
+	<img width="300" src="media/recycling.png">
+	<br>
+    <br>
+</h1>
 
 * **Eat a plant-based diet:** Animal agriculture is a significant contributor to greenhouse gas emissions, so reducing your meat and dairy consumption can have a big impact on the environment. Try incorporating more plant-based meals into your diet.
 
