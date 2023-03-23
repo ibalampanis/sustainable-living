@@ -197,7 +197,7 @@ on the environment and connect with others who share your values.
   items. According to cofounder **Janet Gunter**, the initial step to extend the lifespan of household appliances is to
   regularly clean and maintain them. By doing so, white goods, laptops, and mobile devices can last longer. Restart
   operates a nationwide network of skill-sharing workshops and promotes a commercial repair directory in London. To find
-  similar events in your area, visit repaircafe.org. Gunter stresses that if spare parts are not accessible, these
+  similar events in your area, visit [repaircafe.org](https://www.repaircafe.org/en/). Gunter stresses that if spare parts are not accessible, these
   appliances may be discarded, resulting in a significant carbon impact.<sup>2</sup>
 
 
