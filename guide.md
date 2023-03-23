@@ -405,6 +405,7 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 1. Gendre, I. (2023, February 28). What is green living? Greenly. Retrieved March 23, 2023,
    from https://greenly.earth/en-us/blog/company-guide/what-is-green-living
 2. [The Guardian](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
+3. https://theecohub.com/sustainable-living-tips/
 
 ## Interesting videos
 
