@@ -115,3 +115,7 @@ Applying and including the above practices to your everyday life, will certainly
     - inspire and bring more people closer to the sustainable living model
     - don't forget that it's all about collaboration and contribution when we need game-changing results
     - make the first step for the desired domino effect
+
+## Citation
+
+Gendre, I. (2023, February 28). What is green living? Greenly. Retrieved March 23, 2023, from https://greenly.earth/en-us/blog/company-guide/what-is-green-living 
