@@ -375,6 +375,20 @@ on the environment and connect with others who share your values.
 
 </h4>
 
+### Insulate, Insulate, Insulate
+
+- Your house isn't always that good at keeping in the heat. So try insulating around heat sources like [radiatiors](https://www.doityourself.com/stry/installing-reflective-insulation-behind-radiators), or places that are not usually insulating, like the attic.
+- Chimney ballons are also another way of insulating your home, of course, if you have a chimney.
+
+<h1 align="center">
+	<img height="200"  width="200" src="media/insulation.png" alt="">
+</h1>
+<h4 align=right>
+
+[Image source](https://www.flaticon.com/free-icon/house_3638003?term=insulate&page=1&position=2&origin=search&related_id=3638003)
+
+</h4>
+
 
 ## Understanding the value of a sustainable lifestyle
 
