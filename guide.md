@@ -51,7 +51,7 @@
 	<img width="400" src="media/plant_based_diet.png">
 		<h4 align="right">
 
-[Image source](https://www.thecivilengineer.org/news/european-cities-lead-the-way-to-sustainable-transport)
+[Image source](https://www.dreamstime.com/vegan-logo-vegetarian-vector-icon-spoon-fork-leaf-graphic-design-element-vegan-logo-vegetarian-vector-icon-spoon-image157713288)
 
 </h4>
 <br>
