@@ -180,6 +180,8 @@ Houseplant cut-out inside green-rimmed circle
 - One of the cheapest, most effective ways to save energy and money at home is to draught-proof windows, doors, letterbox, fireplaces and loft hatches, says **Dr Sarah Price**, head of building physics at ***Enhabit***, a consultancy specialising in low-energy design. Done professionally, it costs about £200, or do it yourself with products such as Gap Seal.
 Furniture cut-out inside green-rimmed circle
 
+- Another easy way is to double-glaze your windows as non double-glazed windows can be the reason for a home to lose up to 30% of its heating or cooling.<sup>3</sup> You can also combine the windows with curtains with heavy liners, to close them when the sun sets not to lose any extra heat.
+
 <h1 align="center">
 	<img height="200"  width="200" src="media/window.png" alt="">
 <br>
