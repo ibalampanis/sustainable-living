@@ -307,6 +307,8 @@ on the environment and connect with others who share your values.
   effective ways to save money and energy at home. It can be done professionally for approximately £200, or using
   products such as Gap Seal, as a DIY project.
 
+- Another easy way is to double-glaze your windows as non double-glazed windows can be the reason for a home to lose up to 30% of its heating or cooling.<sup>3</sup> You can also combine the windows with curtains with heavy liners, to close them when the sun sets not to lose any extra heat.
+
 <h1 align="center">
 	<img height="200"  width="200" src="media/window.png" alt="">
 
