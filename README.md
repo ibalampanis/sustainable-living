@@ -1,4 +1,8 @@
 # Sustainable Living: Tips and Tricks for a Greener Lifestyle
+<h1 align="center">
+	<img width="300" src="media/green_earth.png" alt="green_earth">
+	<br>
+</h1>
 
 The purpose of this repository is to get familiar with Git and GitHub's concepts, and practice some basic commands. In addition, the project aims to provide a brief guide of tips and tricks for a sustainable living by the [Department of Management Science and Technology](https://www.dept.aueb.gr/en/dmst) of the [Athens University of Economics and Business](https://aueb.gr/en).
 
