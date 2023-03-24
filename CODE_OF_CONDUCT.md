@@ -22,7 +22,7 @@ scope by developing communication and cooperation skills.
 
 ```
 
-## DON'T NEED TO
+## AVOID
 
 ```diff
 
@@ -32,3 +32,14 @@ scope by developing communication and cooperation skills.
 - Obscure and unclear statements lead to misconception, so stay away of them
 
 ```
+
+<h1 align="center">
+	<img height="200"  width="200" src="media/codeofconduct.gif" alt="">
+
+<h4 align="right">
+
+[Image source](https://www.cbinigeria.com/why-your-organization-needs-to-write-a-code-of-conduct/)
+
+</h4>
+
+</h1>
