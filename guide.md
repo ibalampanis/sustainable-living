@@ -1,10 +1,14 @@
 # Sustainable Living: Tips and Tricks for a Greener Lifestyle
 
+![GitHub stars](https://img.shields.io/github/stars/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
+![GitHub stars](https://img.shields.io/github/forks/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
+![GitHub stars](https://img.shields.io/github/contributors/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
+![GitHub stars](https://img.shields.io/github/watchers/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
+![GitHub stars](https://img.shields.io/github/commit-activity/m/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
+
 ---
 
 ## Table of Contents
-
----
 
   - [What is Sustainable Living?](#what-is-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
