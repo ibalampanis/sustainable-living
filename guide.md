@@ -575,7 +575,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 
 
 <h1 align="center"> 
-	<img height="150"  width="150" src="media/Olio_logo.png" alt=""> 
+	<img height="150"  width="150" src="media/joulebug.jpg" alt=""> 
 	
 <h4 align="right"> 
 
@@ -594,7 +594,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioe
 
 
 <h1 align="center"> 
-	<img height="150"  width="150" src="media/joulebug.jpg" alt=""> 
+	<img height="150"  width="150" src="media/Olio_logo.png" alt=""> 
 	
 <h4 align="right"> 
 
