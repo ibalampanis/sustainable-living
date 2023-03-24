@@ -452,6 +452,7 @@ on the environment and connect with others who share your values.
 </h4>
 
 </h1>
+
 ### Invest in renewable energy solutions
 
 -Investing in renewable energy solutions, such as solar panels or wind turbines, can have a significant impact on reducing carbon emissions and mitigating the effects of climate change. 
