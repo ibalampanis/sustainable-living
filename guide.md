@@ -6,8 +6,6 @@
 
 ---
 
-- [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
-  - [Table of Contents](#table-of-contents)
   - [What is Sustainable Living?](#what-is-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
   - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
@@ -33,7 +31,7 @@
     - [Go smart](#go-smart)
     - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
     - [Use your own cup](#use-your-own-cup)
-    - [Invest in renewable energy solutions](#Invest-in-renewable-energy-solutions)
+    - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
@@ -606,6 +604,7 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
    from https://greenly.earth/en-us/blog/company-guide/what-is-green-living
 2. [The Guardian](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
 3. https://theecohub.com/sustainable-living-tips/
+4. https://theecohub.com/what-is-sustainable-living/
 
 ## Interesting videos
 
