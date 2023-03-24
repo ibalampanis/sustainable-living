@@ -272,7 +272,7 @@ on the environment and connect with others who share your values.
 
 <h4 align="right">
 
-[Image source](https://www.flaticon.com/free-icon/wrench_2092041?term=repair&page=1&position=3&origin=search&related_id=2092041)
+[Image source](https://www.flaticon.com/free-icon/plants_1703178?term=plant&page=1&position=16&origin=search&related_id=1703178)
 
 </h4>
 
