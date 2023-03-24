@@ -453,25 +453,6 @@ on the environment and connect with others who share your values.
 
 </h1>
 
-### Invest in renewable energy solutions
-
-
-- Investing in renewable energy solutions, such as solar panels or wind turbines, can have a significant impact on reducing carbon emissions and mitigating the effects of climate change. 
-
-- Renewable energy is becoming increasingly accessible and affordable, and many governments offer incentives and tax credits for homeowners and businesses to invest in these technologies.
-
-- By generating your own renewable energy, you can reduce your reliance on fossil fuels, save money on energy bills, and even generate income by selling surplus energy back to the grid. 
-
-<h1 align="center">
-	<img height="200"  width="200" src="media/energy.png" alt="">
-
-<h4 align="right">
-
-[Image source](https://cdn-icons-png.flaticon.com/512/3520/3520305.png)
-
-</h4>
-
-</h1>
 
 ## Understanding the value of a sustainable lifestyle
 
