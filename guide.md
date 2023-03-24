@@ -6,33 +6,36 @@
 
 ---
 
-- [Getting started with sustainable & green living](#getting-started-with-sustainable--green-living)
-- [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
-  - [Reduce your energy consumption](#reduce-your-energy-consumption)
-  - [Use sustainable transportation](#use-sustainable-transportation)
-  - [Reduce your water usage](#reduce-your-water-usage)
-  - [Reduce your waste](#reduce-your-waste)
-  - [Eat a plant-based diet](#eat-a-plant-based-diet)
-  - [Support eco-friendly businesses](#support-eco-friendly-businesses)
-  - [Get involved in your community](#get-involved-in-your-community)
-  - [Reduce your washing](#reduce-your-washing)
-  - [Clean with castile](#clean-with-castile)
-  - [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
-  - [Recycle as much as you can](#recycle-as-much-as-you-can)
-  - [Look after your electrical appliances](#look-after-your-electrical-appliances)
-  - [Create clean air](#create-clean-air)
-  - [Change your shower head](#change-your-shower-head)
-  - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
-  - [Practise eco-driving](#practise-eco-driving)
-  - [Draught-proof your home](#draught-proof-your-home)
-  - [Buy vintage furniture](#buy-vintage-furniture)
-  - [Optimise your white goods](#optimise-your-white-goods)
-  - [Go smart](#go-smart)
-  - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
-- [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
-- [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
-- [Citations](#citations)
-- [Interesting videos](#interesting-videos)
+- [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
+  - [Table of Contents](#table-of-contents)
+  - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
+  - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
+    - [Reduce your energy consumption](#reduce-your-energy-consumption)
+    - [Use sustainable transportation](#use-sustainable-transportation)
+    - [Reduce your water usage](#reduce-your-water-usage)
+    - [Reduce your waste](#reduce-your-waste)
+    - [Eat a plant-based diet](#eat-a-plant-based-diet)
+    - [Support eco-friendly businesses](#support-eco-friendly-businesses)
+    - [Get involved in your community](#get-involved-in-your-community)
+    - [Reduce your washing](#reduce-your-washing)
+    - [Clean with castile](#clean-with-castile)
+    - [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
+    - [Recycle as much as you can](#recycle-as-much-as-you-can)
+    - [Look after your electrical appliances](#look-after-your-electrical-appliances)
+    - [Create clean air](#create-clean-air)
+    - [Change your shower head](#change-your-shower-head)
+    - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
+    - [Practise eco-driving](#practise-eco-driving)
+    - [Draught-proof your home](#draught-proof-your-home)
+    - [Buy vintage furniture](#buy-vintage-furniture)
+    - [Optimise your white goods](#optimise-your-white-goods)
+    - [Go smart](#go-smart)
+    - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
+    - [Use your own cup](#use-your-own-cup)
+  - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
+  - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
+  - [Citations](#citations)
+  - [Interesting videos](#interesting-videos)
 
 ---
 
@@ -433,6 +436,21 @@ on the environment and connect with others who share your values.
 [Image source](https://www.flaticon.com/free-icon/house_3638003?term=insulate&page=1&position=2&origin=search&related_id=3638003)
 
 </h4>
+
+### Use your own cup
+
+- According to the [Guardian](https://www.theguardian.com/environment/2020/apr/26/why-britains-25-billion-paper-coffee-cups-are-an-eco-disaster), in the UK alone 2.5 billion paper cups were used, most of which were used only once. On average, a paper cup requires 0.58 liters of water to be produced, and leaves a carbon footprint of 60.9 grams of carbon dioxide. By using your cup when buying a coffee, you can reduce the amount of waste produced by single-use cups, protect the environment and even spend less money long-term.
+
+<h1 align="center">
+	<img height="200"  width="200" src="media/coffee-cup-icon.jpeg" alt="">
+
+<h4 align="right">
+
+[Image source](https://icon-library.com/icon/coffee-cup-icon-png-20.html)
+
+</h4>
+
+</h1>
 
 ## Understanding the value of a sustainable lifestyle
 
