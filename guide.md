@@ -567,11 +567,31 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 
 
 <h1 align="center"> 
-	<img height="150"  width="150" src="media/joulebug.jpg" alt=""> 
+	<img height="150"  width="150" src="media/Olio_logo.png" alt=""> 
 	
 <h4 align="right"> 
 
 [Image source](https://www.educationalappstore.com/images/upload/10750-logo-joulebug.jpg)
+
+</h4> 
+
+</h1>
+
+</h1>
+
+### Olio
+
+Olio is a food-sharing app that allows you to connect with neighbors and local businesses to share excess food that might otherwise go to waste.
+
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioex.android&hl=en&gl=US) , [App Store](https://apps.apple.com/gb/app/olio/id1008237086)
+
+
+<h1 align="center"> 
+	<img height="150"  width="150" src="media/joulebug.jpg" alt=""> 
+	
+<h4 align="right"> 
+
+[Image source](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olio_new_logo.png/220px-Olio_new_logo.png)
 
 </h4> 
 
