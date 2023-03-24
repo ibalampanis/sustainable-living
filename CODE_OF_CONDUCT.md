@@ -29,7 +29,7 @@ scope by developing communication and cooperation skills.
 - Pejorative and insulting language is undesirable
 - Harassment of any kind MUST be excluded
 - Ironic and sarcastic judgement is definitely unwanted
-- Obscure and unclear statements lead to misconception, so stay away of them
+- Obscure and unclear statements lead to misconception, so stay away from them
 
 ```
 
