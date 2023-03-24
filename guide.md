@@ -48,7 +48,7 @@
 
 **Make the right decisions today, save the planet of tomorrow!**
 
-The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use of the Earth’s natural resources either as individuals or society. 
+The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use of the Earth’s natural resources, either as individuals or as a society. 
 
 The aim of Sustainable Living is to minimize as possible the harm inevitably caused to our planet by our own actions. In our modern world of fast living and overconsuming, we may not understand how important it is not only for us, but also for the generations to come to protect and care after our environment. Climate change, rising sea levels, extreme weather conditions and ozone layer thinning are all human induced problems that could result in our planet being doomed.
 
