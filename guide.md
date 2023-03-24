@@ -8,6 +8,7 @@
 
 - [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
   - [Table of Contents](#table-of-contents)
+  - [What is NOT Sustainable Living?](#what-is-NOT-sustainable-living)
   - [What is Sustainable Living?](#what-is-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
   - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
@@ -48,11 +49,20 @@
 
 ## What is Sustainable Living?
 
-**Make the right desicions today, save the planet of tomorrow!**
+**Make the right decisions today, save the planet of tomorrow!**
 
 The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use of the Earth’s natural resources either as individuals or society. 
 
-The aim of Sustainable Living is to minimise as possible the harm inevitably caused to our planet by our own actions. In our modern world of fast living and overconsuming, we may not understand how important it is not only for us, but also for the generations to come to protect and care after our environment. Climate change, rising sea levels, melting glaciers and ozone layer thinning are all human induced problems that could have are planet doomed.
+The aim of Sustainable Living is to minimize as possible the harm inevitably caused to our planet by our own actions. In our modern world of fast living and overconsuming, we may not understand how important it is not only for us, but also for the generations to come to protect and care after our environment. Climate change, rising sea levels, melting glaciers and ozone layer thinning are all human induced problems that could have are planet doomed.
+
+## What is NOT Sustainable Living?
+
+To be clear about sustainability lets define un-sustainability as well with an example, shall we? So lets imagine you wake up a in world where 100000000 (finite number) apples are laying down in the ground, that don't go bad - for ever. 
+" Woooooooooooooow i have food for ever" you think.
+So you eat apples everyday. But instead of eating one a day, you say:
+" I have these many apples, why eat just one? Right people?"
+And all your friends in your community agreed. So everyone started eating 10 apples a day (imaginary world okay?) and at some point 100 and then 1000 and then 10000...
+In the mean time, in your community people were having children that were getting used to having the privilege of eating as many apples as they wanted. However, as the number of apples is finite, the children got anxious and nervous at their parents for being so wasteful and greedy with the apples, thinking they own them... So they started protesting but their parents didn't care. And they kept eating and eating till 5 apples were left in the world. So no more apples for the children's generation.
 
 ## Getting started with sustainable & green living
 
