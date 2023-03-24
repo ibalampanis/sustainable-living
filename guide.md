@@ -34,6 +34,9 @@
     - [Use your own cup](#use-your-own-cup)
     - [Invest in renewable energy solutions](#Invest-in-renewable-energy-solutions)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
+  - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
+    - [Recycle!](#use-sustainable-transportation)
+    - [ECOSIA](#reduce-your-water-usage)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
   - [Interesting videos](#interesting-videos)
@@ -492,6 +495,28 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
     - inspire and bring more people closer to the sustainable living model
     - don't forget that it's all about collaboration and contribution when we need game-changing results
     - make the first step for the desired domino effect
+
+---
+
+## Apps you can use to help you live sustainably
+
+---
+
+### Ecosia
+
+Get Ecosia’s browser to start planting trees with your searches. Ecosia is a search engine that makes money through ads, but uses 100% of the profits for the planet. The Ecosia community has already planted 150 million trees in over 35 countries.
+
+
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosia.android&hl=en&gl=US) , [App Store](https://apps.apple.com/us/app/ecosia/id670881887)
+
+
+### Geco air
+
+Geco air is your mobility companion that allows you to reduce the pollution linked to your displacements. Benefit from personalized advice to improve your driving style or mobility habits.
+
+
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen.gecoair&hl=en&gl=US) , [App Store](https://apps.apple.com/us/app/geco-air-air-quality/id1169064121)
+
 
 ## European Union's (EU) 2030 Agenda for Sustainable Development
 
