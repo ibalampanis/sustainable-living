@@ -48,11 +48,16 @@
 
 ## What is Sustainable Living?
 
-**Make the right desicions today, save the planet of tomorrow!**
+**Make the right decisions today, save the planet of tomorrow!**
 
 The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use of the Earth’s natural resources either as individuals or society. 
 
-The aim of Sustainable Living is to minimise as possible the harm inevitably caused to our planet by our own actions. In our modern world of fast living and overconsuming, we may not understand how important it is not only for us, but also for the generations to come to protect and care after our environment. Climate change, rising sea levels, melting glaciers and ozone layer thinning are all human induced problems that could have are planet doomed.
+The aim of Sustainable Living is to minimize as possible the harm inevitably caused to our planet by our own actions. In our modern world of fast living and overconsuming, we may not understand how important it is not only for us, but also for the generations to come to protect and care after our environment. Climate change, rising sea levels, extreme weather conditions and ozone layer thinning are all human induced problems that could result in our planet being doomed.
+
+Despite the benefits of Sustainable Living to our environment, individuals that choose to live by that philosophy can improve their wellbeing, both psychologically and physically. Generally, the quality of a person’s life is directly affected by their habits and the way they choose to live. For example, Sustainable living can urge people to adopt healthier habits and decrease their dependance on artificial machines by altering them in more eco-friendly options.
+
+**In that way Sustainable Living makes you use less, want less, need less.** 
+
 
 ## Getting started with sustainable & green living
 
