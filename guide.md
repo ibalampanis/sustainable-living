@@ -32,6 +32,7 @@
     - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
     - [Use your own cup](#use-your-own-cup)
     - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
+    - [Use LED lights](#use-led-lights)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
@@ -48,7 +49,7 @@
 
 **Make the right decisions today, save the planet of tomorrow!**
 
-The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use of the Earth’s natural resources, either as individuals or as a society. 
+The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use of the Earth’s natural resources either as individuals or society. 
 
 The aim of Sustainable Living is to minimize as possible the harm inevitably caused to our planet by our own actions. In our modern world of fast living and overconsuming, we may not understand how important it is not only for us, but also for the generations to come to protect and care after our environment. Climate change, rising sea levels, extreme weather conditions and ozone layer thinning are all human induced problems that could result in our planet being doomed.
 
@@ -489,6 +490,13 @@ on the environment and connect with others who share your values.
 </h4> 
 
 </h1>
+
+### Use LED Lights
+
+- Sam Allcock, in his article [Sustainable Living: 5 Ways To Do Your Part for The Planet](https://wealthofgeeks.com/sustainable-living-5-ways-to-do-your-part-for-the-planet/) states that a good way to reduce your energy use and carbon footprint is replacing traditional bulbs with Light Emitting Diodes (LED) lights.
+
+- LED lights have an exceptionally longer life span, while also consuming less energy. Also, unlike traditional bulbs, LED lights do not contain harmful materials and gasses, such as mercury. That way, you can save money of your electrical bill while also protecting yourself and the environment. 
+
 
 ## Understanding the value of a sustainable lifestyle
 
