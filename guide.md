@@ -509,6 +509,18 @@ Get Ecosia’s browser to start planting trees with your searches. Ecosia is a s
 
 Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosia.android&hl=en&gl=US) , [App Store](https://apps.apple.com/us/app/ecosia/id670881887)
 
+<h1 align="center"> 
+	<img height="200"  width="200" src="media/Ecosia.png" alt=""> 
+	
+<h4 align="right"> 
+
+[Image source](https://play-lh.googleusercontent.com/_nuyeEgn6In53vmNpgZkj2nVyR26CPZe3QxKOIk1jWVqwkt4WGWo6m4k4CGNS_3C7Og=s48-rw) 
+
+</h4> 
+
+</h1>
+
+
 
 ### Geco air
 
@@ -516,6 +528,19 @@ Geco air is your mobility companion that allows you to reduce the pollution link
 
 
 Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen.gecoair&hl=en&gl=US) , [App Store](https://apps.apple.com/us/app/geco-air-air-quality/id1169064121)
+
+
+<h1 align="center"> 
+	<img height="150"  width="150" src="media/geco air.png" alt=""> 
+	
+<h4 align="right"> 
+
+[Image source](https://play-lh.googleusercontent.com/bdcArYWzNKkmbUnNl1HS2egdggpNOazIAJhve_atbD2_dLEbkAidVz39EsMgHZV4DecH=w240-h480-rw)
+
+</h4> 
+
+</h1>
+
 
 
 ## European Union's (EU) 2030 Agenda for Sustainable Development
