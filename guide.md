@@ -573,6 +573,11 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 
 </h1>
 
+## Green Communities
+
+Green communities emerged in the 1960s such as Reston and Columbia. Now they exist all around the world.
+
+They are characterized by the use of ecologically friendly techniques to serve the requirements of its citizens. While lowering their carbon footprint, these communities aim to save future generations from degradation of the land, air, and water.
 
 ## European Union's (EU) 2030 Agenda for Sustainable Development
 
