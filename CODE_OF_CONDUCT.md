@@ -9,6 +9,7 @@ scope by developing communication and cooperation skills.
 
 ```diff
 
++ Plan ahead, while devoting the needed amount of time, in order to make sure that you hold a complete road map
 + Be reasonable when committing changes to the project
 + Be adaptive to the transforming environment
 + Be considerate and careful, emphasizing on your contribution's role and impact
@@ -17,6 +18,7 @@ scope by developing communication and cooperation skills.
 + Meet the proposed formal requirements, by using unambiguous and inclusive language
 + Be open and make good use of criticism
 + Treat your colleagues as you want to be treated
++ Share information, so everyone is on the same view at all times
 + Follow the practices and standards stated on README.md
 
 
@@ -30,6 +32,8 @@ scope by developing communication and cooperation skills.
 - Harassment of any kind MUST be excluded
 - Ironic and sarcastic judgement is definitely unwanted
 - Obscure and unclear statements lead to misconception, so stay away from them
+- Underestimating requirements leads to lack of control and project failure
+- Do not deviate from the project's scope
 
 ```
 
