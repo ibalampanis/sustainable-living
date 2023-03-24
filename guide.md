@@ -7,7 +7,7 @@
 ---
 
 - [Getting started with sustainable & green living](#getting-started-with-sustainable--green-living)
-- [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started-)
+- [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
   - [Reduce your energy consumption](#reduce-your-energy-consumption)
   - [Use sustainable transportation](#use-sustainable-transportation)
   - [Reduce your water usage](#reduce-your-water-usage)
@@ -30,7 +30,7 @@
   - [Go smart](#go-smart)
   - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
 - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
-- [European Union's (EU) 2030 Agenda for Sustainable Development](#european-union--s--eu--2030-agenda-for-sustainable-development)
+- [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
 - [Citations](#citations)
 - [Interesting videos](#interesting-videos)
 
