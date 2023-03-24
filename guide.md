@@ -493,18 +493,22 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 
 - Restrict your negative environmental impact
     - reduce your carbon footprint
+    - protect the planet's natural resources
 
 - Lessen your daily expenses, that being:
     - green energy is cost-effective and keeps your electricity bills at low levels
     - eco-friendly products are gradually becoming more affordable
 
 - Pave the way for a healthier life
-    - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues
+    - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues leading to improved overall health and well-being
 
 - Share and spread your green lifestyle profile
     - inspire and bring more people closer to the sustainable living model
     - don't forget that it's all about collaboration and contribution when we need game-changing results
     - make the first step for the desired domino effect
+
+- Support local communities
+    - create a more resilient and equitable economy
 
 ---
 
@@ -569,6 +573,11 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 
 </h1>
 
+## Green Communities
+
+Green communities emerged in the 1960s such as Reston and Columbia. Now they exist all around the world.
+
+They are characterized by the use of ecologically friendly techniques to serve the requirements of its citizens. While lowering their carbon footprint, these communities aim to save future generations from degradation of the land, air, and water.
 
 ## European Union's (EU) 2030 Agenda for Sustainable Development
 
