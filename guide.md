@@ -472,6 +472,7 @@ on the environment and connect with others who share your values.
 </h4>
 
 </h1>
+
 ## Understanding the value of a sustainable lifestyle
 
 Applying and including the above practices to your everyday life, will certainly be beneficial and valuable for both
