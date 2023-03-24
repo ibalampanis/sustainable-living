@@ -37,6 +37,7 @@
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
     - [Geco Air](#geco-air)
+    - [JouleBug](#joulebug)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
   - [Interesting videos](#interesting-videos)
@@ -541,6 +542,23 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen
 
 </h1>
 
+### JouleBug
+
+JouleBug aims to encourage sustainable behaviors in your daily routine by making them easy and enjoyable, rather than tedious or challenging. 
+
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug&gl=US&pli=1) , [App Store](https://apps.apple.com/us/app/joulebug/id391199306)
+
+
+<h1 align="center"> 
+	<img height="150"  width="150" src="media/joulebug.jpg" alt=""> 
+	
+<h4 align="right"> 
+
+[Image source](https://www.educationalappstore.com/images/upload/10750-logo-joulebug.jpg)
+
+</h4> 
+
+</h1>
 
 
 ## European Union's (EU) 2030 Agenda for Sustainable Development
