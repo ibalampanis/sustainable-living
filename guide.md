@@ -501,3 +501,10 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 3. [The future of sustainability–from Net Zero to Net Positive, TEDxPearlStreet](https://www.youtube.com/watch?v=EFlySkr6-10)
 4. [Sustainability In The Digital Age, TEDxBonn](https://www.youtube.com/watch?v=VpFgNZSwm-A)
 5. [What is Sustainability, UCLA](https://www.youtube.com/watch?v=zx04Kl8y4dE)
+
+## Current Contributors
+<a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ibalampanis/sustainable-living" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
