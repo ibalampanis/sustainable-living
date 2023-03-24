@@ -8,6 +8,7 @@
 
 - [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
   - [Table of Contents](#table-of-contents)
+  - [What is Sustainable Living?](#what-is-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
   - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
     - [Reduce your energy consumption](#reduce-your-energy-consumption)
@@ -43,6 +44,10 @@
   - [Interesting videos](#interesting-videos)
 
 ---
+
+## What is Sustainable Living?
+
+The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use of the Earth’s natural resources either as individuals or society. The aim of Sustainable Living is to minimise as possible the harm inevitably caused to our planet by our own actions. In our modern world of fast living and overconsuming we may not understand how important it is not only for us, but also for the generations to come to protect and care after our environment.
 
 ## Getting started with sustainable & green living
 
