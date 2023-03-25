@@ -763,5 +763,4 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
   <img src="https://contrib.rocks/image?repo=ibalampanis/sustainable-living" />
 </a>
 
-
 Made with [contrib.rocks](https://contrib.rocks).
