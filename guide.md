@@ -1,14 +1,10 @@
 # Sustainable Living: Tips and Tricks for a Greener Lifestyle
 
-![GitHub stars](https://img.shields.io/github/stars/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
-![GitHub stars](https://img.shields.io/github/forks/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
-![GitHub stars](https://img.shields.io/github/contributors/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
-![GitHub stars](https://img.shields.io/github/watchers/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
-![GitHub stars](https://img.shields.io/github/commit-activity/m/ibalampanis/sustainable-living?style=for-the-badge&color=green&logo=github)
-
 ---
 
 ## Table of Contents
+
+---
 
   - [What is Sustainable Living?](#what-is-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
@@ -37,6 +33,7 @@
     - [Use your own cup](#use-your-own-cup)
     - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
     - [Use LED lights](#use-led-lights)
+    - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
@@ -501,6 +498,26 @@ on the environment and connect with others who share your values.
 
 - LED lights have an exceptionally longer life span, while also consuming less energy. Also, unlike traditional bulbs, LED lights do not contain harmful materials and gasses, such as mercury. That way, you can save money of your electrical bill while also protecting yourself and the environment. 
 
+### Recycle And Recharge Batteries
+
+- Don't throw away used batteries in regular trash or choose rechargeable batteries. Most types of regular batteries contain materials and components very harmful both for people and the environment. They can be the cause to fires, or even explosions, and the pollution of soil. 
+
+- Here are some ways to recycle or safely discard conventional batteries, as stated by the [United States Environmental Protection Agency](https://www.epa.gov/recycle/used-household-batteries): 
+	1. To prevent fires from lithium-ion batteries, tape battery terminals and/or place batteries in separate plastic bags and never put these batteries in household garbage or recycling bins.
+	2. Choose the right recycling spot closer to you. [Earth911]( https://search.earth911.com/?what=Batteries) is a useful site for finding the right disposal spot.
+	3. Send your used batteries in mail-in recycle programs, such as [Call2Recycle](https://www.call2recycle.org/).
+
+
+<h1 align="center"> 
+	<img height="200"  width="200" src="media/battery.png" alt=""> 
+	
+<h4 align="right"> 
+
+[Image source](https://www.flaticon.com/free-icon/battery_10158226?term=battery&page=1&position=32&origin=search&related_id=10158226)
+
+</h4> 
+
+</h1>
 
 ## Understanding the value of a sustainable lifestyle
 
