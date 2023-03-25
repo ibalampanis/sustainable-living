@@ -33,7 +33,7 @@
     - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
     - [Use LED Lights](#use-led-lights)
     - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
-    - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items.](#Practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items.)
+    - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#Practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
@@ -577,7 +577,7 @@ on the environment and connect with others who share your values.
 
 </h1>
 
-### Practice mindful consumption by only buying what you need and repairing instead of replacing broken items.
+### Practice mindful consumption by only buying what you need and repairing instead of replacing broken items
 It involves considering the environmental impact, social implications, and personal needs before making a purchase.
 
 One business that encourages this movement is "Patagonia" which is a well-known outdoor apparel brand that is committed to reducing its environmental impact and promoting fair labor practises.
