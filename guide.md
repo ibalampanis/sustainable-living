@@ -478,7 +478,7 @@ on the environment and connect with others who share your values.
 
 <h4 align="right">
 
-[Image source](https://icon-library.com/icon/coffee-cup-icon-png-20.html)
+[Image source](https://www.flaticon.com/free-icon/paper-cup-of-coffee_66766?term=cup+of+coffee&page=1&position=60&origin=search&related_id=66766)
 
 </h4>
 
