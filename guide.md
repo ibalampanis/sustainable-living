@@ -7,6 +7,7 @@
   - [What is Sustainable Living?](#what-is-sustainable-living)
   - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
+  - [7 principles of sustainable living](#7-principles-of-sustainable-living)
   - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
     - [Reduce your energy consumption](#reduce-your-energy-consumption)
     - [Use sustainable transportation](#use-sustainable-transportation)
@@ -91,6 +92,93 @@ Following a green lifestyle, means to shape a way of life oriented to some earth
 - Protect natural resources by avoiding their overconsumption and safeguarding biodiversity
 - Be actively aware of the current threats posed to environment (i.e. climate crisis components) and get eco-conscious
 - Become more adaptive and open to eco-friendly practices
+
+## 7 principles of sustainable living
+---
+**1. Effective land use and wildlife protection**
+
+Effective land use and wildlife protection are two crucial components of sustainable development. Land use refers to the management of land resources in a way that optimizes economic, social, and environmental benefits while minimizing negative impacts. On the other hand, wildlife protection involves the conservation and management of wild animals and their habitats to ensure their survival.
+
+Effective land use and wildlife protection are closely interconnected since land use decisions can have a significant impact on wildlife and their habitats. For instance, unsustainable land use practices such as deforestation, land conversion for agriculture or urbanization, and infrastructure development can lead to habitat loss, fragmentation, and degradation, which threaten the survival of many species.
+
+Therefore, it is essential to adopt land use practices that minimize negative impacts on wildlife and their habitats while promoting sustainable economic development. This can be achieved through various approaches such as land-use planning, zoning, protected area management, and wildlife conservation strategies that consider the needs of both people and wildlife.
+
+---
+
+**2. Sustainable water usage**
+
+Sustainable water usage is the responsible and efficient management of water resources to meet the needs of the present without compromising the ability of future generations to meet their own needs. Sustainable water usage is essential because water is a finite resource, and its availability is increasingly under pressure due to population growth, climate change, and unsustainable water use practices.
+
+Sustainable water usage involves managing water demand through conservation and efficiency measures, reducing water losses through leakage prevention, and enhancing the quality of water resources through pollution control and wastewater treatment. It also involves promoting the use of alternative water sources such as rainwater harvesting, groundwater recharge, and recycled wastewater.
+
+Effective management of sustainable water usage requires the involvement of all stakeholders, including water users, water managers, policymakers, and communities. It requires the adoption of integrated water resource management approaches that take into account the water needs of different sectors, such as agriculture, industry, and households, as well as the ecological requirements of water-dependent ecosystems.
+
+Sustainable water usage is critical for ensuring water security and resilience, protecting human health, and promoting economic development. It also helps to mitigate the impacts of climate change by reducing water-related risks such as floods, droughts, and water scarcity. By adopting sustainable water usage practices, we can ensure the availability of water resources for future generations while maintaining the ecological integrity of our planet.
+
+---
+**3. Supporting local and organic foods**
+
+Supporting local and organic foods is a sustainable food production and consumption practice that promotes the consumption of locally grown, seasonal, and organic food. This approach aims to reduce the environmental impact of food production, support local economies, and improve the health and well-being of consumers.
+
+Local food refers to food produced within a certain geographical area, usually within 100 miles of the place of consumption. By supporting local food, consumers reduce the carbon footprint of food transportation, support local farmers and food producers, and promote food security and resilience.
+
+Organic food, on the other hand, refers to food produced without the use of synthetic pesticides, fertilizers, and genetically modified organisms (GMOs). Organic farming practices prioritize the use of renewable resources and the conservation of biodiversity, soil fertility, and water quality.
+
+Supporting local and organic foods also promotes healthier and more nutritious diets, as these foods tend to be fresher, more diverse, and less processed. In addition, local and organic foods are often produced using more sustainable farming methods, which help to reduce environmental impacts such as soil erosion, water pollution, and loss of biodiversity.
+
+By supporting local and organic foods, consumers can help to create a more sustainable food system that supports local economies, protects the environment, and promotes healthy and nutritious diets. This can be done by purchasing local and organic foods from farmers markets, community-supported agriculture (CSA) programs, and other local food initiatives.
+
+---
+**4. The use of sustainable materials**
+
+The use of sustainable materials refers to the practice of using materials that are environmentally responsible and have a minimal impact on the planet's natural resources. The goal is to reduce waste, conserve energy and resources, and minimize harm to the environment.
+
+Sustainable materials can come from a variety of sources, including renewable resources like wood, bamboo, and cotton, as well as recycled materials such as plastics, metals, and glass. These materials are often used in products that promote environmental sustainability, such as eco-friendly clothing, packaging, building materials, and furniture.
+
+In addition to their environmental benefits, sustainable materials can also provide economic benefits. For example, using recycled materials can reduce production costs, while using renewable resources can create jobs and support local economies.
+
+Overall, the use of sustainable materials is an important practice for reducing our impact on the environment and promoting a more sustainable future. By choosing products made from sustainable materials, we can help to reduce waste, conserve resources, and protect the planet for future generations.
+
+---
+**5. The use of sustainable transport**
+
+The use of sustainable transport refers to the practice of using modes of transportation that have a lower impact on the environment and contribute to a more sustainable future. The most common forms of sustainable transport are walking, cycling, and public transportation.
+
+Walking and cycling are both sustainable modes of transport as they are powered by human energy and emit no pollution. They also promote physical activity and can contribute to better health outcomes. However, they may not be practical for long distances or in areas with challenging terrain.
+
+Public transportation, such as buses and trains, is another form of sustainable transport. Public transportation systems are typically powered by electricity or other low-emission fuels and are able to move large numbers of people at once, reducing the number of individual cars on the road. This can help to reduce traffic congestion and air pollution.
+
+Other forms of sustainable transport include electric vehicles (EVs) and car-sharing services. EVs are powered by electricity and emit no tailpipe emissions, making them a cleaner alternative to traditional gasoline-powered vehicles. Car-sharing services allow multiple individuals to use a single vehicle, reducing the number of cars on the road and the associated environmental impact.
+
+Overall, the use of sustainable transport is an important practice for reducing our impact on the environment and promoting a more sustainable future. By choosing sustainable modes of transportation, we can help to reduce greenhouse gas emissions, improve air quality, and reduce our reliance on fossil fuels.
+
+---
+**6. Zero waste and zero carbon**
+
+Zero waste and zero carbon are two concepts that are closely related and are both aimed at reducing our impact on the environment.
+
+Zero waste refers to the practice of reducing, reusing, and recycling waste in order to divert it from landfills and minimize our impact on the environment. The goal is to create a closed loop system in which resources are kept in use for as long as possible, with the minimum amount of waste generated. This includes practices such as composting, recycling, and reducing single-use plastics and packaging. By implementing zero waste practices, we can help to reduce the amount of waste we produce and conserve natural resources.
+
+Zero carbon, on the other hand, refers to the goal of achieving net-zero carbon emissions. This means that any carbon emissions produced are offset by carbon sequestration or other measures. The primary sources of carbon emissions are from the burning of fossil fuels for transportation, heating, and electricity. Achieving zero carbon requires transitioning to renewable energy sources such as wind and solar power, as well as improving energy efficiency and reducing overall energy consumption.
+
+Both zero waste and zero carbon are important concepts for promoting sustainability and reducing our impact on the environment. By reducing waste and carbon emissions, we can help to protect the planet for future generations and create a more sustainable future.
+
+---
+**7. Creating own healthy environment**
+
+Creating your own healthy environment involves taking steps to reduce exposure to harmful substances and promote a safe and healthy living space. Here are some tips for creating a healthy environment:
+
+><b>Improve air quality</b>: Air pollution can negatively impact health, so it's important to take steps to improve indoor air quality. This can include using air filters, opening windows for ventilation, and avoiding the use of harsh chemicals and cleaners.
+
+><b>Reduce exposure to toxins</b>: Toxins such as lead, asbestos, and radon can be found in some homes and can be harmful to health. Take steps to identify and remove any sources of toxins in your home.
+
+><b>Use non-toxic products</b>: Choose non-toxic products for cleaning, personal care, and household items. This can help reduce exposure to harmful chemicals.
+
+><b>Promote natural light</b>: Natural light is important for both physical and mental health. Ensure that your home has plenty of natural light and consider using light therapy if necessary.
+
+><b>Create a calm and relaxing environment</b>: A calm and relaxing environment can promote mental health and well-being. This can be achieved by using calming colors, minimizing clutter, and incorporating natural elements such as plants and nature sounds.
+
+---
 
 ## There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:
 
