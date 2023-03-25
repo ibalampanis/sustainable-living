@@ -341,6 +341,22 @@ on the environment and connect with others who share your values.
 
 </h1>
 
+### Use a cup while brushing your teeth
+
+- According to glencanyon.org, not using a cup while brushing your teeth can result in spending extra 2-3 gallons of water every day. Make sure to have a cup while while brushing your teeth, and fill it with as much water as you will need. <sup>2</sup>
+
+<h1 align="center">
+        <img height="200"  width="200" src="media/toothbrush.png" alt="">
+
+<h4 align="right">
+
+[Image source](https://www.flaticon.com/free-icon/toothbrush_614651?term=toothbrush&page=1&position=6&origin=search&related_id=614651)
+
+</h4>
+
+</h1>
+
+
 ### Opt for green energy suppliers
 
 - According to **Horne**, there are different levels of environmental friendliness to consider when selecting an energy
