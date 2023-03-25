@@ -3,7 +3,29 @@
 Aiming to entrench a positive environment, we need to accept and adhere to some
 behavioral guidelines, while committing and engaging in the project. Embracing
 a collaborative - oriented conduct model, will bring us closer to the project's
-scope by developing communication and cooperation skills. 
+scope by developing communication and cooperation skills.
+
+## SCOPE
+
+This Code of Conduct applies to all spaces of the project, including the
+repository, the wiki, the blog, the social media pages, and any other
+communication channel that the project might have. The project's scope is
+defined by the project's aims and goals, and by the tasks that are being
+followed.
+
+## GOAL
+
+The Code of Conduct is meant to be a living document, that will be updated
+periodically, in order to cover any changes that might occur in the project's
+environment. The goal is to create a healthy and inclusive environment, where
+everyone can contribute to the project's success.
+
+## RESPONSIBILITY
+
+The project's maintainers are responsible for enforcing the Code of Conduct,
+and for clarifying any doubts or questions that might arise. The maintainers
+are also responsible for updating the Code of Conduct, in order to keep it
+relevant and up - to - date.
 
 ## NEED TO
 
