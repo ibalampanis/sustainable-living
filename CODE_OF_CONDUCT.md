@@ -50,6 +50,7 @@ relevant and up - to - date.
 
 ```diff
 
+- Any unethical or unprofessional conduct will not be tolerated
 - Pejorative and insulting language is undesirable
 - Harassment of any kind MUST be excluded
 - Ironic and sarcastic judgement is definitely unwanted
