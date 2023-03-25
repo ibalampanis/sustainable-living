@@ -713,6 +713,9 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 
 ---
 <br>
+
+<!-- ECOSIA -->
+
 <h3 style="font-size:20px" align="center">Ecosia</h3>
 
 <p align="center"> 
@@ -724,6 +727,7 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 [Image source](https://play-lh.googleusercontent.com/_nuyeEgn6In53vmNpgZkj2nVyR26CPZe3QxKOIk1jWVqwkt4WGWo6m4k4CGNS_3C7Og=s48-rw)
 
 </div> 
+
 <br>
 
 Get Ecosia’s browser to start planting trees with your searches. Ecosia is a search engine that makes money through ads, but uses 100% of the profits for the planet. The Ecosia community has already planted 150 million trees in over 35 countries.
@@ -731,9 +735,21 @@ Get Ecosia’s browser to start planting trees with your searches. Ecosia is a s
 
 Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosia.android&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/ecosia/id670881887)
 
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yRDA1ynrHTU">
+    <img src="media/Ecosia-video.png" alt="Image source" style="width: 50%; height: auto;">
+  </a>
+</p>
+<br>
 
 ---
 <br>
+
+<!-- GECO AIR -->
+
+
 <h3 style="font-size:20px" align="center">Geco air</h3>
 <br>
 <p align="center"> 
@@ -754,6 +770,8 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen
 ---
 <br>
 
+<!-- JOULEBUG -->
+
 <h3 style="font-size:20px" align="center">JouleBug</h3>
 <br>
 <p align="center"> 
@@ -772,6 +790,9 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 
 ---
 <br>
+
+<!-- OLIO -->
+
 
 <h3 style="font-size:20px" align="center">Olio</h3>
 <br>
@@ -794,6 +815,9 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioe
 
 ---
 <br>
+
+<!-- TOO GOOD TO GO -->
+
 
 <h3 style="font-size:20px" align="center">Too Good To Go</h3>
 <br>
@@ -819,6 +843,8 @@ on: [Google Play](https://play.google.com/store/apps/details?id=com.app.tgtg&gl=
 
 ---
 <br>
+
+<!-- FOREST: FOCUS FOR PRODUCTIVITY -->
 
 <h3 style="font-size:20px" align="center">Forest: Focus for Productivity</h3>
 <br>
