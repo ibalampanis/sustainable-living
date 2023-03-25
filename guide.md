@@ -42,6 +42,7 @@
     - [Olio](#olio)
     - [Too Good To Go](#too-good-to-go)
   - [Green Communities](#green-communities)
+  - [Testimonials](#Testimonials)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
   - [Interesting videos](#interesting-videos)
@@ -743,6 +744,14 @@ They are characterized by the use of ecologically friendly techniques to serve t
 lowering their carbon footprint, these communities aim to save future generations from degradation of the land, air, and
 water.
 
+## Testimonials
+>>We will talk about experiences and personal stories of people who embraced sustainable living mindset.
+
+* Emma Watson, Actress and UN Women Goodwill Ambassador.
+
+  Emma Watson has spoken publicly about her commitment to sustainability and environmentalism in various interviews and speeches.
+
+  Emma Watson has been an advocate for sustainable fashion and launched the Good On You app, which helps users discover eco-friendly and ethical clothing brands. She has also spoken out about the importance of reducing plastic waste and supports organizations like Greenpeace and Sky Ocean Rescue.
 ## European Union's (EU) 2030 Agenda for Sustainable Development
 
 EU's [2030 agenda](https://sdgs.un.org/2030agenda) is a large and ambitious project, aimed to tackle many issues
