@@ -35,6 +35,11 @@
     - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
+    - [Ecosia](#ecosia)
+    - [Geco air](#geco-air)
+    - [JouleBug](#joulebug)
+    - [Olio](#olio)
+    - [Too Good To Go](#too-good-to-go)
   - [Green Communities](#green-communities)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
@@ -606,7 +611,7 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 
 ---
 <br>
-<p style="font-size:20px" align="center">Ecosia</p>
+<h3 style="font-size:20px" align="center">Ecosia</h3>
 
 <p align="center"> 
 	<img height="200"  width="200" src="media/Ecosia.png" alt=""> 
@@ -627,7 +632,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosi
 
 ---
 <br>
-<p style="font-size:20px" align="center">Geco air</p>
+<h3 style="font-size:20px" align="center">Geco air</h3>
 <br>
 <p align="center"> 
 <img height="150"  width="150" src="media/geco air.png" alt=""> 
@@ -647,7 +652,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen
 ---
 <br>
 
-<p style="font-size:20px" align="center">JouleBug</p>
+<h3 style="font-size:20px" align="center">JouleBug</h3>
 <br>
 <p align="center"> 
 	<img height="150"  width="150" src="media/joulebug.jpg" alt=""> 
@@ -666,7 +671,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 ---
 <br>
 
-<p style="font-size:20px" align="center">Olio</p>
+<h3 style="font-size:20px" align="center">Olio</h3>
 <br>
 
 <p align="center"> 
@@ -688,7 +693,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioe
 ---
 <br>
 
-<p style="font-size:20px" align="center">Too Good To Go</p>
+<h3 style="font-size:20px" align="center">Too Good To Go</h3>
 <br>
 
 <p align="center"> 
