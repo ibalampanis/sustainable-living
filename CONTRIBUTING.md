@@ -15,10 +15,11 @@ The answer is **no**. You are a collaborator to this project, therefore you can 
 repository. This also means you **don't** have to fork this repository. If you are not a collaborator, please refer to
 the [README](README.md) file for more information.
 
-## Fixing vocabulary, grammar and syntax
+## Fixing vocabulary, grammar, syntax and style
 
-**Feel free** to correct any mistakes you see in the files! Keep in mind that you **should not** ruin other people's
-work, it is not nice (and I think there is a penalty for that)!
+**Feel free** to correct any mistakes you see in the files! Although keep in mind that you **should not** ruin other people's
+work. It is within our [Code of Conduct](https://github.com/ibalampanis/sustainable-living/blob/main/CODE_OF_CONDUCT.md) 
+to always be respectful to each other's work and, if that's not enough, there is definetely a penalty for that!
 
 ## Be creative
 
