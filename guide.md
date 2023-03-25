@@ -212,7 +212,7 @@ on the environment and connect with others who share your values.
 
 <h4 align="right">
 
-[Image source](https://www.flaticon.com/free-icon/man_10052271?term=detergent&page=1&position=51&origin=search&related_id=10052271)
+[Image source](rigin=search&related_id=10052271)
 
 </h4>
 </h1>
@@ -677,5 +677,6 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ibalampanis/sustainable-living" />
 </a>
+
 
 Made with [contrib.rocks](https://contrib.rocks).
