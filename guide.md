@@ -9,6 +9,7 @@
 - [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
   - [Table of Contents](#table-of-contents)
   - [What is Sustainable Living?](#what-is-sustainable-living)
+  - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
   - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
     - [Reduce your energy consumption](#reduce-your-energy-consumption)
@@ -35,12 +36,15 @@
     - [Use your own cup](#use-your-own-cup)
     - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
     - [Use LED Lights](#use-led-lights)
+    - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
+    - [Too Good To Go](#too-good-to-go)
   - [Green Communities](#green-communities)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
   - [Interesting videos](#interesting-videos)
+  - [Interesting podcasts](#interesting-podcasts)
   - [Current Contributors](#current-contributors)
 
 ---
@@ -49,14 +53,35 @@
 
 **Make the right decisions today, save the planet of tomorrow!**
 
-The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use of the Earth’s natural resources either as individuals or society. 
+The term Sustainable Living is used to express a lifestyle choice of reducing the carbon footprint and generally the use
+of the Earth’s natural resources either as individuals or society.
 
-The aim of Sustainable Living is to minimize as possible the harm inevitably caused to our planet by our own actions. In our modern world of fast living and overconsuming, we may not understand how important it is not only for us, but also for the generations to come to protect and care after our environment. Climate change, rising sea levels, extreme weather conditions and ozone layer thinning are all human induced problems that could result in our planet being doomed.
+The aim of Sustainable Living is to minimize as possible the harm inevitably caused to our planet by our own actions. In
+our modern world of fast living and over consuming, we may not understand how important it is not only for us, but also
+for the generations to come to protect and care after our environment. Climate change, rising sea levels, extreme
+weather conditions and ozone layer thinning are all human induced problems that could result in our planet being doomed.
 
-Despite the benefits of Sustainable Living to our environment, individuals that choose to live by that philosophy can improve their wellbeing, both psychologically and physically. Generally, the quality of a person’s life is directly affected by their habits and the way they choose to live. For example, Sustainable living can urge people to adopt healthier habits and decrease their dependance on artificial machines by altering them in more eco-friendly options.
+Despite the benefits of Sustainable Living to our environment, individuals that choose to live by that philosophy can
+improve their well-being, both psychologically and physically. Generally, the quality of a person’s life is directly
+affected by their habits and the way they choose to live. For example, Sustainable living can urge people to adopt
+healthier habits and decrease their dependence on artificial machines by altering them in more eco-friendly options.
 
-**In that way Sustainable Living makes you use less, want less, need less.** 
+**In that way Sustainable Living makes you use less, want less, need less.**
 
+## What is NOT Sustainable Living?
+
+To be clear about sustainability lets define un-sustainability as well with an example, shall we? So lets imagine you
+wake up an in world where 100000000 (finite number) apples are laying down in the ground, that don't go bad - for ever.
+" Woooooooooooooow i have food forever" you think.
+So you eat apples every day. But instead of eating one a day, you say:
+" I have these many apples, why eat just one? Right people?"
+And all your friends in your community agreed. So everyone started eating 10 apples a day (imaginary world okay?) and at
+some point 100 and then 1000 and then 10000...
+In the meantime, in your community people were having children that were getting used to having the privilege of eating
+as many apples as they wanted.
+However, as the number of apples is finite, the children got anxious and nervous at their parents for being so wasteful
+and greedy with the apples, thinking they own them... So they started protesting but their parents didn't care. And they
+kept eating and eating till 5 apples were left in the world. So no more apples for the children's generation.
 
 ## Getting started with sustainable & green living
 
@@ -200,7 +225,7 @@ on the environment and connect with others who share your values.
 
 <h4 align="right">
 
-[Image source](https://www.flaticon.com/free-icon/man_10052271?term=detergent&page=1&position=51&origin=search&related_id=10052271)
+[Image source](rigin=search&related_id=10052271)
 
 </h4>
 </h1>
@@ -255,7 +280,8 @@ on the environment and connect with others who share your values.
   items. According to cofounder **Janet Gunter**, the initial step to extend the lifespan of household appliances is to
   regularly clean and maintain them. By doing so, white goods, laptops, and mobile devices can last longer. Restart
   operates a nationwide network of skill-sharing workshops and promotes a commercial repair directory in London. To find
-  similar events in your area, visit [repaircafe.org](https://www.repaircafe.org/en/). Gunter stresses that if spare parts are not accessible, these
+  similar events in your area, visit [repaircafe.org](https://www.repaircafe.org/en/). Gunter stresses that if spare
+  parts are not accessible, these
   appliances may be discarded, resulting in a significant carbon impact.<sup>2</sup>
 
 
@@ -458,14 +484,19 @@ on the environment and connect with others who share your values.
 
 ### Use your own cup
 
-- According to the [Guardian](https://www.theguardian.com/environment/2020/apr/26/why-britains-25-billion-paper-coffee-cups-are-an-eco-disaster), in the UK alone 2.5 billion paper cups were used, most of which were used only once. On average, a paper cup requires 0.58 liters of water to be produced, and leaves a carbon footprint of 60.9 grams of carbon dioxide. By using your cup when buying a coffee, you can reduce the amount of waste produced by single-use cups, protect the environment and even spend less money long-term.
+- According to
+  the [Guardian](https://www.theguardian.com/environment/2020/apr/26/why-britains-25-billion-paper-coffee-cups-are-an-eco-disaster),
+  in the UK alone 2.5 billion paper cups were used, most of which were used only once. On average, a paper cup requires
+  0.58 liters of water to be produced, and leaves a carbon footprint of 60.9 grams of carbon dioxide. By using your cup
+  when buying a coffee, you can reduce the amount of waste produced by single-use cups, protect the environment and even
+  spend less money long-term.
 
 <h1 align="center">
-	<img height="200"  width="200" src="media/coffee-cup-icon.jpg" alt="">
+	<img height="200"  width="200" src="media/coffee-cup-icon.png" alt="">
 
 <h4 align="right">
 
-[Image source](https://icon-library.com/icon/coffee-cup-icon-png-20.html)
+[Image source](https://www.flaticon.com/free-icon/paper-cup-of-coffee_66766?term=cup+of+coffee&page=1&position=60&origin=search&related_id=66766)
 
 </h4>
 
@@ -473,19 +504,21 @@ on the environment and connect with others who share your values.
 
 ### Invest in renewable energy solutions
 
+- Investing in renewable energy solutions, such as solar panels or wind turbines, can have a significant impact on
+  reducing carbon emissions and mitigating the effects of climate change.
 
-- Investing in renewable energy solutions, such as solar panels or wind turbines, can have a significant impact on reducing carbon emissions and mitigating the effects of climate change.
- 
-- Renewable energy is becoming increasingly accessible and affordable, and many governments offer incentives and tax credits for homeowners and businesses to invest in these technologies.  
+- Renewable energy is becoming increasingly accessible and affordable, and many governments offer incentives and tax
+  credits for homeowners and businesses to invest in these technologies.
 
-- By generating your own renewable energy, you can reduce your reliance on fossil fuels, save money on energy bills, and even generate income by selling surplus energy back to the grid. 
+- By generating your own renewable energy, you can reduce your reliance on fossil fuels, save money on energy bills, and
+  even generate income by selling surplus energy back to the grid.
 
 <h1 align="center"> 
 	<img height="200"  width="200" src="media/energy.png" alt=""> 
-	
+
 <h4 align="right"> 
 
-[Image source](https://cdn-icons-png.flaticon.com/512/3520/3520305.png) 
+[Image source](https://cdn-icons-png.flaticon.com/512/3520/3520305.png)
 
 </h4> 
 
@@ -493,10 +526,39 @@ on the environment and connect with others who share your values.
 
 ### Use LED Lights
 
-- Sam Allcock, in his article [Sustainable Living: 5 Ways To Do Your Part for The Planet](https://wealthofgeeks.com/sustainable-living-5-ways-to-do-your-part-for-the-planet/) states that a good way to reduce your energy use and carbon footprint is replacing traditional bulbs with Light Emitting Diodes (LED) lights.
+- Sam Allcock, in his
+  article [Sustainable Living: 5 Ways To Do Your Part for The Planet](https://wealthofgeeks.com/sustainable-living-5-ways-to-do-your-part-for-the-planet/)
+  states that a good way to reduce your energy use and carbon footprint is replacing traditional bulbs with Light
+  Emitting Diodes (LED) lights.
 
-- LED lights have an exceptionally longer life span, while also consuming less energy. Also, unlike traditional bulbs, LED lights do not contain harmful materials and gasses, such as mercury. That way, you can save money of your electrical bill while also protecting yourself and the environment. 
+- LED lights have an exceptionally longer life span, while also consuming less energy. Also, unlike traditional bulbs,
+  LED lights do not contain harmful materials and gasses, such as mercury. That way, you can save money of your
+  electrical bill while also protecting yourself and the environment.
 
+### Recycle And Recharge Batteries
+
+- Don't throw away used batteries in regular trash or choose rechargeable batteries. Most types of regular batteries
+  contain materials and components very harmful both for people and the environment. They can be the cause to fires, or
+  even explosions, and the pollution of soil.
+
+- Here are some ways to recycle or safely discard conventional batteries, as stated by
+  the [United States Environmental Protection Agency](https://www.epa.gov/recycle/used-household-batteries):
+    1. To prevent fires from lithium-ion batteries, tape battery terminals and/or place batteries in separate plastic
+       bags and never put these batteries in household garbage or recycling bins.
+    2. Choose the right recycling spot closer to you. [Earth911]( https://search.earth911.com/?what=Batteries) is a
+       useful site for finding the right disposal spot.
+    3. Send your used batteries in mail-in recycle programs, such as [Call2Recycle](https://www.call2recycle.org/).
+
+<h1 align="center"> 
+	<img height="200"  width="200" src="media/battery.png" alt=""> 
+
+<h4 align="right"> 
+
+[Image source](https://www.flaticon.com/free-icon/battery_10158226?term=battery&page=1&position=32&origin=search&related_id=10158226)
+
+</h4> 
+
+</h1>
 
 ## Understanding the value of a sustainable lifestyle
 
@@ -512,7 +574,8 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
     - eco-friendly products are gradually becoming more affordable
 
 - Pave the way for a healthier life
-    - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues leading to improved overall health and well-being
+    - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues leading to improved overall
+      health and well-being
 
 - Share and spread your green lifestyle profile
     - inspire and bring more people closer to the sustainable living model
@@ -536,7 +599,7 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 
 <h4 align="right"> 
 
-[Image source](https://play-lh.googleusercontent.com/_nuyeEgn6In53vmNpgZkj2nVyR26CPZe3QxKOIk1jWVqwkt4WGWo6m4k4CGNS_3C7Og=s48-rw) 
+[Image source](https://play-lh.googleusercontent.com/_nuyeEgn6In53vmNpgZkj2nVyR26CPZe3QxKOIk1jWVqwkt4WGWo6m4k4CGNS_3C7Og=s48-rw)
 
 </h4> 
 <br>
@@ -611,11 +674,34 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioe
 <br>
 
 
+### Too Good To Go
+
+Too Good To Go is a mobile app that helps reduce food waste by connecting users with local restaurants and stores that
+have surplus food. Users can purchase food at a discounted price through the app, and the food is rescued from being
+thrown away.
+
+Get it
+on: [Google Play](https://play.google.com/store/apps/details?id=com.app.tgtg&gl=US) , [App Store](https://apps.apple.com/us/app/too-good-to-go-end-food-waste/id1060683933)
+
+
+<h1 align="center"> 
+	<img height="150"  width="150" src="media/too-good-to-go.png" alt=""> 
+
+<h4 align="right"> 
+
+[Image source](https://seeklogo.com/images/T/too-good-to-go-logo-D34C48CD2D-seeklogo.com.png)
+
+</h4> 
+
+</h1>
+
 ## Green Communities
 
 Green communities emerged in the 1960s such as Reston and Columbia. Now they exist all around the world.
 
-They are characterized by the use of ecologically friendly techniques to serve the requirements of its citizens. While lowering their carbon footprint, these communities aim to save future generations from degradation of the land, air, and water.
+They are characterized by the use of ecologically friendly techniques to serve the requirements of its citizens. While
+lowering their carbon footprint, these communities aim to save future generations from degradation of the land, air, and
+water.
 
 ## European Union's (EU) 2030 Agenda for Sustainable Development
 
@@ -648,9 +734,16 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 4. [Sustainability In The Digital Age, TEDxBonn](https://www.youtube.com/watch?v=VpFgNZSwm-A)
 5. [What is Sustainability, UCLA](https://www.youtube.com/watch?v=zx04Kl8y4dE)
 
+## Interesting podcasts
+
+1. [The Slow Home Podcast](https://www.slowyourhome.com/the-slow-home-podcast/)
+2. [A Sustainable Mind](https://asustainablemind.com/)
+
 ## Current Contributors
+
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ibalampanis/sustainable-living" />
 </a>
+
 
 Made with [contrib.rocks](https://contrib.rocks).
