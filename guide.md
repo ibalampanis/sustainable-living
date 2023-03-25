@@ -764,6 +764,7 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 2. [The Guardian](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
 3. https://theecohub.com/sustainable-living-tips/
 4. https://theecohub.com/what-is-sustainable-living/
+5. https://www.glencanyon.org/water-conservation/
 
 ## Interesting videos
 
