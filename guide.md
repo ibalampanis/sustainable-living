@@ -473,7 +473,7 @@ on the environment and connect with others who share your values.
 - According to the [Guardian](https://www.theguardian.com/environment/2020/apr/26/why-britains-25-billion-paper-coffee-cups-are-an-eco-disaster), in the UK alone 2.5 billion paper cups were used, most of which were used only once. On average, a paper cup requires 0.58 liters of water to be produced, and leaves a carbon footprint of 60.9 grams of carbon dioxide. By using your cup when buying a coffee, you can reduce the amount of waste produced by single-use cups, protect the environment and even spend less money long-term.
 
 <h1 align="center">
-	<img height="200"  width="200" src="media/coffee-cup-icon.jpg" alt="">
+	<img height="200"  width="200" src="media/coffee-cup-icon.png" alt="">
 
 <h4 align="right">
 
