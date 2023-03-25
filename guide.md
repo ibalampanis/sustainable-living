@@ -39,7 +39,6 @@
     - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
-    - [Too Good To Go](#too-good-to-go)
   - [Green Communities](#green-communities)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
@@ -673,8 +672,20 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioe
 ---
 <br>
 
+<p style="font-size:20px" align="center">Too Good To Go</p>
+<br>
 
-### Too Good To Go
+<p align="center"> 
+	<img height="150"  width="150" src="media/too-good-to-go.png" alt=""> 
+</p>
+
+<h4 align="right"> 
+
+[Image source](https://seeklogo.com/images/T/too-good-to-go-logo-D34C48CD2D-seeklogo.com.png)
+
+</h4> 
+
+<br>
 
 Too Good To Go is a mobile app that helps reduce food waste by connecting users with local restaurants and stores that
 have surplus food. Users can purchase food at a discounted price through the app, and the food is rescued from being
@@ -683,17 +694,8 @@ thrown away.
 Get it
 on: [Google Play](https://play.google.com/store/apps/details?id=com.app.tgtg&gl=US) , [App Store](https://apps.apple.com/us/app/too-good-to-go-end-food-waste/id1060683933)
 
-
-<h1 align="center"> 
-	<img height="150"  width="150" src="media/too-good-to-go.png" alt=""> 
-
-<h4 align="right"> 
-
-[Image source](https://seeklogo.com/images/T/too-good-to-go-logo-D34C48CD2D-seeklogo.com.png)
-
-</h4> 
-
-</h1>
+---
+<br>
 
 ## Green Communities
 
