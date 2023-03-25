@@ -1,10 +1,6 @@
 # Sustainable Living: Tips and Tricks for a Greener Lifestyle
 
----
-
 ## Table of Contents
-
----
 
 - [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
   - [Table of Contents](#table-of-contents)
@@ -71,7 +67,7 @@ healthier habits and decrease their dependence on artificial machines by alterin
 
 To be clear about sustainability lets define un-sustainability as well with an example, shall we? So lets imagine you
 wake up an in world where 100000000 (finite number) apples are laying down in the ground, that don't go bad - for ever.
-" Woooooooooooooow i have food forever" you think.
+" Woooooooooooooow I have food forever" you think.
 So you eat apples every day. But instead of eating one a day, you say:
 " I have these many apples, why eat just one? Right people?"
 And all your friends in your community agreed. So everyone started eating 10 apples a day (imaginary world okay?) and at
@@ -626,7 +622,7 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 Get Ecosia’s browser to start planting trees with your searches. Ecosia is a search engine that makes money through ads, but uses 100% of the profits for the planet. The Ecosia community has already planted 150 million trees in over 35 countries.
 
 
-Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosia.android&hl=en&gl=US) , [App Store](https://apps.apple.com/us/app/ecosia/id670881887)
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosia.android&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/ecosia/id670881887)
 
 
 ---
@@ -646,7 +642,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosi
 Geco air is your mobility companion that allows you to reduce the pollution linked to your displacements. Benefit from personalized advice to improve your driving style or mobility habits.
 
 
-Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen.gecoair&hl=en&gl=US) , [App Store](https://apps.apple.com/us/app/geco-air-air-quality/id1169064121)
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen.gecoair&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/geco-air-air-quality/id1169064121)
 
 ---
 <br>
@@ -665,7 +661,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen
 <br>
 JouleBug aims to encourage sustainable behaviors in your daily routine by making them easy and enjoyable, rather than tedious or challenging. 
 
-Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug&gl=US&pli=1) , [App Store](https://apps.apple.com/us/app/joulebug/id391199306)
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug&gl=US&pli=1), [App Store](https://apps.apple.com/us/app/joulebug/id391199306)
 
 ---
 <br>
@@ -687,7 +683,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 
 Olio is a food-sharing app that allows you to connect with neighbors and local businesses to share excess food that might otherwise go to waste.
 
-Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioex.android&hl=en&gl=US) , [App Store](https://apps.apple.com/gb/app/olio/id1008237086)
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioex.android&hl=en&gl=US), [App Store](https://apps.apple.com/gb/app/olio/id1008237086)
 
 ---
 <br>
@@ -712,7 +708,7 @@ have surplus food. Users can purchase food at a discounted price through the app
 thrown away.
 
 Get it
-on: [Google Play](https://play.google.com/store/apps/details?id=com.app.tgtg&gl=US) , [App Store](https://apps.apple.com/us/app/too-good-to-go-end-food-waste/id1060683933)
+on: [Google Play](https://play.google.com/store/apps/details?id=com.app.tgtg&gl=US), [App Store](https://apps.apple.com/us/app/too-good-to-go-end-food-waste/id1060683933)
 
 ---
 <br>
