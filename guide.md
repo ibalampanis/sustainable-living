@@ -33,6 +33,7 @@
     - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
     - [Use LED Lights](#use-led-lights)
     - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
+    - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items.](#Practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items.)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
