@@ -27,6 +27,7 @@
     - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
     - [Practise eco-driving](#practise-eco-driving)
     - [Draught-proof your home](#draught-proof-your-home)
+    - [Recycle your clothes and shop vintage](#recycle-your-clothes-and-shop-vintage)
     - [Buy vintage furniture](#buy-vintage-furniture)
     - [Optimise your white goods](#optimise-your-white-goods)
     - [Go smart](#go-smart)
@@ -537,6 +538,22 @@ on the environment and connect with others who share your values.
 <h4 align="right">
 
 [Image source](https://www.flaticon.com/free-icon/clock_1171793?term=vintage+furniture&page=1&position=1&origin=search&related_id=1171793)
+
+</h4>
+
+</h1>
+
+### Recycle your clothes and shop vintage
+
+- A good way to avoid buying clothes from fast fashion brands, but still keep within an affordable price range is buying vintage clothes from thrift stores. The trend of thrifting is ever growing and can even turn into a fun activity of fashion exploration.
+- You have a few extra clothes cluttering your closet? Recycling your clothes is an excellent way to get rid of that problem, while also helping to effectively fight clothing waste and pollution. You can find clothing recycling bins from [Recycom](https://www.recycom.gr/%CE%B1%CE%BD%CE%B1%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%83%CE%B7/) and [Fabric Republic](http://www.fabricrepublic.gr/form-offer/) around your city and in select clothing stores.
+
+<h1 align="center">
+	<img height="200"  width="200" src="media/recycleClothes.png" alt="">
+
+<h4 align="right">
+
+[Image source](https://www.istockphoto.com/vector/green-concept-of-recycle-clothes-and-textile-gm1175986553-327704559)
 
 </h4>
 
