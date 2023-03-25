@@ -559,6 +559,26 @@ on the environment and connect with others who share your values.
 
 </h1>
 
+### Practice mindful consumption by only buying what you need and repairing instead of replacing broken items.
+It involves considering the environmental impact, social implications, and personal needs before making a purchase.
+
+One business that encourages this movement is "Patagonia" which is a well-known outdoor apparel brand that is committed to reducing its environmental impact and promoting fair labor practises.
+
+We can adopt this mentality from books such as "The life-Changing Magic of Tidying Up" and "Cradle to Cradle".
+
+By being intentional about the things we buy and consume, we can reduce our environmental impact and promote social justice.
+
+<h1 align="center"> 
+	<img height="200"  width="200" src="media/consumption.png" alt=""> 
+
+<h4 align="right"> 
+
+[Image source](https://www.flaticon.com/free-icon/consumption_4816164?term=mindful+consumption&page=1&position=1&origin=search&related_id=4816164ed_id=10158226)
+
+</h4> 
+
+</h1>
+
 ## Understanding the value of a sustainable lifestyle
 
 Applying and including the above practices to your everyday life, will certainly be beneficial and valuable for both
