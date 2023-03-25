@@ -57,6 +57,8 @@ The aim of Sustainable Living is to minimize as possible the harm inevitably cau
 
 Despite the benefits of Sustainable Living to our environment, individuals that choose to live by that philosophy can improve their wellbeing, both psychologically and physically. Generally, the quality of a person’s life is directly affected by their habits and the way they choose to live. For example, Sustainable living can urge people to adopt healthier habits and decrease their dependance on artificial machines by altering them in more eco-friendly options.
 
+**In that way Sustainable Living makes you use less, want less, need less.** 
+
 ## What is NOT Sustainable Living?
 
 To be clear about sustainability lets define un-sustainability as well with an example, shall we? So lets imagine you wake up a in world where 100000000 (finite number) apples are laying down in the ground, that don't go bad - for ever. 
@@ -66,9 +68,6 @@ So you eat apples everyday. But instead of eating one a day, you say:
 And all your friends in your community agreed. So everyone started eating 10 apples a day (imaginary world okay?) and at some point 100 and then 1000 and then 10000...
 In the mean time, in your community people were having children that were getting used to having the privilege of eating as many apples as they wanted. 
 However, as the number of apples is finite, the children got anxious and nervous at their parents for being so wasteful and greedy with the apples, thinking they own them... So they started protesting but their parents didn't care. And they kept eating and eating till 5 apples were left in the world. So no more apples for the children's generation.
-
-**In that way Sustainable Living makes you use less, want less, need less.** 
-
 
 ## Getting started with sustainable & green living
 
@@ -672,6 +671,11 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 3. [The future of sustainability–from Net Zero to Net Positive, TEDxPearlStreet](https://www.youtube.com/watch?v=EFlySkr6-10)
 4. [Sustainability In The Digital Age, TEDxBonn](https://www.youtube.com/watch?v=VpFgNZSwm-A)
 5. [What is Sustainability, UCLA](https://www.youtube.com/watch?v=zx04Kl8y4dE)
+
+## Interesting podcasts 
+
+1. [The Slow Home Podcast](https://www.slowyourhome.com/the-slow-home-podcast/)
+2. [2. A Sustainable Mind](https://asustainablemind.com/)
 
 ## Current Contributors
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
