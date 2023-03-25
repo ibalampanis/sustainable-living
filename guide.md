@@ -969,6 +969,10 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 3. [The future of sustainability–from Net Zero to Net Positive, TEDxPearlStreet](https://www.youtube.com/watch?v=EFlySkr6-10)
 4. [Sustainability In The Digital Age, TEDxBonn](https://www.youtube.com/watch?v=VpFgNZSwm-A)
 5. [What is Sustainability, UCLA](https://www.youtube.com/watch?v=zx04Kl8y4dE)
+6. [11 Super Easy Zero Waste Swaps to Reduce Plastic at Home](https://www.youtube.com/watch?v=f-aW1_W6BmI)
+7. [Why I live a zero waste life, TEDxTeen](https://www.youtube.com/watch?v=pF72px2R3Hg)
+8. [Seven Billion Dreams. One Planet. Consume with Care.](https://www.youtube.com/watch?v=JyL58vlbvgw)
+9. [What really happens to the plastic you throw away, Ted-Ed](https://www.youtube.com/watch?v=_6xlNyWPpB8)
 
 ## Interesting podcasts
 
