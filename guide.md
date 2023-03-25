@@ -638,6 +638,17 @@ on the environment and connect with others who share your values.
   LED lights do not contain harmful materials and gasses, such as mercury. That way, you can save money of your
   electrical bill while also protecting yourself and the environment.
 
+<h1 align="center"> 
+	<img height="200"  width="200" src="media/led-light.png" alt=""> 
+
+<h4 align="right"> 
+
+[Image source](https://www.flaticon.com/free-icon/led-light_6134700?term=led&page=1&position=33&origin=search&related_id=6134700)
+
+</h4> 
+
+</h1>
+
 ### Recycle And Recharge Batteries
 
 - Don't throw away used batteries in regular trash or choose rechargeable batteries. Most types of regular batteries
