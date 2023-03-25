@@ -95,7 +95,9 @@ Following a green lifestyle, means to shape a way of life oriented to some earth
 - Become more adaptive and open to eco-friendly practices
 
 ## 7 principles of sustainable living
+
 ---
+
 **1. Effective land use and wildlife protection**
 
 Effective land use and wildlife protection are two crucial components of sustainable development. Land use refers to the management of land resources in a way that optimizes economic, social, and environmental benefits while minimizing negative impacts. On the other hand, wildlife protection involves the conservation and management of wild animals and their habitats to ensure their survival.
@@ -117,6 +119,7 @@ Effective management of sustainable water usage requires the involvement of all 
 Sustainable water usage is critical for ensuring water security and resilience, protecting human health, and promoting economic development. It also helps to mitigate the impacts of climate change by reducing water-related risks such as floods, droughts, and water scarcity. By adopting sustainable water usage practices, we can ensure the availability of water resources for future generations while maintaining the ecological integrity of our planet.
 
 ---
+
 **3. Supporting local and organic foods**
 
 Supporting local and organic foods is a sustainable food production and consumption practice that promotes the consumption of locally grown, seasonal, and organic food. This approach aims to reduce the environmental impact of food production, support local economies, and improve the health and well-being of consumers.
@@ -130,6 +133,7 @@ Supporting local and organic foods also promotes healthier and more nutritious d
 By supporting local and organic foods, consumers can help to create a more sustainable food system that supports local economies, protects the environment, and promotes healthy and nutritious diets. This can be done by purchasing local and organic foods from farmers markets, community-supported agriculture (CSA) programs, and other local food initiatives.
 
 ---
+
 **4. The use of sustainable materials**
 
 The use of sustainable materials refers to the practice of using materials that are environmentally responsible and have a minimal impact on the planet's natural resources. The goal is to reduce waste, conserve energy and resources, and minimize harm to the environment.
@@ -141,6 +145,7 @@ In addition to their environmental benefits, sustainable materials can also prov
 Overall, the use of sustainable materials is an important practice for reducing our impact on the environment and promoting a more sustainable future. By choosing products made from sustainable materials, we can help to reduce waste, conserve resources, and protect the planet for future generations.
 
 ---
+
 **5. The use of sustainable transport**
 
 The use of sustainable transport refers to the practice of using modes of transportation that have a lower impact on the environment and contribute to a more sustainable future. The most common forms of sustainable transport are walking, cycling, and public transportation.
@@ -154,6 +159,7 @@ Other forms of sustainable transport include electric vehicles (EVs) and car-sha
 Overall, the use of sustainable transport is an important practice for reducing our impact on the environment and promoting a more sustainable future. By choosing sustainable modes of transportation, we can help to reduce greenhouse gas emissions, improve air quality, and reduce our reliance on fossil fuels.
 
 ---
+
 **6. Zero waste and zero carbon**
 
 Zero waste and zero carbon are two concepts that are closely related and are both aimed at reducing our impact on the environment.
@@ -165,19 +171,20 @@ Zero carbon, on the other hand, refers to the goal of achieving net-zero carbon 
 Both zero waste and zero carbon are important concepts for promoting sustainability and reducing our impact on the environment. By reducing waste and carbon emissions, we can help to protect the planet for future generations and create a more sustainable future.
 
 ---
+
 **7. Creating own healthy environment**
 
 Creating your own healthy environment involves taking steps to reduce exposure to harmful substances and promote a safe and healthy living space. Here are some tips for creating a healthy environment:
 
-><b>Improve air quality</b>: Air pollution can negatively impact health, so it's important to take steps to improve indoor air quality. This can include using air filters, opening windows for ventilation, and avoiding the use of harsh chemicals and cleaners.
+> <b>Improve air quality</b>: Air pollution can negatively impact health, so it's important to take steps to improve indoor air quality. This can include using air filters, opening windows for ventilation, and avoiding the use of harsh chemicals and cleaners.
 
-><b>Reduce exposure to toxins</b>: Toxins such as lead, asbestos, and radon can be found in some homes and can be harmful to health. Take steps to identify and remove any sources of toxins in your home.
+> <b>Reduce exposure to toxins</b>: Toxins such as lead, asbestos, and radon can be found in some homes and can be harmful to health. Take steps to identify and remove any sources of toxins in your home.
 
-><b>Use non-toxic products</b>: Choose non-toxic products for cleaning, personal care, and household items. This can help reduce exposure to harmful chemicals.
+> <b>Use non-toxic products</b>: Choose non-toxic products for cleaning, personal care, and household items. This can help reduce exposure to harmful chemicals.
 
-><b>Promote natural light</b>: Natural light is important for both physical and mental health. Ensure that your home has plenty of natural light and consider using light therapy if necessary.
+> <b>Promote natural light</b>: Natural light is important for both physical and mental health. Ensure that your home has plenty of natural light and consider using light therapy if necessary.
 
-><b>Create a calm and relaxing environment</b>: A calm and relaxing environment can promote mental health and well-being. This can be achieved by using calming colors, minimizing clutter, and incorporating natural elements such as plants and nature sounds.
+> <b>Create a calm and relaxing environment</b>: A calm and relaxing environment can promote mental health and well-being. This can be achieved by using calming colors, minimizing clutter, and incorporating natural elements such as plants and nature sounds.
 
 ---
 
@@ -188,6 +195,7 @@ Creating your own healthy environment involves taking steps to reduce exposure t
 One of the most effective ways to reduce your carbon footprint is to use less energy. You can do this by turning off
 lights and electronics when you're not using them, using energy-efficient appliances, and sealing air leaks in your
 home.
+
 <h1 align="center">
 	<img width="125" src="media/energy-efficiency.jpg">
 <h4 align="right">
@@ -201,6 +209,7 @@ home.
 
 Instead of driving everywhere, consider walking, biking, or taking public transportation. This will not only reduce your
 carbon footprint but also improve your health.
+
 <h1 align="center">
 	<img width="250" src="media/sustainable_transportation.png">
 
@@ -215,6 +224,7 @@ carbon footprint but also improve your health.
 
 You can conserve water by taking shorter showers, fixing leaky faucets, and watering your lawn and garden only when
 necessary.
+
 <h1 align="center">
 	<img width="200" src="media/water_usage.png">
 	<h4 align="right">
@@ -228,6 +238,7 @@ necessary.
 
 Recycling is a great way to reduce waste, but it's even better to reduce the amount of waste you produce in the first
 place. Consider using reusable bags, containers, and water bottles, and composting your food scraps.
+
 <h1 align="center">
 	<img width="200" src="media/reduce_waste.png">
 	<h4 align="right">
@@ -241,6 +252,7 @@ place. Consider using reusable bags, containers, and water bottles, and composti
 
 Animal agriculture is a significant contributor to greenhouse gas emissions, so reducing your meat and dairy consumption
 can have a big impact on the environment. Try incorporating more plant-based meals into your diet.
+
 <h1 align="center">
 	<img width="275"  src="media/plant_based_diet.png">
 		<h4 align="right">
@@ -254,6 +266,7 @@ can have a big impact on the environment. Try incorporating more plant-based mea
 
 When shopping, look for products and businesses that prioritize sustainability and eco-friendliness. This can include
 buying products made from recycled materials, choosing products with minimal packaging, and supporting local businesses.
+
 <h1 align="center">
 	<img width="300" src="media/eco-shopping.png">
 <h4 align="right">
@@ -267,6 +280,7 @@ buying products made from recycled materials, choosing products with minimal pac
 
 Joining a local environmental organization or volunteering for environmental causes can help you make a positive impact
 on the environment and connect with others who share your values.
+
 <h1 align="center">
 	<img width="250" src="media/volunteer.png">
 	<h4 align="right">
@@ -278,7 +292,7 @@ on the environment and connect with others who share your values.
 
 ### Reduce your washing
 
-- ***"Waste Not Every day" by Erin Rhoads***, published by **Hardie Grant Books** and priced at £10, the biggest impact
+- **_"Waste Not Every day" by Erin Rhoads_**, published by **Hardie Grant Books** and priced at £10, the biggest impact
   on the
   environment caused by fashion occurs after we bring clothing home. In fact, 82% of the energy a garment consumes is a
   result of the washing and drying we do every week. **Rhoads** proposes alternatives to traditional washing, such as
@@ -343,7 +357,6 @@ on the environment and connect with others who share your values.
   offer in-store collection points for stretchy plastics such as carrier bags, bread bags, and frozen food bags, which
   cannot typically be recycled at home.<sup>2</sup>
 
-
 - **TerraCycle** is a company that specializes in rescuing waste that is difficult to recycle and is not handled by
   local
   councils. They offer national recycling programs free of charge, as well as sell zero-waste boxes that allow you to
@@ -370,7 +383,6 @@ on the environment and connect with others who share your values.
   similar events in your area, visit [repaircafe.org](https://www.repaircafe.org/en/). Gunter stresses that if spare
   parts are not accessible, these
   appliances may be discarded, resulting in a significant carbon impact.<sup>2</sup>
-
 
 - If your electrical appliance is truly irreparable, **Rhoads** recommends contacting the manufacturer or the company
   from
@@ -412,7 +424,7 @@ on the environment and connect with others who share your values.
 
 ### Change your shower head
 
-- According to Brian Horne from the ***Energy Saving Trust (EST)***, "investing in an aerated shower head can have a
+- According to Brian Horne from the **_Energy Saving Trust (EST)_**, "investing in an aerated shower head can have a
   significant impact on water and energy consumption." These shower heads incorporate air into the water flow, thereby
   reducing water usage. Horne explains that "a water-efficient shower head could save a four-person household £70 per
   year on gas for water heating, as well as an additional £115 on water bills if they use a meter."<sup>2</sup>
@@ -442,7 +454,6 @@ on the environment and connect with others who share your values.
 </h4>
 
 </h1>
-
 
 ### Opt for green energy suppliers
 
@@ -488,7 +499,7 @@ on the environment and connect with others who share your values.
 
 ### Draught-proof your home
 
-- According to **Dr Sarah Price**, who heads building physics at ***Enhabit***, a consultancy that specializes in
+- According to **Dr Sarah Price**, who heads building physics at **_Enhabit_**, a consultancy that specializes in
   low-energy
   design, draught-proofing windows, doors, letterboxes, fireplaces, and loft hatches is one of the most affordable and
   effective ways to save money and energy at home. It can be done professionally for approximately £200, or using
@@ -500,7 +511,6 @@ on the environment and connect with others who share your values.
 
 <h1 align="center">
 	<img height="200"  width="200" src="media/window.png" alt="">
-
 
 <h4 align="right">
 
@@ -516,7 +526,7 @@ on the environment and connect with others who share your values.
   the best
   thing to do, but it is also more enjoyable than buying new. Secondhand items come with interesting stories and prompt
   creative thinking, resulting in something unique. To minimize transportation distance, Harding suggests starting with
-  local auction houses and charity shops, such as the ***British Heart Foundation***, which offers dedicated home stores
+  local auction houses and charity shops, such as the **_British Heart Foundation_**, which offers dedicated home stores
   and a
   free collection service. After that, a focused search can be conducted on platforms such as Freecycle and Facebook
   Marketplace.<sup>2</sup>
@@ -617,13 +627,13 @@ on the environment and connect with others who share your values.
   even generate income by selling surplus energy back to the grid.
 
 <h1 align="center"> 
-	<img height="200"  width="200" src="media/energy.png" alt=""> 
+	<img height="200"  width="200" src="media/energy.png" alt="">
 
-<h4 align="right"> 
+<h4 align="right">
 
 [Image source](https://cdn-icons-png.flaticon.com/512/3520/3520305.png)
 
-</h4> 
+</h4>
 
 </h1>
 
@@ -639,13 +649,13 @@ on the environment and connect with others who share your values.
   electrical bill while also protecting yourself and the environment.
 
 <h1 align="center"> 
-	<img height="200"  width="200" src="media/led-light.png" alt=""> 
+	<img height="200"  width="200" src="media/led-light.png" alt="">
 
-<h4 align="right"> 
+<h4 align="right">
 
 [Image source](https://www.flaticon.com/free-icon/led-light_6134700?term=led&page=1&position=33&origin=search&related_id=6134700)
 
-</h4> 
+</h4>
 
 </h1>
 
@@ -657,24 +667,25 @@ on the environment and connect with others who share your values.
 
 - Here are some ways to recycle or safely discard conventional batteries, as stated by
   the [United States Environmental Protection Agency](https://www.epa.gov/recycle/used-household-batteries):
-    1. To prevent fires from lithium-ion batteries, tape battery terminals and/or place batteries in separate plastic
-       bags and never put these batteries in household garbage or recycling bins.
-    2. Choose the right recycling spot closer to you. [Earth911]( https://search.earth911.com/?what=Batteries) is a
-       useful site for finding the right disposal spot.
-    3. Send your used batteries in mail-in recycle programs, such as [Call2Recycle](https://www.call2recycle.org/).
+  1. To prevent fires from lithium-ion batteries, tape battery terminals and/or place batteries in separate plastic
+     bags and never put these batteries in household garbage or recycling bins.
+  2. Choose the right recycling spot closer to you. [Earth911](https://search.earth911.com/?what=Batteries) is a
+     useful site for finding the right disposal spot.
+  3. Send your used batteries in mail-in recycle programs, such as [Call2Recycle](https://www.call2recycle.org/).
 
 <h1 align="center"> 
-	<img height="200"  width="200" src="media/battery.png" alt=""> 
+	<img height="200"  width="200" src="media/battery.png" alt="">
 
-<h4 align="right"> 
+<h4 align="right">
 
 [Image source](https://www.flaticon.com/free-icon/battery_10158226?term=battery&page=1&position=32&origin=search&related_id=10158226)
 
-</h4> 
+</h4>
 
 </h1>
 
 ### Practice mindful consumption by only buying what you need and repairing instead of replacing broken items
+
 It involves considering the environmental impact, social implications, and personal needs before making a purchase.
 
 One business that encourages this movement is "Patagonia" which is a well-known outdoor apparel brand that is committed to reducing its environmental impact and promoting fair labor practises.
@@ -684,34 +695,36 @@ We can adopt this mentality from books such as "The life-Changing Magic of Tidyi
 By being intentional about the things we buy and consume, we can reduce our environmental impact and promote social justice.
 
 <h1 align="center"> 
-	<img height="200"  width="200" src="media/consumption.png" alt=""> 
+	<img height="200"  width="200" src="media/consumption.png" alt="">
 
-<h4 align="right"> 
+<h4 align="right">
 
 [Image source](https://www.flaticon.com/free-icon/consumption_4816164?term=mindful+consumption&page=1&position=1&origin=search&related_id=4816164ed_id=10158226)
 
-</h4> 
+</h4>
 
 </h1>
 
 ### Composting at Home
+
 The process of composting is how nature recycles. One of the most effective things we can do to lessen our trash, combat climate change, and create healthy soil is this, according to the [United States Environmental Protection Agency](https://www.epa.gov/recycle/composting-home). We can transform our waste streams into a useful, value-added soil supplement and use it to protect the environment and build resilient communities by turning our food scraps and yard waste into compost.
 
 **What You Can Compost at Home:**
 
 - Nitrogen-Rich Material (“Greens”)
-    - Food and vegetable scraps
-    - Most grass clippings and yard trim
-    - Coffee grounds and paper filters
-    - Paper tea bags (no staples)
-    - Eggshells (crushed)
+
+  - Food and vegetable scraps
+  - Most grass clippings and yard trim
+  - Coffee grounds and paper filters
+  - Paper tea bags (no staples)
+  - Eggshells (crushed)
 
 - Carbon-Rich Materials (“Browns”)
-    - Dry leaves
-    - Plant stalks and twigs
-    - Shredded paper (non-glossy, not colored) and shredded brown bags
-    - Shredded cardboard (no wax coating, tape, or glue)
-    - Untreated wood chips
+  - Dry leaves
+  - Plant stalks and twigs
+  - Shredded paper (non-glossy, not colored) and shredded brown bags
+  - Shredded cardboard (no wax coating, tape, or glue)
+  - Untreated wood chips
 
 **What to Avoid Composting at Home:**
 
@@ -722,17 +735,23 @@ The process of composting is how nature recycles. One of the most effective thin
 - Cooked food (small amounts are fine)
 - Fats, oils and greases
 
-<h1 align="center"> 
-	<img height="200"  width="200" src="media/composting.png" alt=""> 
+**DIY Composting**
 
-<h4 align="right"> 
+1. Add kitchen scraps and organic matter to a bin with a 25:1 - 40:1 browns to greens ratio. You don't have to purchase microorganisms as they naturally exist in carbon and nitrogen sources.
+2. The pile must be humid but not wet. Add sawdust to dry it or water to moisten it as needed.
+3. Stire the contents of the pile reqularly. Turning the compost promotes oxygen flow and releases the heat that builds during decomposition. The ideal temperature should be between 32°-60° Celcius.
+4. Your compost is will be ready to use after several months, when the color is dark, the content crumbles and it stops emitting heat. You should avoid unfinished compost on your garden, as it tends to be toxic for plants.
+
+<h1 align="center"> 
+	<img height="200"  width="200" src="media/composting.png" alt="">
+
+<h4 align="right">
 
 [Image source](https://www.flaticon.com/free-icon/composting_4660792?term=compost&page=1&position=1&origin=search&related_id=4660792)
 
-</h4> 
+</h4>
 
 </h1>
-
 
 ## Understanding the value of a sustainable lifestyle
 
@@ -740,30 +759,35 @@ Applying and including the above practices to your everyday life, will certainly
 sides. To be more specific, we present you some demonstrative rewarding cases.
 
 - Restrict your negative environmental impact
-    - reduce your carbon footprint
-    - protect the planet's natural resources
+
+  - reduce your carbon footprint
+  - protect the planet's natural resources
 
 - Lessen your daily expenses, that being:
-    - green energy is cost-effective and keeps your electricity bills at low levels
-    - eco-friendly products are gradually becoming more affordable
+
+  - green energy is cost-effective and keeps your electricity bills at low levels
+  - eco-friendly products are gradually becoming more affordable
 
 - Pave the way for a healthier life
-    - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues leading to improved overall
-      health and well-being
+
+  - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues leading to improved overall
+    health and well-being
 
 - Share and spread your green lifestyle profile
-    - inspire and bring more people closer to the sustainable living model
-    - don't forget that it's all about collaboration and contribution when we need game-changing results
-    - make the first step for the desired domino effect
+
+  - inspire and bring more people closer to the sustainable living model
+  - don't forget that it's all about collaboration and contribution when we need game-changing results
+  - make the first step for the desired domino effect
 
 - Support local communities
-    - create a more resilient and equitable economy
+  - create a more resilient and equitable economy
 
 ---
 
 ## Apps you can use to help you live sustainably
 
 ---
+
 <br>
 
 <!-- ECOSIA -->
@@ -774,16 +798,15 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 	<img height="200"  width="200" src="media/Ecosia.png" alt=""> 
 </p>
 
-<div align="right"> 
+<div align="right">
 
 [Image source](https://play-lh.googleusercontent.com/_nuyeEgn6In53vmNpgZkj2nVyR26CPZe3QxKOIk1jWVqwkt4WGWo6m4k4CGNS_3C7Og=s48-rw)
 
-</div> 
+</div>
 
 <br>
 
 Get Ecosia’s browser to start planting trees with your searches. Ecosia is a search engine that makes money through ads, but uses 100% of the profits for the planet. The Ecosia community has already planted 150 million trees in over 35 countries.
-
 
 Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosia.android&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/ecosia/id670881887)
 
@@ -797,10 +820,10 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosi
 <br>
 
 ---
+
 <br>
 
 <!-- GECO AIR -->
-
 
 <h3 style="font-size:20px" align="center">Geco air</h3>
 <br>
@@ -808,7 +831,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosi
 <img height="150"  width="150" src="media/geco air.png" alt=""> 
 </p>
 
-<div align="right"> 
+<div align="right">
 
 [Image source](https://play-lh.googleusercontent.com/bdcArYWzNKkmbUnNl1HS2egdggpNOazIAJhve_atbD2_dLEbkAidVz39EsMgHZV4DecH=w240-h480-rw)
 
@@ -816,10 +839,10 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosi
 <br>
 Geco air is your mobility companion that allows you to reduce the pollution linked to your displacements. Benefit from personalized advice to improve your driving style or mobility habits.
 
-
 Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen.gecoair&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/geco-air-air-quality/id1169064121)
 
 ---
+
 <br>
 
 <!-- JOULEBUG -->
@@ -830,21 +853,21 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen
 	<img height="150"  width="150" src="media/joulebug.jpg" alt=""> 
 </p>
 
-<div align="right"> 
+<div align="right">
 
 [Image source](https://www.educationalappstore.com/images/upload/10750-logo-joulebug.jpg)
 
 </div> 
 <br>
-JouleBug aims to encourage sustainable behaviors in your daily routine by making them easy and enjoyable, rather than tedious or challenging. 
+JouleBug aims to encourage sustainable behaviors in your daily routine by making them easy and enjoyable, rather than tedious or challenging.
 
 Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug&gl=US&pli=1), [App Store](https://apps.apple.com/us/app/joulebug/id391199306)
 
 ---
+
 <br>
 
 <!-- OLIO -->
-
 
 <h3 style="font-size:20px" align="center">Olio</h3>
 <br>
@@ -853,7 +876,7 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 	<img height="150"  width="150" src="media/Olio_logo.png" alt=""> 
 </p>
 
-<div align="right"> 
+<div align="right">
 
 [Image source](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olio_new_logo.png/220px-Olio_new_logo.png)
 
@@ -866,10 +889,10 @@ Olio is a food-sharing app that allows you to connect with neighbors and local b
 Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioex.android&hl=en&gl=US), [App Store](https://apps.apple.com/gb/app/olio/id1008237086)
 
 ---
+
 <br>
 
 <!-- TOO GOOD TO GO -->
-
 
 <h3 style="font-size:20px" align="center">Too Good To Go</h3>
 <br>
@@ -878,11 +901,11 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioe
 	<img height="150"  width="150" src="media/too-good-to-go.png" alt=""> 
 </p>
 
-<div align="right"> 
+<div align="right">
 
 [Image source](https://seeklogo.com/images/T/too-good-to-go-logo-D34C48CD2D-seeklogo.com.png)
 
-</div> 
+</div>
 
 <br>
 
@@ -894,6 +917,7 @@ Get it
 on: [Google Play](https://play.google.com/store/apps/details?id=com.app.tgtg&gl=US), [App Store](https://apps.apple.com/us/app/too-good-to-go-end-food-waste/id1060683933)
 
 ---
+
 <br>
 
 <!-- FOREST: FOCUS FOR PRODUCTIVITY -->
@@ -905,11 +929,11 @@ on: [Google Play](https://play.google.com/store/apps/details?id=com.app.tgtg&gl=
 	<img height="150"  width="150" src="media/forest-app.png" alt=""> 
 </p>
 
-<div align="right"> 
+<div align="right">
 
 [Image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.forestapp.cc%2Fimg%2Ficon.png&tbnid=Xltw8KDFtCc7SM&vet=12ahUKEwixiJeyyff9AhWdgv0HHT0JASoQMygAegUIARDDAQ..i&imgrefurl=https%3A%2F%2Fwww.forestapp.cc%2F&docid=e7DyXVxXfK2oFM&w=1024&h=1024&q=forest%20app%20logo&hl=en&client=opera-gx&ved=2ahUKEwixiJeyyff9AhWdgv0HHT0JASoQMygAegUIARDDAQ)
 
-</div> 
+</div>
 
 <br>
 
@@ -919,6 +943,7 @@ Get it
 on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515)
 
 ---
+
 <br>
 
 ## Green Communities
@@ -930,18 +955,20 @@ lowering their carbon footprint, these communities aim to save future generation
 water.
 
 ## Testimonials
->>We will talk about experiences and personal stories of people who embraced sustainable living mindset.
 
-* Emma Watson, Actress and UN Women Goodwill Ambassador.
+> > We will talk about experiences and personal stories of people who embraced sustainable living mindset.
+
+- Emma Watson, Actress and UN Women Goodwill Ambassador.
 
   Emma Watson has spoken publicly about her commitment to sustainability and environmentalism in various interviews and speeches.
 
   Emma Watson has been an advocate for sustainable fashion and launched the Good On You app, which helps users discover eco-friendly and ethical clothing brands. She has also spoken out about the importance of reducing plastic waste and supports organizations like Greenpeace and Sky Ocean Rescue.
+
 ## European Union's (EU) 2030 Agenda for Sustainable Development
 
 EU's [2030 agenda](https://sdgs.un.org/2030agenda) is a large and ambitious project, aimed to tackle many issues
 humanity faces, related to the UN's [17 Sustainable Development Goals](https://sdgs.un.org/goals). It comprises 169
-targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
+targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 
 - **People**: everyone deserves to have the opportunity to live a dignified life, away from poverty and realize their
   dreams and potential.
@@ -961,6 +988,7 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 4. https://theecohub.com/what-is-sustainable-living/
 5. https://www.glencanyon.org/water-conservation/
 6. [Composting by the United States Environmental Protection Agency](https://www.epa.gov/recycle/composting-home)
+7. [Composting 101: How to Compost at Home](https://www.eatingwell.com/article/290750/composting-101-how-to-compost-at-home/)
 
 ## Interesting videos
 
@@ -978,6 +1006,7 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 
 1. [The Slow Home Podcast](https://www.slowyourhome.com/the-slow-home-podcast/)
 2. [A Sustainable Mind](https://asustainablemind.com/)
+3. [How to Save a Planet](https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6?si=3b487ee3b0a54bec)
 
 ## Current Contributors
 
