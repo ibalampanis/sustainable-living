@@ -596,11 +596,11 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 	<img height="200"  width="200" src="media/Ecosia.png" alt=""> 
 </p>
 
-<h4 align="right"> 
+<div align="right"> 
 
 [Image source](https://play-lh.googleusercontent.com/_nuyeEgn6In53vmNpgZkj2nVyR26CPZe3QxKOIk1jWVqwkt4WGWo6m4k4CGNS_3C7Og=s48-rw)
 
-</h4> 
+</div> 
 <br>
 
 Get Ecosia’s browser to start planting trees with your searches. Ecosia is a search engine that makes money through ads, but uses 100% of the profits for the planet. The Ecosia community has already planted 150 million trees in over 35 countries.
@@ -617,11 +617,11 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosi
 <img height="150"  width="150" src="media/geco air.png" alt=""> 
 </p>
 
-<h4 align="right"> 
+<div align="right"> 
 
 [Image source](https://play-lh.googleusercontent.com/bdcArYWzNKkmbUnNl1HS2egdggpNOazIAJhve_atbD2_dLEbkAidVz39EsMgHZV4DecH=w240-h480-rw)
 
-</h4> 
+</div> 
 <br>
 Geco air is your mobility companion that allows you to reduce the pollution linked to your displacements. Benefit from personalized advice to improve your driving style or mobility habits.
 
@@ -637,11 +637,11 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen
 	<img height="150"  width="150" src="media/joulebug.jpg" alt=""> 
 </p>
 
-<h4 align="right"> 
+<div align="right"> 
 
 [Image source](https://www.educationalappstore.com/images/upload/10750-logo-joulebug.jpg)
 
-</h4> 
+</div> 
 <br>
 JouleBug aims to encourage sustainable behaviors in your daily routine by making them easy and enjoyable, rather than tedious or challenging. 
 
@@ -657,11 +657,11 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.clean
 	<img height="150"  width="150" src="media/Olio_logo.png" alt=""> 
 </p>
 
-<h4 align="right"> 
+<div align="right"> 
 
 [Image source](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olio_new_logo.png/220px-Olio_new_logo.png)
 
-</h4>
+</div>
 
 <br>
 
@@ -679,11 +679,11 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.olioe
 	<img height="150"  width="150" src="media/too-good-to-go.png" alt=""> 
 </p>
 
-<h4 align="right"> 
+<div align="right"> 
 
 [Image source](https://seeklogo.com/images/T/too-good-to-go-logo-D34C48CD2D-seeklogo.com.png)
 
-</h4> 
+</div> 
 
 <br>
 
