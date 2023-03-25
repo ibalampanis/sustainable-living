@@ -36,6 +36,7 @@
     - [Use LED Lights](#use-led-lights)
     - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
     - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
+    - [Composting at Home](#composting-at-home)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
   - [Green Communities](#green-communities)
@@ -682,6 +683,46 @@ By being intentional about the things we buy and consume, we can reduce our envi
 
 </h1>
 
+### Composting at Home
+The process of composting is how nature recycles. One of the most effective things we can do to lessen our trash, combat climate change, and create healthy soil is this, according to the [United States Environmental Protection Agency](https://www.epa.gov/recycle/composting-home). We can transform our waste streams into a useful, value-added soil supplement and use it to protect the environment and build resilient communities by turning our food scraps and yard waste into compost.
+
+**What You Can Compost at Home:**
+
+- Nitrogen-Rich Material (“Greens”)
+    - Food and vegetable scraps
+    - Most grass clippings and yard trim
+    - Coffee grounds and paper filters
+    - Paper tea bags (no staples)
+    - Eggshells (crushed)
+
+- Carbon-Rich Materials (“Browns”)
+    - Dry leaves
+    - Plant stalks and twigs
+    - Shredded paper (non-glossy, not colored) and shredded brown bags
+    - Shredded cardboard (no wax coating, tape, or glue)
+    - Untreated wood chips
+
+**What to Avoid Composting at Home:**
+
+- Meat, fish and bones
+- Cheese and dairy products
+- Pet waste and cat litter
+- Produce stickers
+- Cooked food (small amounts are fine)
+- Fats, oils and greases
+
+<h1 align="center"> 
+	<img height="200"  width="200" src="media/composting.png" alt=""> 
+
+<h4 align="right"> 
+
+[Image source](https://www.flaticon.com/free-icon/composting_4660792?term=compost&page=1&position=1&origin=search&related_id=4660792)
+
+</h4> 
+
+</h1>
+
+
 ## Understanding the value of a sustainable lifestyle
 
 Applying and including the above practices to your everyday life, will certainly be beneficial and valuable for both
@@ -908,6 +949,7 @@ targets related to *People*, *Planet*, *Prosperity*, *Peace*, and *Partnership*.
 3. https://theecohub.com/sustainable-living-tips/
 4. https://theecohub.com/what-is-sustainable-living/
 5. https://www.glencanyon.org/water-conservation/
+6. [Composting by the United States Environmental Protection Agency](https://www.epa.gov/recycle/composting-home)
 
 ## Interesting videos
 
