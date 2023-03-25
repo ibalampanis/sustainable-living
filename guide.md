@@ -22,6 +22,7 @@
     - [Look after your electrical appliances](#look-after-your-electrical-appliances)
     - [Create clean air](#create-clean-air)
     - [Change your shower head](#change-your-shower-head)
+    - [Use a cup while brushing your teeth](#use-a-cup-while-brushing-your-teeth)
     - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
     - [Practise eco-driving](#practise-eco-driving)
     - [Draught-proof your home](#draught-proof-your-home)
@@ -33,16 +34,11 @@
     - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
     - [Use LED Lights](#use-led-lights)
     - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
-    - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#Practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
+    - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
-    - [Ecosia](#ecosia)
-    - [Geco air](#geco-air)
-    - [JouleBug](#joulebug)
-    - [Olio](#olio)
-    - [Too Good To Go](#too-good-to-go)
   - [Green Communities](#green-communities)
-  - [Testimonials](#Testimonials)
+  - [Testimonials](#testimonials)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
   - [Interesting videos](#interesting-videos)
@@ -732,6 +728,29 @@ thrown away.
 
 Get it
 on: [Google Play](https://play.google.com/store/apps/details?id=com.app.tgtg&gl=US), [App Store](https://apps.apple.com/us/app/too-good-to-go-end-food-waste/id1060683933)
+
+---
+<br>
+
+<h3 style="font-size:20px" align="center">Forest: Focus for Productivity</h3>
+<br>
+
+<p align="center"> 
+	<img height="150"  width="150" src="media/forest-app.png" alt=""> 
+</p>
+
+<div align="right"> 
+
+[Image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.forestapp.cc%2Fimg%2Ficon.png&tbnid=Xltw8KDFtCc7SM&vet=12ahUKEwixiJeyyff9AhWdgv0HHT0JASoQMygAegUIARDDAQ..i&imgrefurl=https%3A%2F%2Fwww.forestapp.cc%2F&docid=e7DyXVxXfK2oFM&w=1024&h=1024&q=forest%20app%20logo&hl=en&client=opera-gx&ved=2ahUKEwixiJeyyff9AhWdgv0HHT0JASoQMygAegUIARDDAQ)
+
+</div> 
+
+<br>
+
+Forest is a mobile application that helps you increase your productivity using the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) with a nuance: planting trees. Inside the app you can plant virtual trees, that in turn give you in-app currency, and when you spend it, trees in real life are grown! As of now, over 1.5 million trees have been planted around the world!
+
+Get it
+on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515)
 
 ---
 <br>
