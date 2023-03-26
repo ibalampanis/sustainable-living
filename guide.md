@@ -56,6 +56,7 @@
     - [Pangeo](#Pangeo)
     - [Leaflet](#Leaflet)
   - [Green Communities](#green-communities)
+  - [Sustainable Living Case Studies](#sustainable-living-case-studies)
   - [Testimonials](#testimonials)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
@@ -1026,7 +1027,6 @@ on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=
 
 ---
 
-<br>
 
 <!-- Echo_Hacker_Farm -->
 
@@ -1133,6 +1133,21 @@ They are characterized by the use of ecologically friendly techniques to serve t
 lowering their carbon footprint, these communities aim to save future generations from degradation of the land, air, and
 water.
 
+---
+
+## Sustainable Living Case Studies
+
+Here are some examples of sustainable living case studies:
+
+1. **The Green School:** The Green School is an eco-friendly school located in Bali, Indonesia. The school was built using sustainable materials such as bamboo, and promotes sustainable living practices such as composting and organic gardening. The school also has a zero-waste policy and has implemented a rainwater harvesting system to reduce water waste. The Green School aims to provide an education that is focused on sustainability and environmental stewardship.
+    [For more info visit here:](https://www.greenschool.org/bali/)
+2. **The Warka Water Tower:** The Warka Water Tower is a sustainable water harvesting system developed by Italian architect Arturo Vittori. The tower uses a mesh net to collect moisture from the air, which is then filtered and stored in a tower. The tower can hold up to 100 liters of water, providing a sustainable source of drinking water for rural communities. The tower is made from locally sourced materials and is designed to be easy to maintain and repair.
+    [For more info visit here:](https://warkawater.org/warkatower/)
+3. **The Beddington Zero Energy Development (BedZED):** BedZED is a sustainable housing development located in London, England. The development includes 100 homes and several office spaces, all of which are designed to be zero-carbon and energy-efficient. The homes feature a range of sustainable technologies, such as solar panels, rainwater harvesting, and composting toilets, and are built with sustainable materials. BedZED is considered a pioneering example of sustainable housing development.
+   [For more info visit here:](https://www.zedfactory.com/bedzed)
+
+---
+
 ## Testimonials
 
 > > We will talk about experiences and personal stories of people who embraced sustainable living mindset.
@@ -1168,6 +1183,9 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 5. https://www.glencanyon.org/water-conservation/
 6. [Composting by the United States Environmental Protection Agency](https://www.epa.gov/recycle/composting-home)
 7. [Composting 101: How to Compost at Home](https://www.eatingwell.com/article/290750/composting-101-how-to-compost-at-home/)
+8. [The Green School](https://www.greenschool.org/bali/)
+9. [Warka Water Tower](https://warkawater.org/warkatower/)
+10. [BedZed](https://www.zedfactory.com/bedzed)
 
 ## Interesting videos
 
