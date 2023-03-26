@@ -1244,9 +1244,10 @@ Transparency: By being transparent about their sustainability efforts, businesse
 8. [The Green School](https://www.greenschool.org/bali/)
 9. [Warka Water Tower](https://warkawater.org/warkatower/)
 10. [BedZed](https://www.zedfactory.com/bedzed)
-10. [EcoWatch]7 Myths About Sustainable Living That Need to Be Debunked, 2019.
-10. [OneGreenPlanet]5 Myths About Sustainable Living, 2018.
-10. [MindBodyGreen]The Top 5 Myths About Sustainable Living, 2019.
+11. [EcoWatch]7 Myths About Sustainable Living That Need to Be Debunked, 2019.
+12. [OneGreenPlanet]5 Myths About Sustainable Living, 2018.
+13. [MindBodyGreen]The Top 5 Myths About Sustainable Living, 2019.
+14. https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly
 
 
 ## Interesting videos
