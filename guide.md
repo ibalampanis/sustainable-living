@@ -83,8 +83,8 @@ healthier habits and decrease their dependence on artificial machines by alterin
 
 ## What is NOT Sustainable Living?
 
-To be clear about sustainability lets define un-sustainability as well with an example, shall we? So lets imagine you
-wake up an in world where 100000000 (finite number) apples are laying down in the ground, that don't go bad - for ever.
+To be clear about sustainability let's define un-sustainability as well with an example, shall we? So let's imagine you
+wake up an in world where 100000000 (finite number) apples are laying down in the ground, that don't go bad - forever.
 " Woooooooooooooow I have food forever" you think.
 So you eat apples every day. But instead of eating one a day, you say:
 " I have these many apples, why eat just one? Right people?"
@@ -455,7 +455,7 @@ on the environment and connect with others who share your values.
 
 ### Use a cup while brushing your teeth
 
-- According to <b>glencanyon.org</b> , not using a cup while brushing your teeth can result in spending extra 2-3 gallons of water every day. Make sure to have a cup while while brushing your teeth, and fill it with as much water as you will need. <sup>5</sup>
+- According to <b>glencanyon.org</b> , not using a cup while brushing your teeth can result in spending extra 2-3 gallons of water every day. Make sure to have a cup while brushing your teeth, and fill it with as much water as you will need. <sup>5</sup>
 
 <h1 align="center">
         <img height="200"  width="200" src="media/toothbrush.png" alt="">
@@ -557,7 +557,7 @@ on the environment and connect with others who share your values.
 
 ### Recycle your clothes and shop vintage
 
-- A good way to avoid buying clothes from fast fashion brands, but still keep within an affordable price range is buying vintage clothes from thrift stores. The trend of thrifting is ever growing and can even turn into a fun activity of fashion exploration.
+- A good way to avoid buying clothes from fast fashion brands, but still keep within an affordable price range is buying vintage clothes from thrift stores. The trend of thrifting is ever-growing and can even turn into a fun activity of fashion exploration.
 - You have a few extra clothes cluttering your closet? Recycling your clothes is an excellent way to get rid of that problem, while also helping to effectively fight clothing waste and pollution. You can find clothing recycling bins from [Recycom](https://www.recycom.gr/%CE%B1%CE%BD%CE%B1%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%83%CE%B7/) and [Fabric Republic](http://www.fabricrepublic.gr/form-offer/) around your city and in select clothing stores.
 
 <h1 align="center">
@@ -1040,7 +1040,7 @@ on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=
 
 <br>
 
-Eco Hacker Farm is an organization that helps to set up and support, new and existing projects that combine hackerspaces with permaculture farms to provide a sustainable living space for people to experience a way of life that is not necessarily dependent on the system but using appropriate, open source and low cost technological solutions.
+Eco Hacker Farm is an organization that helps to set up and support, new and existing projects that combine hackerspaces with permaculture farms to provide a sustainable living space for people to experience a way of life that is not necessarily dependent on the system but using appropriate, open source and low-cost technological solutions.
 
 Learn More about it in : [Website](https://wiki.ecohackerfarm.org)
 
