@@ -762,7 +762,7 @@ Support can come in many forms, such as :
 
 
 <h1 align="center"> 
-	<img height="200"  width="200" src="help/paper.png" alt="">
+	<img height="200"  width="200" src="media/help.png" alt="">
 
 <h4 align="right">
 
