@@ -50,7 +50,7 @@
     - [JouleBug](#joulebug)
     - [Olio](#olio)
     - [Too Good To Go](#too-good-to-go)
-    - [Forest: Focus for Productivity](#forest:-focus-for-productivity)
+    - [Forest: Focus for Productivity](#forest-focus-for-productivity)
   - [Green Communities](#green-communities)
   - [Testimonials](#testimonials)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
