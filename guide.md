@@ -60,7 +60,7 @@
   - [5 false myths about sustainable living](#5-false-myths-about-sustainable-living)
   - [Testimonials](#testimonials)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
-  - [Sustainable Living & Business](#sustainable-living-and-business)
+  - [Sustainable Living & Business](#sustainable-living--business)
   - [Citations](#citations)
   - [Interesting videos](#interesting-videos)
   - [Interesting podcasts](#interesting-podcasts)
