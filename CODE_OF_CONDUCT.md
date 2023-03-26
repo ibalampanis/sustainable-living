@@ -25,7 +25,7 @@ everyone can contribute to the project's success.
 The project's maintainers are responsible for enforcing the Code of Conduct,
 and for clarifying any doubts or questions that might arise. The maintainers
 are also responsible for updating the Code of Conduct, in order to keep it
-relevant and up - to - date.
+relevant and up-to-date.
 
 ## NEED TO
 
