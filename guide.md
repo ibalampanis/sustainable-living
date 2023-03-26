@@ -722,6 +722,27 @@ By being intentional about the things we buy and consume, we can reduce our envi
 
 </h1>
 
+### Reduce paper usage:
+
+Paper usage is a significant contributor to deforestation and greenhouse gas emissions. The production of paper requires large amounts of water and energy, and it often involves the use of harmful chemicals.
+
+1. Go digital: Opt for electronic billing and statements, email instead of sending physical letters, and use digital tools like calendars and notes apps to reduce your need for paper.
+
+2. Use online resources: Instead of buying books, magazines, or newspapers in physical form, consider using online resources such as e-books, online newspapers, or digital magazines.
+
+3. Use paperless alternatives: Choose to pay your bills online instead of receiving paper bills, and use online invitations instead of physical ones.
+
+<h1 align="center"> 
+	<img height="200"  width="200" src="media/paper.png" alt="">
+
+<h4 align="right">
+
+[Image source](https://www.flaticon.com/free-icon/paper_2541979?term=paper&page=1&position=1&origin=search&related_id=2541979)
+
+</h4>
+
+</h1>
+
 ### Composting at Home
 
 The process of composting is how nature recycles. One of the most effective things we can do to lessen our trash, combat climate change, and create healthy soil is this, according to the [United States Environmental Protection Agency](https://www.epa.gov/recycle/composting-home). We can transform our waste streams into a useful, value-added soil supplement and use it to protect the environment and build resilient communities by turning our food scraps and yard waste into compost.
