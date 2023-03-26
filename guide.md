@@ -57,6 +57,7 @@
     - [Leaflet](#Leaflet)
   - [Green Communities](#green-communities)
   - [Sustainable Living Case Studies](#sustainable-living-case-studies)
+  - [5 false myths about sustainable living](#5-false-myths-about-sustainable-living)
   - [Testimonials](#testimonials)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
   - [Citations](#citations)
@@ -1150,6 +1151,42 @@ Here are some examples of sustainable living case studies:
 
 ---
 
+## 5 false myths about sustainable living
+
+There are several myths about sustainable living that are widely believed but false. Here are a few examples:
+
+---
+
+**1. Myth: Sustainable living is expensive and only for the wealthy.**
+
+Fact: While some sustainable products may have higher upfront costs, sustainable living can actually save money in the long run. For example, energy-efficient appliances and LED light bulbs can save money on utility bills. Additionally, sustainable living can involve making lifestyle changes, such as reducing meat consumption, which can lead to cost savings.(7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2019)
+
+---
+
+**2. Myth: Sustainable living means giving up modern conveniences.**
+
+Fact: Sustainable living is not about giving up modern conveniences, but rather finding ways to use them more efficiently and responsibly. For example, using a reusable water bottle instead of single-use plastic bottles is a simple way to reduce waste without giving up the convenience of having water on-the-go.(5 Myths About Sustainable Living," One Green Planet, 2018)
+
+---
+
+**3. Myth: Sustainable living requires living off the grid.**
+
+Fact: While living off the grid is one option for sustainable living, it is not the only one. Sustainable living can be achieved in many ways, such as reducing energy consumption, using public transportation, or buying locally-sourced products.(The Top 5 Myths About Sustainable Living," MindBodyGreen, 2019.)
+
+---
+
+**4. Myth: Sustainable living is too difficult and time-consuming.**
+
+Fact: Sustainable living can be as simple or as complex as you make it. Even small changes, such as using cloth napkins instead of paper ones or turning off lights when leaving a room, can make a difference. Sustainable living is about making conscious choices that align with your values and goals.(5 Myths About Sustainable Living," One Green Planet, 2018)
+
+---
+
+**5. Myth: Sustainable living is only for environmentalists.**
+
+Fact: Sustainable living is for everyone. While many people may be drawn to sustainable living for environmental reasons, the benefits extend beyond just the planet. Sustainable living can also improve health, save money, and build stronger communities.(7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2019)
+
+---
+
 ## Testimonials
 
 > > We will talk about experiences and personal stories of people who embraced sustainable living mindset.
@@ -1188,6 +1225,10 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 8. [The Green School](https://www.greenschool.org/bali/)
 9. [Warka Water Tower](https://warkawater.org/warkatower/)
 10. [BedZed](https://www.zedfactory.com/bedzed)
+10. [EcoWatch]7 Myths About Sustainable Living That Need to Be Debunked, 2019.
+10. [OneGreenPlanet]5 Myths About Sustainable Living, 2018.
+10. [MindBodyGreen]The Top 5 Myths About Sustainable Living, 2019.
+
 
 ## Interesting videos
 
