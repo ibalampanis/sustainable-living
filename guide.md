@@ -37,7 +37,12 @@
     - [Use LED Lights](#use-led-lights)
     - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
     - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
+    - [Reduce paper usage](#reduce-paper-usage)
+    - [Support environmental organizations](#Support-environmental-organizations)
+    
     - [Composting at Home](#composting-at-home)
+    
+    
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
   - [Green Communities](#green-communities)
@@ -738,6 +743,30 @@ Paper usage is a significant contributor to deforestation and greenhouse gas emi
 <h4 align="right">
 
 [Image source](https://www.flaticon.com/free-icon/paper_2541984?term=paper&related_id=2541984)
+
+</h4>
+
+</h1>
+
+
+### Support environmental organizations:
+
+Supporting environmental organizations is an important way to contribute to the protection of the environment. Environmental organizations work to promote sustainable practices, protect endangered species, and advocate for environmental policies and regulations. By supporting these organizations, individuals can help fund research, educational programs, and activism aimed at preserving natural habitats, reducing pollution, and mitigating the effects of climate change.
+
+Support can come in many forms, such as :
+1. Donating money: Many environmental organizations rely on donations from supporters to fund their operations, and any contribution can make a difference
+
+2. Volunteering time: Volunteering with environmental organizations can also be a great way to get involved in the community and make a tangible impact on the environment
+
+3. Spreading awareness about environmental issues: By spreading awareness and sharing information about environmental issues, individuals can also help to build a culture of environmental responsibility and encourage others to take action to protect the planet.
+
+
+<h1 align="center"> 
+	<img height="200"  width="200" src="help/paper.png" alt="">
+
+<h4 align="right">
+
+[Image source](https://www.flaticon.com/free-icon/help_2634585?term=volunteering&page=1&position=15&origin=search&related_id=2634585)
 
 </h4>
 
