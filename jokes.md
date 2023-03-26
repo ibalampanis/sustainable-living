@@ -19,5 +19,7 @@ Here are some jokes Chat-GPT wrote to encourage more people to adapt a sustainab
 
 - Why did the environmentalist refuse to wear leather shoes? Because they wanted to be a sole-ful person!\
   (Choosing sustainable fashion options, such as vegan leather, is a sustainable living practice.)
+  
+- Why did the tree hugger refuse to wear animal skins? Because it didn't leaf a good environmental footprint!
 
 I hope these jokes make you smile and encourage you to think about sustainable living!
