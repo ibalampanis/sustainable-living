@@ -1016,7 +1016,109 @@ Get it
 on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515)
 
 ---
+<br>
 
+## Environmental Open-Source Projects
+
+---
+
+<br>
+
+<!-- Echo_Hacker_Farm -->
+
+<h3 style="font-size:20px" align="center">Eco Hacker Farm</h3>
+<br>
+
+<p align="center"> 
+	<img height="150"  width="150" src="media/eco_hacker_farm.png" alt=""> 
+</p>
+
+<div align="right">
+
+
+</div>
+
+<br>
+
+Eco Hacker Farm is an organization that helps to set up and support, new and existing projects that combine hackerspaces with permaculture farms to provide a sustainable living space for people to experience a way of life that is not necessarily dependent on the system but using appropriate, open source and low cost technological solutions.
+
+Learn More about it in : [Website](https://wiki.ecohackerfarm.org)
+
+---
+
+<br>
+
+<!-- Open_Climate_Workbench-->
+
+<h3 style="font-size:20px" align="center">Open Climate Workbench</h3>
+<br>
+
+<p align="center"> 
+	<img src="media/open_climate_workbench.png" alt=""> 
+</p>
+
+<div align="right">
+
+
+</div>
+
+<br>
+
+Apache Open Climate Workbench is an effort to develop software that performs climate model evaluation using model outputs from a variety of different sources the Earth System Grid Federation, the Coordinated Regional Climate Downscaling Experiment, the U.S. National Climate Assessment and the North American Regional Climate Change Assessment Program and temporal/spatial scales with remote sensing data from NASA, NOAA and other agencies. The toolkit includes capabilities for rebinning, metrics computation and visualization.
+
+Learn More about it in : [Website](https://climate.apache.org)
+
+---
+
+<br>
+
+<!-- Pangeo-->
+
+<h3 style="font-size:20px" align="center">Pangeo</h3>
+<br>
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/pangeo.png" alt=""> 
+</p>
+
+<div align="right">
+
+
+</div>
+
+<br>
+
+Fostering collaboration around open source and big data tools to enable research in ocean, atmosphere, land, and climate, "Pangeo is first and foremost a community promoting open, reproducible, and scalable science." Big data can change the world!
+
+Learn More about it in : [Website](https://pangeo.io)
+
+<br>
+
+---
+
+<br>
+
+<!-- Leaflet-->
+
+<h3 style="font-size:20px" align="center">Leaflet</h3>
+<br>
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/leaflet.jpg" alt=""> 
+</p>
+
+<div align="right">
+
+
+</div>
+
+<br>
+
+Leaflet is a well-known open source JavaScript library. It can be used for all sorts of things, including environmentally friendly projects like the [Arctic Web Map](https://webmap.arcticconnect.ca/#ac_3573/2/90.0/0.0), which allows scientists to accurately visualize and analyze the arctic region, a critical ability for climate research.
+
+Learn More about it in : [Website](https://pangeo.io)
+
+---
 <br>
 
 ## Green Communities
