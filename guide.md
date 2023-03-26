@@ -41,8 +41,7 @@
     - [Support environmental organizations](#Support-environmental-organizations)
     
     - [Composting at Home](#composting-at-home)
-    
-    
+
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
@@ -51,6 +50,11 @@
     - [Olio](#olio)
     - [Too Good To Go](#too-good-to-go)
     - [Forest: Focus for Productivity](#forest-focus-for-productivity)
+  - [Environmental Open-Source Projects](#Environmental Open-Source Projects)
+    - [Eco Hacker Farm](#Echo_Hacker_Farm)
+    - [Open Climate Workbench](#Open_Climate_Workbench)
+    - [Pangeo](#Pangeo)
+    - [Leaflet](#Leaflet)
   - [Green Communities](#green-communities)
   - [Testimonials](#testimonials)
   - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
@@ -1035,8 +1039,8 @@ on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=
 
 <div align="right">
 
-
 </div>
+
 
 <br>
 
