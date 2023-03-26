@@ -31,18 +31,20 @@ relevant and up - to - date.
 
 ```diff
 
-+ Plan ahead, while devoting the needed amount of time, in order to make sure that you hold a complete road map
-+ Be reasonable when committing changes to the project
-+ Be adaptive to the transforming environment
-+ Be considerate and careful, emphasizing on your contribution's role and impact
-+ Pave the way for a creative and mutually - respective community growth
-+ Show empathy and care for other's effort
-+ Meet the proposed formal requirements, by using unambiguous and inclusive language
-+ Be open and make good use of criticism
-+ Treat your colleagues as you want to be treated
-+ Share information, so everyone is on the same view at all times
-+ Follow the practices and standards stated on README.md
-
++ Plan ahead, while devoting the needed amount of time, in order to make sure that you hold a complete road map.
++ Be reasonable when committing changes to the project.
++ Be adaptive to the transforming environment.
++ Be considerate and careful, emphasizing on your contribution's role and impact.
++ Pave the way for a creative and mutually - respective community growth.
++ Show empathy and care for other's effort.
++ Meet the proposed formal requirements, by using unambiguous and inclusive language.
++ Refrain from engaging in behavior that could harm the reputation of the repository or its contributors.
++ Be open and make good use of criticism.
++ Treat your colleagues as you want to be treated.
++ Treat contributions with respect and acknowledge the effort and time invested by each contributor.
++ Share information, so everyone is on the same view at all times.
++ Follow the practices and standards stated in `README.md`.
++ Communicate openly and respectfully when resolving conflicts or disagreements.
 
 ```
 
@@ -50,13 +52,16 @@ relevant and up - to - date.
 
 ```diff
 
-- Any unethical or unprofessional conduct will not be tolerated
-- Pejorative and insulting language is undesirable
-- Harassment of any kind MUST be excluded
-- Ironic and sarcastic judgement is definitely unwanted
-- Obscure and unclear statements lead to misconception, so stay away from them
-- Underestimating requirements leads to lack of control and project failure
-- Do not deviate from the project's scope
+- Any unethical or unprofessional conduct will not be tolerated.
+- Pejorative and insulting language is undesirable.
+- Harassment of any kind MUST be excluded.
+- Ironic and sarcastic judgement is definitely unwanted.
+- Posting comments or content with the intent to provoke or upset others is not acceptable.
+- Obscure and unclear statements lead to misconception, so stay away from them.
+- Underestimating requirements leads to lack of control and project failure.
+- Do not deviate from the project's scope.
+- Posting or distributing malicious software, including viruses or malware, is not allowed.
+- Using someone else's work without proper attribution or permission is not allowed.
 
 ```
 
