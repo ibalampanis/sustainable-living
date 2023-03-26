@@ -8,6 +8,12 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>A sipmple UI for sustainable-living-project</code>
+          <p>
+            Find the original repo on:
+            <a href="https://github.com/ibalampanis/sustainable-living">
+              <i class="fa-brands fa-github fa-bounce fa-2xl"></i>
+            </a>
+          </p>
         </p>
         <div className="pageWrapper d-lg-flex">
         <CardPost/>
