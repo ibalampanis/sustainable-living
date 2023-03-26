@@ -38,7 +38,7 @@
     - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
     - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
     - [Reduce paper usage](#reduce-paper-usage)
-    - [Support environmental organizations](#Support-environmental-organizations)
+    - [Support environmental organizations](#support-environmental-organizations)
     
     - [Composting at Home](#composting-at-home)
 
@@ -50,9 +50,9 @@
     - [Olio](#olio)
     - [Too Good To Go](#too-good-to-go)
     - [Forest: Focus for Productivity](#forest-focus-for-productivity)
-  - [Eviromental Open Source Projects](#Environmental Open-Source Projects)
-    - [Eco Hacker Farm](#Echo Hacker Farm)
-    - [Open Climate Workbench](#Open Climate Workbench)
+  - [Eviromental Open Source Projects](#environmental-open-source-projects)
+    - [Eco Hacker Farm](#echo-hacker-farm)
+    - [Open Climate Workbench](#open-climate-workbench)
     - [Pangeo](#Pangeo)
     - [Leaflet](#Leaflet)
   - [Green Communities](#green-communities)
