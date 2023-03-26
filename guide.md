@@ -1205,6 +1205,12 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 2. [A Sustainable Mind](https://asustainablemind.com/)
 3. [How to Save a Planet](https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6?si=3b487ee3b0a54bec)
 
+## Interesting Documentaries
+
+1. Cowspiracy ([IMDB](https://www.imdb.com/title/tt3302820/?ref_=fn_al_tt_1)) 
+2. Minimalism ([IMDB](https://www.imdb.com/title/tt3810760/))
+3. The True Cost ([IMDB](https://www.imdb.com/title/tt3162938/?ref_=nv_sr_srsg_0))
+
 ## Current Contributors
 
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
