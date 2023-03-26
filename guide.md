@@ -737,7 +737,7 @@ Paper usage is a significant contributor to deforestation and greenhouse gas emi
 
 <h4 align="right">
 
-[Image source](https://www.flaticon.com/free-icon/paper_2541979?term=paper&page=1&position=1&origin=search&related_id=2541979)
+[Image source](https://www.flaticon.com/free-icon/paper_2541984?term=paper&related_id=2541984)
 
 </h4>
 
