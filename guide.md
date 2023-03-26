@@ -64,7 +64,8 @@
   - [Interesting videos](#interesting-videos)
   - [Interesting podcasts](#interesting-podcasts)
   - [Interesting Documentaries](#interesting-documentaries)
-  - [Interesting Books](#interesting-documentaries)
+  - [Interesting Books](#interesting-books)
+  - [Sustainable developement goals](#sustainable-developement-goals)
   - [Current Contributors](#current-contributors)
 
 ---
@@ -1212,6 +1213,24 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 - **Partnership**: to achieve goals of sustainable development, we have to work together as we depend on each other to
   prosper.
 
+## Sustainable Living & Business
+
+Sustainable living in business refers to the practice of conducting business operations in a manner that minimizes negative impacts on the environment, society, and economy. This involves adopting sustainable business practices that promote environmental stewardship, social responsibility, and economic prosperity.
+
+Here are some ways businesses can promote sustainable living:
+
+Reduce Energy Consumption: Businesses can reduce their energy consumption by implementing energy-efficient practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems.
+
+Reduce Waste: Businesses can reduce waste by implementing recycling and composting programs, reducing paper usage, and using eco-friendly products and packaging.
+
+Sustainable Sourcing: Businesses can source sustainable materials, ingredients, and products that have a lower environmental impact.
+
+Employee Engagement: Encouraging employee involvement in sustainability efforts can create a culture of sustainability within the workplace and inspire new ideas and initiatives.
+
+Social Responsibility: Businesses can promote social responsibility by supporting local communities, investing in social causes, and ensuring fair and ethical practices in their supply chains.
+
+Transparency: By being transparent about their sustainability efforts, businesses can build trust with their customers and stakeholders and demonstrate their commitment to sustainable living.
+
 ## Citations
 
 1. Gendre, I. (2023, February 28). What is green living? Greenly. Retrieved March 23, 2023,
@@ -1256,7 +1275,7 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 
 ## Interesting Books
 
-###Zero Wate Lifestyle 
+### Zero Wate Lifestyle 
 
 1. [Zero Waste Home](https://www.amazon.co.uk/dp/1451697686/ref=as_li_ss_tl?dchild=1&keywords=Zero+Waste+Home:+The+Ultimate+Guide+to+Simplifying+Your+Life+by+Reducing+Your+Waste&language=en_US&sr=8-1&linkCode=gs2&linkId=e202b9c1a0b06281a77448a9221636dc&tag=zerowastememoirs-21) by Bea Johnson 
 2. [Waste Not: Make a Big Difference By Throwing Away Less](https://www.amazon.co.uk/dp/1743794622/ref=as_li_ss_tl?dchild=1&keywords=Waste+Not:+Make+a+Big+Difference+By+Throwing+Away+Less&language=en_US&sr=8-1&linkCode=gs2&linkId=e131829e8315f7f9d9b19796853e2de8&tag=zerowastememoirs-21) by Erin Rhoads
@@ -1264,7 +1283,7 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 4. [101 Ways to Go Zero Waste ](https://www.amazon.co.uk/dp/1682683311/ref=as_li_ss_tl?dchild=1&keywords=101+Ways+to+Go+Zero+Waste&language=en_US&sr=8-1&linkCode=gs2&linkId=916bb8dc1827a074963a701a6d730ec1&tag=zerowastememoirs-21) by Kathryn Kellogg
 5. [A Zero Waste Life: In Thirty Days ](https://www.amazon.co.uk/dp/1948062607/ref=as_li_ss_tl?dchild=1&s=todays-deals&keywords=A+Zero+Waste+Life:+In+Thirty+Days&language=en_US&psr=EY17&sr=8-1&linkCode=gs2&linkId=312c494c1e1cbb8a3b0c8687aee96338&tag=zerowastememoirs-21) by Anita Vandyke
 
-###Sustainable and Eco-Friendly Living
+### Sustainable and Eco-Friendly Living
 
 1. [Sustainable Home: Practical projects, tips and advice for maintaining a more eco-friendly household](https://www.amazon.co.uk/dp/071123969X?linkCode=gs2&tag=upjourney-21) by Christine Liu
 2. [Green Living For Dummies ](https://www.amazon.co.uk/dp/0470227427?linkCode=gs2&tag=upjourney-21) by Yvonne Jeffery, Liz Barclay, Michael Grosvenor
@@ -1272,6 +1291,54 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 4. [Cradle to Cradle: Remaking the Way We Make Things](https://www.amazon.co.uk/dp/0865475873?s=books&crid=1KROSYZVZVEQH&keywords=Cradle+to+Cradle&sprefix=cradle+to+cradle,stripbooks-intl-ship,86&ref_=as_li_ss_tl&language=en_US&sr=1-1&linkCode=gg2&linkId=d88b83dc91aa7e3854a1c51fe8be4695&tag=candicebatist-20) by William McDonough and Michael Braungart 
   
 **P.S. Buy the e-book, audiobook or borrow a copy from a friend!** 
+
+## Sustainable developement goals
+
+The Sustainable Development Goals (SDGs), also referred to as the Global Goals, were enacted by the United Nations in 2015 as a worldwide call to action to end poverty, protect the planet, and guarantee that by the year 2030, peace and prosperity will be enjoyed by all. 
+
+The 17 SDGs acknowledge that development must balance social, economic, and environmental sustainability and that actions in one area will have an impact on results in others.
+Countries have agreed to give those who are falling behind the most priority when making progress. The SDGs aim to eradicate AIDS, starvation, poverty, and prejudice against women and girls.
+The SDGs must be achieved in every situation, and this requires the creativity, knowledge, technology, and financial resources of the entire community.
+
+### THE 17 GOALS
+
+1. **No poverty**
+End poverty in all its forms everywhere
+2. **Zero Hunger**
+End hunger, achieve food security and improved nutrition and promote sustainable agriculture
+3. **Good Health and well-being**
+Ensure healthy lives and promote well-being for all at all ages
+4.**Quality Education**
+Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+5.**Gender Equality**
+Achieve gender equality and empower all women and girls
+6.**Clean Water and Sanitation**
+Ensure availability and sustainable management of water and sanitation for all
+7.**Affordable and Clean Energy**
+Ensure access to affordable, reliable, sustainable and modern energy for all
+8.**Decent Work and Economic Growth**
+Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
+9.**Industry,Innovation and Infrastructure**
+Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+10.**Reduced Inequalities**
+Reduce inequality within and among countries
+11.**Sustainable Cities**
+Make cities and human settlements inclusive, safe, resilient and sustainable
+12.**Responsible Consumption and Production**
+Ensure sustainable consumption and production patterns
+13.**Climate Action**
+Take urgent action to combat climate change and its impacts
+14.**Life Below Water**
+Conserve and sustainably use the oceans, seas and marine resources for sustainable development
+15.**Life on Land**
+Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+16.**Peace,Justice and Strong Institutions**
+Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+17.**Partnerships for the goals**
+Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+
+Source: [United Nations](https://sdgs.un.org/goals)
 
 ## Current Contributors
 
