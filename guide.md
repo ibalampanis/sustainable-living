@@ -1220,17 +1220,20 @@ Sustainable living in business refers to the practice of conducting business ope
 
 Here are some ways businesses can promote sustainable living:
 
-Reduce Energy Consumption: Businesses can reduce their energy consumption by implementing energy-efficient practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems.
+1. __Reduce Energy Consumption__: Businesses can reduce their energy consumption by implementing energy-efficient practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems. 
 
-Reduce Waste: Businesses can reduce waste by implementing recycling and composting programs, reducing paper usage, and using eco-friendly products and packaging.
+2. __Reduce Waste__: Businesses can reduce waste by implementing recycling and composting programs, reducing paper usage, and using eco-friendly products and packaging. 
 
-Sustainable Sourcing: Businesses can source sustainable materials, ingredients, and products that have a lower environmental impact.
+3. __Encourage Remote Work__: Your electricity bill will go down right away if you encourage remote work. Lighting, climate control, and plugged-in office equipment will cost less. Less environmental stress results from those energy savings.
+Also, workers who don't drive to work don't contribute to the atmosphere's damaging greenhouse gas emissions. They consume fewer fossil fuels each week, which helps the environment and saves them money. 
 
-Employee Engagement: Encouraging employee involvement in sustainability efforts can create a culture of sustainability within the workplace and inspire new ideas and initiatives.
+4. __Sustainable Sourcing__: Businesses can source sustainable materials, ingredients, and products that have a lower environmental impact. 
 
-Social Responsibility: Businesses can promote social responsibility by supporting local communities, investing in social causes, and ensuring fair and ethical practices in their supply chains.
+5. __Employee Engagement__: Encouraging employee involvement in sustainability efforts can create a culture of sustainability within the workplace and inspire new ideas and initiatives.
 
-Transparency: By being transparent about their sustainability efforts, businesses can build trust with their customers and stakeholders and demonstrate their commitment to sustainable living.
+6. __Social Responsibility__: Businesses can promote social responsibility by supporting local communities, investing in social causes, and ensuring fair and ethical practices in their supply chains.
+
+7. __Transparency__: By being transparent about their sustainability efforts, businesses can build trust with their customers and stakeholders and demonstrate their commitment to sustainable living.
 
 ## Citations
 
@@ -1249,6 +1252,7 @@ Transparency: By being transparent about their sustainability efforts, businesse
 12. [OneGreenPlanet]5 Myths About Sustainable Living, 2018.
 13. [MindBodyGreen]The Top 5 Myths About Sustainable Living, 2019.
 14. https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly
+15. https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/
 
 
 ## Interesting videos
