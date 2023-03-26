@@ -62,6 +62,7 @@
   - [Citations](#citations)
   - [Interesting videos](#interesting-videos)
   - [Interesting podcasts](#interesting-podcasts)
+  - [Interesting Documentaries](#interesting-documentaries)
   - [Current Contributors](#current-contributors)
 
 ---
