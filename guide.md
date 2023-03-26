@@ -63,6 +63,7 @@
   - [Interesting videos](#interesting-videos)
   - [Interesting podcasts](#interesting-podcasts)
   - [Interesting Documentaries](#interesting-documentaries)
+  - [Interesting Books](#interesting-documentaries)
   - [Current Contributors](#current-contributors)
 
 ---
@@ -1211,6 +1212,25 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 1. Cowspiracy ([IMDB](https://www.imdb.com/title/tt3302820/?ref_=fn_al_tt_1)) 
 2. Minimalism ([IMDB](https://www.imdb.com/title/tt3810760/))
 3. The True Cost ([IMDB](https://www.imdb.com/title/tt3162938/?ref_=nv_sr_srsg_0))
+
+## Interesting Books
+
+###Zero Wate Lifestyle 
+
+1. [Zero Waste Home](https://www.amazon.co.uk/dp/1451697686/ref=as_li_ss_tl?dchild=1&keywords=Zero+Waste+Home:+The+Ultimate+Guide+to+Simplifying+Your+Life+by+Reducing+Your+Waste&language=en_US&sr=8-1&linkCode=gs2&linkId=e202b9c1a0b06281a77448a9221636dc&tag=zerowastememoirs-21) by Bea Johnson 
+2. [Waste Not: Make a Big Difference By Throwing Away Less](https://www.amazon.co.uk/dp/1743794622/ref=as_li_ss_tl?dchild=1&keywords=Waste+Not:+Make+a+Big+Difference+By+Throwing+Away+Less&language=en_US&sr=8-1&linkCode=gs2&linkId=e131829e8315f7f9d9b19796853e2de8&tag=zerowastememoirs-21) by Erin Rhoads
+3. [Zero Waste: Simple Life Hacks to Drastically Reduce Your Trash ](https://www.amazon.co.uk/dp/1510730818/ref=as_li_ss_tl?dchild=1&keywords=Zero+Waste:+Simple+Life+Hacks+to+Drastically+Reduce+Your+Trash&language=en_US&sr=8-3&linkCode=gs2&linkId=7e2967f161318ca30b2bb14c84368516&tag=zerowastememoirs-21) by Shia Su
+4. [101 Ways to Go Zero Waste ](https://www.amazon.co.uk/dp/1682683311/ref=as_li_ss_tl?dchild=1&keywords=101+Ways+to+Go+Zero+Waste&language=en_US&sr=8-1&linkCode=gs2&linkId=916bb8dc1827a074963a701a6d730ec1&tag=zerowastememoirs-21) by Kathryn Kellogg
+5. [A Zero Waste Life: In Thirty Days ](https://www.amazon.co.uk/dp/1948062607/ref=as_li_ss_tl?dchild=1&s=todays-deals&keywords=A+Zero+Waste+Life:+In+Thirty+Days&language=en_US&psr=EY17&sr=8-1&linkCode=gs2&linkId=312c494c1e1cbb8a3b0c8687aee96338&tag=zerowastememoirs-21) by Anita Vandyke
+
+###Sustainable and Eco-Friendly Living
+
+1. [Sustainable Home: Practical projects, tips and advice for maintaining a more eco-friendly household](https://www.amazon.co.uk/dp/071123969X?linkCode=gs2&tag=upjourney-21) by Christine Liu
+2. [Green Living For Dummies ](https://www.amazon.co.uk/dp/0470227427?linkCode=gs2&tag=upjourney-21) by Yvonne Jeffery, Liz Barclay, Michael Grosvenor
+3. [Make Your Place: Affordable, Sustainable Nesting Skills](https://www.amazon.co.uk/dp/0978866568?linkCode=gs2&tag=upjourney-21) by Raleigh Briggs
+4. [Cradle to Cradle: Remaking the Way We Make Things](https://www.amazon.co.uk/dp/0865475873?s=books&crid=1KROSYZVZVEQH&keywords=Cradle+to+Cradle&sprefix=cradle+to+cradle,stripbooks-intl-ship,86&ref_=as_li_ss_tl&language=en_US&sr=1-1&linkCode=gg2&linkId=d88b83dc91aa7e3854a1c51fe8be4695&tag=candicebatist-20) by William McDonough and Michael Braungart 
+  
+**P.S. Buy the e-book, audiobook or borrow a copy from a friend!** 
 
 ## Current Contributors
 
