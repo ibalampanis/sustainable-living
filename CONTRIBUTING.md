@@ -19,7 +19,7 @@ the [README](README.md) file for more information.
 
 **Feel free** to correct any mistakes you see in the files! Although keep in mind that you **should not** ruin other people's
 work. It is within our [Code of Conduct](https://github.com/ibalampanis/sustainable-living/blob/main/CODE_OF_CONDUCT.md) 
-to always be respectful to each other's work and, if that's not enough, there is definetely a penalty for that!
+to always be respectful to each other's work and, if that's not enough, there is definitely a penalty for that!
 
 ## Be creative
 
