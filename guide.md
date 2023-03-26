@@ -1176,6 +1176,24 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 - **Partnership**: to achieve goals of sustainable development, we have to work together as we depend on each other to
   prosper.
 
+## Sustainable Living & Business
+
+Sustainable living in business refers to the practice of conducting business operations in a manner that minimizes negative impacts on the environment, society, and economy. This involves adopting sustainable business practices that promote environmental stewardship, social responsibility, and economic prosperity.
+
+Here are some ways businesses can promote sustainable living:
+
+Reduce Energy Consumption: Businesses can reduce their energy consumption by implementing energy-efficient practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems.
+
+Reduce Waste: Businesses can reduce waste by implementing recycling and composting programs, reducing paper usage, and using eco-friendly products and packaging.
+
+Sustainable Sourcing: Businesses can source sustainable materials, ingredients, and products that have a lower environmental impact.
+
+Employee Engagement: Encouraging employee involvement in sustainability efforts can create a culture of sustainability within the workplace and inspire new ideas and initiatives.
+
+Social Responsibility: Businesses can promote social responsibility by supporting local communities, investing in social causes, and ensuring fair and ethical practices in their supply chains.
+
+Transparency: By being transparent about their sustainability efforts, businesses can build trust with their customers and stakeholders and demonstrate their commitment to sustainable living.
+
 ## Citations
 
 1. Gendre, I. (2023, February 28). What is green living? Greenly. Retrieved March 23, 2023,

@@ -35,13 +35,13 @@ def get_footprint_comment(total_emissions):
     """Returns a colored comment based on the given carbon footprint value."""
 
     if total_emissions < 400:
-        comment = "\033[32mYour carbon footprint is very low! Keep up the good work.\033[0m"
+        comment = "\033[32mYour carbon footprint is very low! Keep up the good work.\033"
     elif total_emissions < 1200:
-        comment = "\033[32mYour carbon footprint is low, but there is still room for improvement."+"\nConsider reducing your energy consumption and transportation emissions.[0m"
+        comment = "\033[32mYour carbon footprint is low, but there is still room for improvement."+"\nConsider reducing your energy consumption and transportation emissions."
     elif total_emissions < 1600:
-        comment = "\033[33mYour carbon footprint is average, but there is room for improvement."+"\nConsider reducing your meat consumption, choosing sustainable transportation, and using energy-efficient appliances.\033[0m"
+        comment = "\033[33mYour carbon footprint is average, but there is room for improvement."+"\nConsider reducing your meat consumption, choosing sustainable transportation, and using energy-efficient appliances.\033"
     else:
-        comment = "\033[31mYour carbon footprint is high. You should consider reducing your emissions.\033[0m"
+        comment = "\033[31mYour carbon footprint is high. You should consider reducing your emissions.\033"
 
     # Print results
     print(f"Your monthly carbon footprint is {total_emissions:.2f} kg CO2e.")
