@@ -27,6 +27,9 @@ and for clarifying any doubts or questions that might arise. The maintainers
 are also responsible for updating the Code of Conduct, in order to keep it
 relevant and up-to-date.
 
+## ENFORCEMENT
+
+You can report instances of abusive, harassing, or other undesirable behavior by getting in touch with one of the project maintainers. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 ## NEED TO
 
 ```diff
