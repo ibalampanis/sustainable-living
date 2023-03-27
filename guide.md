@@ -874,6 +874,7 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 <!-- A Growing Culture -->
 
 - **A Growing Culture**
+
   Smallholder farmers and food producers produce the majority of the world's food supply. The nonprofit organization A Growing Culture is dedicated to fostering a culture of farmer autonomy and agroecological innovation. 'Reframing the way the world views farmers, facilitating collective learning, accelerating innovation through farmer-to-farmer exchange and supporting on-the-ground activities for farmer-led research and documentation' are some of the ways they achieve this.
 
   - **Get involved:** Follow and amplify its educational content on Instagram and donate what you can.
@@ -881,11 +882,13 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 <!-- Greenpeace -->
 
 - **Greenpeace**
+
   Greenpeace is an international organization dedicated to creating a green and peaceful world that is ecologically diverse and healthy. The nonprofit organization was established in the 1970s and currently operates in more than 40 nations. Its activists, students, educators, scientists and environmentalists rely on it to research problems and potential solutions, lobby governments, and participate in climate change initiatives. Greenpeace is well known for its Detox anti-consumption movement as well as for its fleet of boats that are used to physically block oil tankers from departing ports.
 
   - **Get involved:** Join a local group of activists and follow along with Greenpeace’s journalism site, Unearthed. Donations are also welcome.
 
 - **Project Drawdown**
+
   Project Drawdown is an international coalition of academics, researchers, business people, and activists working to develop a detailed strategy to stop global warming. The analysis' findings indicate that we already have the means to combat climate change. As a result, the organization now concentrates on educating people all around the world and supporting initiatives that use the efficient tools found via its research.
 
   - **Get involved:** Start by reading the book which lays out 100 of the most effective solutions for reversing global warming. You can also learn more by attending an event, or support the group by making a donation.
