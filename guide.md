@@ -21,7 +21,7 @@
 - [Interesting podcasts](#interesting-podcasts)
 - [Interesting Documentaries](#interesting-documentaries)
 - [Interesting Books](#interesting-books)
-- [Sustainable developement goals](#sustainable-developement-goals)
+- [Sustainable development goals](#sustainable-developement-goals)
 - [Donate!](#donate)
 - [Current Contributors](#current-contributors)
 
