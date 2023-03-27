@@ -3,12 +3,14 @@
 ## Table of Contents
 
 - [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
+
   - [Table of Contents](#table-of-contents)
   - [What is Sustainable Living?](#what-is-sustainable-living)
   - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
   - [7 principles of sustainable living](#7-principles-of-sustainable-living)
   - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
+
     - [Reduce your energy consumption](#reduce-your-energy-consumption)
     - [Use sustainable transportation](#use-sustainable-transportation)
     - [Reduce your water usage](#reduce-your-water-usage)
@@ -39,10 +41,11 @@
     - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
     - [Reduce paper usage](#reduce-paper-usage)
     - [Support environmental organizations](#support-environmental-organizations)
-    
+
     - [Composting at Home](#composting-at-home)
 
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
+  -
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
     - [Geco Air](#geco-air)
@@ -764,18 +767,17 @@ Paper usage is a significant contributor to deforestation and greenhouse gas emi
 
 </h1>
 
-
 ### Support environmental organizations:
 
 Supporting environmental organizations is an important way to contribute to the protection of the environment. Environmental organizations work to promote sustainable practices, protect endangered species, and advocate for environmental policies and regulations. By supporting these organizations, individuals can help fund research, educational programs, and activism aimed at preserving natural habitats, reducing pollution, and mitigating the effects of climate change.
 
 Support can come in many forms, such as :
+
 1. Donating money: Many environmental organizations rely on donations from supporters to fund their operations, and any contribution can make a difference
 
 2. Volunteering time: Volunteering with environmental organizations can also be a great way to get involved in the community and make a tangible impact on the environment
 
 3. Spreading awareness about environmental issues: By spreading awareness and sharing information about environmental issues, individuals can also help to build a culture of environmental responsibility and encourage others to take action to protect the planet.
-
 
 <h1 align="center"> 
 	<img height="200"  width="200" src="media/help.png" alt="">
@@ -866,6 +868,27 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
   - create a more resilient and equitable economy
 
 ---
+
+## Organizations to support
+
+<!-- A Growing Culture -->
+
+- **A Growing Culture**
+  Smallholder farmers and food producers produce the majority of the world's food supply. The nonprofit organization A Growing Culture is dedicated to fostering a culture of farmer autonomy and agroecological innovation. 'Reframing the way the world views farmers, facilitating collective learning, accelerating innovation through farmer-to-farmer exchange and supporting on-the-ground activities for farmer-led research and documentation' are some of the ways they achieve this.
+
+  - **Get involved:** Follow and amplify its educational content on Instagram and donate what you can.
+
+<!-- Greenpeace -->
+
+- **Greenpeace**
+  Greenpeace is an international organization dedicated to creating a green and peaceful world that is ecologically diverse and healthy. The nonprofit organization was established in the 1970s and currently operates in more than 40 nations. Its activists, students, educators, scientists and environmentalists rely on it to research problems and potential solutions, lobby governments, and participate in climate change initiatives. Greenpeace is well known for its Detox anti-consumption movement as well as for its fleet of boats that are used to physically block oil tankers from departing ports.
+
+  - **Get involved:** Join a local group of activists and follow along with Greenpeace’s journalism site, Unearthed. Donations are also welcome.
+
+- **Project Drawdown**
+  Project Drawdown is an international coalition of academics, researchers, business people, and activists working to develop a detailed strategy to stop global warming. The analysis' findings indicate that we already have the means to combat climate change. As a result, the organization now concentrates on educating people all around the world and supporting initiatives that use the efficient tools found via its research.
+
+  - **Get involved:** Start by reading the book which lays out 100 of the most effective solutions for reversing global warming. You can also learn more by attending an event, or support the group by making a donation.
 
 ## Apps you can use to help you live sustainably
 
@@ -1026,12 +1049,12 @@ Get it
 on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515)
 
 ---
+
 <br>
 
 ## Environmental Open-Source Projects
 
 ---
-
 
 <!-- Echo_Hacker_Farm -->
 
@@ -1045,7 +1068,6 @@ on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=
 <div align="right">
 
 </div>
-
 
 <br>
 
@@ -1067,7 +1089,6 @@ Learn More about it in : [Website](https://wiki.ecohackerfarm.org)
 </p>
 
 <div align="right">
-
 
 </div>
 
@@ -1091,7 +1112,6 @@ Learn More about it in : [Website](https://climate.apache.org)
 </p>
 
 <div align="right">
-
 
 </div>
 
@@ -1118,7 +1138,6 @@ Learn More about it in : [Website](https://pangeo.io)
 
 <div align="right">
 
-
 </div>
 
 <br>
@@ -1128,6 +1147,7 @@ Leaflet is a well-known open source JavaScript library. It can be used for all s
 Learn More about it in : [Website](https://pangeo.io)
 
 ---
+
 <br>
 
 ## Green Communities
@@ -1145,9 +1165,9 @@ water.
 Here are some examples of sustainable living case studies:
 
 1. **The Green School:** The Green School is an eco-friendly school located in Bali, Indonesia. The school was built using sustainable materials such as bamboo, and promotes sustainable living practices such as composting and organic gardening. The school also has a zero-waste policy and has implemented a rainwater harvesting system to reduce water waste. The Green School aims to provide an education that is focused on sustainability and environmental stewardship.
-    [For more info visit here:](https://www.greenschool.org/bali/)
+   [For more info visit here:](https://www.greenschool.org/bali/)
 2. **The Warka Water Tower:** The Warka Water Tower is a sustainable water harvesting system developed by Italian architect Arturo Vittori. The tower uses a mesh net to collect moisture from the air, which is then filtered and stored in a tower. The tower can hold up to 100 liters of water, providing a sustainable source of drinking water for rural communities. The tower is made from locally sourced materials and is designed to be easy to maintain and repair.
-    [For more info visit here:](https://warkawater.org/warkatower/)
+   [For more info visit here:](https://warkawater.org/warkatower/)
 3. **The Beddington Zero Energy Development (BedZED):** BedZED is a sustainable housing development located in London, England. The development includes 100 homes and several office spaces, all of which are designed to be zero-carbon and energy-efficient. The homes feature a range of sustainable technologies, such as solar panels, rainwater harvesting, and composting toilets, and are built with sustainable materials. BedZED is considered a pioneering example of sustainable housing development.
    [For more info visit here:](https://www.zedfactory.com/bedzed)
 
@@ -1220,20 +1240,20 @@ Sustainable living in business refers to the practice of conducting business ope
 
 Here are some ways businesses can promote sustainable living:
 
-1. __Reduce Energy Consumption__: Businesses can reduce their energy consumption by implementing energy-efficient practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems. 
+1. **Reduce Energy Consumption**: Businesses can reduce their energy consumption by implementing energy-efficient practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems.
 
-2. __Reduce Waste__: Businesses can reduce waste by implementing recycling and composting programs, reducing paper usage, and using eco-friendly products and packaging. 
+2. **Reduce Waste**: Businesses can reduce waste by implementing recycling and composting programs, reducing paper usage, and using eco-friendly products and packaging.
 
-3. __Encourage Remote Work__: Your electricity bill will go down right away if you encourage remote work. Lighting, climate control, and plugged-in office equipment will cost less. Less environmental stress results from those energy savings.
-Also, workers who don't drive to work don't contribute to the atmosphere's damaging greenhouse gas emissions. They consume fewer fossil fuels each week, which helps the environment and saves them money. 
+3. **Encourage Remote Work**: Your electricity bill will go down right away if you encourage remote work. Lighting, climate control, and plugged-in office equipment will cost less. Less environmental stress results from those energy savings.
+   Also, workers who don't drive to work don't contribute to the atmosphere's damaging greenhouse gas emissions. They consume fewer fossil fuels each week, which helps the environment and saves them money.
 
-4. __Sustainable Sourcing__: Businesses can source sustainable materials, ingredients, and products that have a lower environmental impact. 
+4. **Sustainable Sourcing**: Businesses can source sustainable materials, ingredients, and products that have a lower environmental impact.
 
-5. __Employee Engagement__: Encouraging employee involvement in sustainability efforts can create a culture of sustainability within the workplace and inspire new ideas and initiatives.
+5. **Employee Engagement**: Encouraging employee involvement in sustainability efforts can create a culture of sustainability within the workplace and inspire new ideas and initiatives.
 
-6. __Social Responsibility__: Businesses can promote social responsibility by supporting local communities, investing in social causes, and ensuring fair and ethical practices in their supply chains.
+6. **Social Responsibility**: Businesses can promote social responsibility by supporting local communities, investing in social causes, and ensuring fair and ethical practices in their supply chains.
 
-7. __Transparency__: By being transparent about their sustainability efforts, businesses can build trust with their customers and stakeholders and demonstrate their commitment to sustainable living.
+7. **Transparency**: By being transparent about their sustainability efforts, businesses can build trust with their customers and stakeholders and demonstrate their commitment to sustainable living.
 
 ## Citations
 
@@ -1253,7 +1273,7 @@ Also, workers who don't drive to work don't contribute to the atmosphere's damag
 13. [MindBodyGreen]The Top 5 Myths About Sustainable Living, 2019.
 14. https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly
 15. https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/
-
+16. [35 ENVIRONMENTAL ORGANIZATIONS AND NONPROFITS FOR A SUSTAINABLE FUTURE (LIST AND WAYS YOU CAN GET INVOLVED)](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
 
 ## Interesting videos
 
@@ -1275,15 +1295,15 @@ Also, workers who don't drive to work don't contribute to the atmosphere's damag
 
 ## Interesting Documentaries
 
-1. Cowspiracy ([IMDB](https://www.imdb.com/title/tt3302820/?ref_=fn_al_tt_1)) 
+1. Cowspiracy ([IMDB](https://www.imdb.com/title/tt3302820/?ref_=fn_al_tt_1))
 2. Minimalism ([IMDB](https://www.imdb.com/title/tt3810760/))
 3. The True Cost ([IMDB](https://www.imdb.com/title/tt3162938/?ref_=nv_sr_srsg_0))
 
 ## Interesting Books
 
-### Zero Waste Lifestyle 
+### Zero Waste Lifestyle
 
-1. [Zero Waste Home](https://www.amazon.co.uk/dp/1451697686/ref=as_li_ss_tl?dchild=1&keywords=Zero+Waste+Home:+The+Ultimate+Guide+to+Simplifying+Your+Life+by+Reducing+Your+Waste&language=en_US&sr=8-1&linkCode=gs2&linkId=e202b9c1a0b06281a77448a9221636dc&tag=zerowastememoirs-21) by Bea Johnson 
+1. [Zero Waste Home](https://www.amazon.co.uk/dp/1451697686/ref=as_li_ss_tl?dchild=1&keywords=Zero+Waste+Home:+The+Ultimate+Guide+to+Simplifying+Your+Life+by+Reducing+Your+Waste&language=en_US&sr=8-1&linkCode=gs2&linkId=e202b9c1a0b06281a77448a9221636dc&tag=zerowastememoirs-21) by Bea Johnson
 2. [Waste Not: Make a Big Difference By Throwing Away Less](https://www.amazon.co.uk/dp/1743794622/ref=as_li_ss_tl?dchild=1&keywords=Waste+Not:+Make+a+Big+Difference+By+Throwing+Away+Less&language=en_US&sr=8-1&linkCode=gs2&linkId=e131829e8315f7f9d9b19796853e2de8&tag=zerowastememoirs-21) by Erin Rhoads
 3. [Zero Waste: Simple Life Hacks to Drastically Reduce Your Trash ](https://www.amazon.co.uk/dp/1510730818/ref=as_li_ss_tl?dchild=1&keywords=Zero+Waste:+Simple+Life+Hacks+to+Drastically+Reduce+Your+Trash&language=en_US&sr=8-3&linkCode=gs2&linkId=7e2967f161318ca30b2bb14c84368516&tag=zerowastememoirs-21) by Shia Su
 4. [101 Ways to Go Zero Waste ](https://www.amazon.co.uk/dp/1682683311/ref=as_li_ss_tl?dchild=1&keywords=101+Ways+to+Go+Zero+Waste&language=en_US&sr=8-1&linkCode=gs2&linkId=916bb8dc1827a074963a701a6d730ec1&tag=zerowastememoirs-21) by Kathryn Kellogg
@@ -1294,13 +1314,13 @@ Also, workers who don't drive to work don't contribute to the atmosphere's damag
 1. [Sustainable Home: Practical projects, tips and advice for maintaining a more eco-friendly household](https://www.amazon.co.uk/dp/071123969X?linkCode=gs2&tag=upjourney-21) by Christine Liu
 2. [Green Living For Dummies ](https://www.amazon.co.uk/dp/0470227427?linkCode=gs2&tag=upjourney-21) by Yvonne Jeffery, Liz Barclay, Michael Grosvenor
 3. [Make Your Place: Affordable, Sustainable Nesting Skills](https://www.amazon.co.uk/dp/0978866568?linkCode=gs2&tag=upjourney-21) by Raleigh Briggs
-4. [Cradle to Cradle: Remaking the Way We Make Things](https://www.amazon.co.uk/dp/0865475873?s=books&crid=1KROSYZVZVEQH&keywords=Cradle+to+Cradle&sprefix=cradle+to+cradle,stripbooks-intl-ship,86&ref_=as_li_ss_tl&language=en_US&sr=1-1&linkCode=gg2&linkId=d88b83dc91aa7e3854a1c51fe8be4695&tag=candicebatist-20) by William McDonough and Michael Braungart 
-  
-**P.S. Buy the e-book, audiobook or borrow a copy from a friend!** 
+4. [Cradle to Cradle: Remaking the Way We Make Things](https://www.amazon.co.uk/dp/0865475873?s=books&crid=1KROSYZVZVEQH&keywords=Cradle+to+Cradle&sprefix=cradle+to+cradle,stripbooks-intl-ship,86&ref_=as_li_ss_tl&language=en_US&sr=1-1&linkCode=gg2&linkId=d88b83dc91aa7e3854a1c51fe8be4695&tag=candicebatist-20) by William McDonough and Michael Braungart
+
+**P.S. Buy the e-book, audiobook or borrow a copy from a friend!**
 
 ## Sustainable development goals
 
-The Sustainable Development Goals (SDGs), also referred to as the Global Goals, were enacted by the United Nations in 2015 as a worldwide call to action to end poverty, protect the planet, and guarantee that by the year 2030, peace and prosperity will be enjoyed by all. 
+The Sustainable Development Goals (SDGs), also referred to as the Global Goals, were enacted by the United Nations in 2015 as a worldwide call to action to end poverty, protect the planet, and guarantee that by the year 2030, peace and prosperity will be enjoyed by all.
 
 The 17 SDGs acknowledge that development must balance social, economic, and environmental sustainability and that actions in one area will have an impact on results in others.
 Countries have agreed to give those who are falling behind the most priority when making progress. The SDGs aim to eradicate AIDS, starvation, poverty, and prejudice against women and girls.
@@ -1309,40 +1329,39 @@ The SDGs must be achieved in every situation, and this requires the creativity, 
 ### THE 17 GOALS
 
 1. **No poverty:**
-End poverty in all its forms everywhere
+   End poverty in all its forms everywhere
 2. **Zero Hunger:**
-End hunger, achieve food security and improved nutrition and promote sustainable agriculture
+   End hunger, achieve food security and improved nutrition and promote sustainable agriculture
 3. **Good Health and well-being:**
-Ensure healthy lives and promote well-being for all at all ages
+   Ensure healthy lives and promote well-being for all at all ages
 4. **Quality Education:**
-Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+   Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 5. **Gender Equality:**
-Achieve gender equality and empower all women and girls
+   Achieve gender equality and empower all women and girls
 6. **Clean Water and Sanitation:**
-Ensure availability and sustainable management of water and sanitation for all
+   Ensure availability and sustainable management of water and sanitation for all
 7. **Affordable and Clean Energy:**
-Ensure access to affordable, reliable, sustainable and modern energy for all
+   Ensure access to affordable, reliable, sustainable and modern energy for all
 8. **Decent Work and Economic Growth:**
-Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
+   Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
 9. **Industry, Innovation and Infrastructure:**
-Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+   Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
 10. **Reduced Inequalities:**
-Reduce inequality within and among countries
+    Reduce inequality within and among countries
 11. **Sustainable Cities:**
-Make cities and human settlements inclusive, safe, resilient and sustainable
+    Make cities and human settlements inclusive, safe, resilient and sustainable
 12. **Responsible Consumption and Production:**
-Ensure sustainable consumption and production patterns
+    Ensure sustainable consumption and production patterns
 13. **Climate Action:**
-Take urgent action to combat climate change and its impacts
+    Take urgent action to combat climate change and its impacts
 14. **Life Below Water:**
-Conserve and sustainably use the oceans, seas and marine resources for sustainable development
+    Conserve and sustainably use the oceans, seas and marine resources for sustainable development
 15. **Life on Land:**
-Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+    Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
 16. **Peace, Justice and Strong Institutions:**
-Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+    Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
 17. **Partnerships for the goals:**
-Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
-
+    Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
 
 Source: [United Nations](https://sdgs.un.org/goals)
 
