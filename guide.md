@@ -70,6 +70,7 @@
   - [Interesting Documentaries](#interesting-documentaries)
   - [Interesting Books](#interesting-books)
   - [Sustainable developement goals](#sustainable-developement-goals)
+  - [Donate!](#donate)
   - [Current Contributors](#current-contributors)
 
 ---
@@ -1367,6 +1368,48 @@ The SDGs must be achieved in every situation, and this requires the creativity, 
     Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
 
 Source: [United Nations](https://sdgs.un.org/goals)
+
+## Donate!
+### Donate to a good cause of your choice 
+#### 5 AMAZING ECO-FRIENDLY CHARITIES CHAMPIONING SUSTAINABILITY
+- [The Conservation Fund](#conv-fund)
+- [350.org](#350)
+- [Oceana](#oceana)
+- [Trees for the Future](#trees-for-the-future)
+- [The Union of Concerned Scientists](#uni-scie)
+
+<a name="conv-fund">
+The Conservation Fund is a non-profit that was founded in 1985. The organisation focuses on one task and one task only: protecting over seven million acres of land in the United States. With a vast and diverse landscape of forests, deserts, and waterways, even we in the UK should be investing in maintaining these landscapes for the stability of our planet. The Conservation Fund also puts 97% of all the money they receive directly towards their cause, which is an incredibly high rate and receives a big thumbs up from us.
+</a>
+
+[Donate](https://www.conservationfund.org/donate)
+
+
+<a name="350">
+An international organisation, 350.org were set up to reduce the level of carbon dioxide in the atmosphere - an important and complex task! They’re currently working to reduce it to 350 parts per million, down from the 400 million we’re currently at, and are fighting fossil fuel industries with vigour. If you’re worried about climate change, 350.org are a key charity to donate to.
+</a>
+
+[Donate](https://act.350.org/donate/web_donate_button/?source=web_donate_button_main_nav_desktop)
+
+<a name="oceana">
+The world's oceans play a vital role in the health of our planet. From the crustaceans that absorb huge amounts of CO2, to the coral reefs that produce oxygen and prevent coastal erosion, our seas contain a balanced ecosystem that we all rely on. Oceana is a non-profit that’s committed to protecting the ocean for future generations, keeping it safe, stable, and teeming with life. They’ve had campaigns to end the trading of shark fins, halted the method of finding gas and oil with seismic airguns that devastate the ocean floor, and are constantly advocating to reduce the number of non-target fish caught in commercial fishing. Go Oceana!
+</a>
+
+[Donate](https://oceana.org/)
+
+<a name="trees-for-the-future">
+Combining conservation with improving the lives of poor farmers, Trees for the Future have been working since 1989 to plant over 115 million trees around the world. By doing this, they’re encouraging biodiversity, improving thousands of acres of bad soil, and reducing the CO2 in our atmosphere. Trees are natural carbon catchers, and planting more of them is essential to our planet’s health.
+</a>
+
+[Donate](https://trees.org/)
+
+<a name="uni-scie">
+One of the older charities on the list, The Union of Concerned Scientists (TUOCS) was formed in 1969. It’s a non-profit group of scientists that are working tirelessly to create a safer, healthier planet for us all. They don’t accept corporate or government funding so that they can maintain their independence, which means they rely solely on donations from people like you to keep pursuing their vital work.
+</a>
+
+[Donate](https://www.ucsusa.org/)
+
+Source: [andkeep](https://andkeep.com/blogs/journal/5-amazing-eco-friendly-charities-championing-sustainability)
 
 ## Current Contributors
 
