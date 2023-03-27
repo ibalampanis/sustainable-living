@@ -1,5 +1,32 @@
 
 
+def get_user_usage(category: str) -> float:
+    '''Asks the user their usage in an emission category
+    
+    Parameters:
+        category: the type of emission
+
+    Returns:
+        usage: a float number of user's input
+    '''
+    prompt = {'electricity': 'usage in kWh',
+              'natural gas': 'usage in kWh',
+              'oil': 'usage in kWh',
+              'commute':'distance in miles',
+              'flight': 'distance in miles',
+              'meat': 'consumption in kg',
+              'vegetable': 'consumption in kg'
+              }
+
+    while True:
+        try:
+            usage = float(input(
+                f"Enter your monthly {category} {prompt[category]}: "))
+            return usage
+        except ValueError:
+            print("\033[31mInvalid input. Please enter a number.\033[0m")
+
+
 def get_footprint_comment(total_emissions):
     """Returns a colored comment based on the given carbon footprint value."""
     if total_emissions < 400:
@@ -31,12 +58,7 @@ def main():
     # Prompt user for input
     inputs = {}
     for category, factor in emissions_factors.items():
-        while True:
-            try:
-                usage = float(input(f"Enter your monthly {category} {'consumption in kg' if category in ('meat', 'vegetable') else ('usage in kWh' if category in ('electricity', 'natural gas', 'oil') else 'distance in miles')}: "))
-                break  # Exit the loop if the input is valid
-            except ValueError:
-                print("\033[31mInvalid input. Please enter a number.\033[0m")
+        usage = get_user_usage(category)
         inputs[category] = usage * factor
 
     # Calculate total emissions
