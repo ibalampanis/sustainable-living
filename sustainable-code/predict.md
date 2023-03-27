@@ -45,7 +45,7 @@ CREATE TABLE carbon_footprint
 Calculate carbon footprint for each person and store it in a file. You can do this by running the following command:
 
 ```shell
-python carbon_footprint_calculator.py << emmissions.txt
+python carbon_footprint_calculator.py >> emmissions.txt
 ```
 
 ## Step 4: Insert data into the table
@@ -72,7 +72,7 @@ pip install mindsdb
 Start MindsDB. You can do this by running the following command:
 
 ```shell
-pyton -m mindsdb
+python -m mindsdb
 ```
 
 ## Step 7: Create mysql datasource in mindsdb
@@ -82,7 +82,7 @@ Create mysql datasource in mindsdb. You can do this by running the following com
 ```sql
 CREATE
 DATABASE db
-FROM ENGINE=mysql,
+FROM ENGINE='mysql',
 PARAMETERS= {
     ...
 };
@@ -94,8 +94,8 @@ Train a model. You can do this by running the following command:
 
 ```sql
 CREATE
-MODEL db.carbon_footprint_model
-FROM carbon_footprint
+MODEL mindsdb.carbon_footprint_model
+FROM db.carbon_footprint
 PREDICT total_footprint;
 ```
 
@@ -105,7 +105,7 @@ Make a prediction. You can do this by running the following command:
 
 ```sql
 SELECT age, income
-FROM mindsdb.debt_model
+FROM mindsdb.carbon_footprint_model
 WHERE total_footprint = 90000;
 ```
 
