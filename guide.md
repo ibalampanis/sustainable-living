@@ -13,18 +13,7 @@
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
   - [Organizations to support](#organizations-to-support)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
-    - [Ecosia](#ecosia)
-    - [Geco Air](#geco-air)
-    - [Good On You](#good-on-you)
-    - [JouleBug](#joulebug)
-    - [Olio](#olio)
-    - [Too Good To Go](#too-good-to-go)
-    - [Forest: Focus for Productivity](#forest-focus-for-productivity)
   - [Environmental Open Source Projects](#environmental-open-source-projects)
-    - [Eco Hacker Farm](#eco_hacker_farm)
-    - [Open Climate Workbench](#open-climate-workbench)
-    - [Pangeo](#Pangeo)
-    - [Leaflet](#Leaflet)
   - [Green Communities](#green-communities)
   - [Sustainable Living Case Studies](#sustainable-living-case-studies)
   - [5 false myths about sustainable living](#5-false-myths-about-sustainable-living)
@@ -892,8 +881,13 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
   - **Get involved:** Start by reading the book which lays out 100 of the most effective solutions for reversing global warming. You can also learn more by attending an event, or support the group by making a donation.
 
 ## Apps you can use to help you live sustainably
-
----
+- [Ecosia](#ecosia)
+- [Geco Air](#geco-air)
+- [Good On You](#good-on-you)
+- [JouleBug](#joulebug)
+- [Olio](#olio)
+- [Too Good To Go](#too-good-to-go)
+- [Forest: Focus for Productivity](#forest-focus-for-productivity)
 
 <br>
 
@@ -1076,8 +1070,10 @@ on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=
 <br>
 
 ## Environmental Open-Source Projects
-
----
+- [Eco Hacker Farm](#eco_hacker_farm)
+- [Open Climate Workbench](#open-climate-workbench)
+- [Pangeo](#Pangeo)
+- [Leaflet](#Leaflet)
 
 <br>
 
