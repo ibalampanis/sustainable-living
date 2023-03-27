@@ -47,8 +47,8 @@ Here are some more jokes found in websites hosting sustainable living themes!
   
   <h4 align="right">
 
-  [Website](https://www.conserve-energy-future.com/best-environmental-jokes.php)
-  
+  [Source](https://www.conserve-energy-future.com/best-environmental-jokes.php)
+
   </h4>
 #
 
