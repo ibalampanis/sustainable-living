@@ -45,7 +45,7 @@
     - [Composting at Home](#composting-at-home)
 
   - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
-  -
+  - [Organizations to support](#organizations-to-support)
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
     - [Geco Air](#geco-air)
