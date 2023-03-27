@@ -49,6 +49,7 @@
   - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
     - [Ecosia](#ecosia)
     - [Geco Air](#geco-air)
+    - [Good On You](#good-on-you)
     - [JouleBug](#joulebug)
     - [Olio](#olio)
     - [Too Good To Go](#too-good-to-go)
@@ -949,6 +950,28 @@ Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ecosi
 Geco air is your mobility companion that allows you to reduce the pollution linked to your displacements. Benefit from personalized advice to improve your driving style or mobility habits.
 
 Get it on: [Google Play](https://play.google.com/store/apps/details?id=com.ifpen.gecoair&hl=en&gl=US), [App Store](https://apps.apple.com/us/app/geco-air-air-quality/id1169064121)
+
+---
+
+<br>
+
+<!-- GOOD ON YOU -->
+
+<h3 style="font-size:20px" align="center">Good On You</h3>
+<br>
+<p align="center"> 
+<img height="150"  width="150" src="media/good-on-you.png" alt=""> 
+</p>
+
+<div align="right">
+
+[Image source](https://play-lh.googleusercontent.com/injy4nSwxxpDd5XMuQ_Dimy_DGqQn0SBGHO3QQr35P6PmEomhd38J5cCNefkHu_qAK0)
+
+</div> 
+<br>
+Good On You is your go-to source for fashion sustainability ratings. Become one of the more than a million people using Good On You to purchase more wisely and build a sustainable future. You have the ability to quickly assess how your favorite clothing manufacturers are affecting the causes that are important to you thanks to the Good On You app. Using the app to find superior substitutes, learn more about ethical fashion purchasing, and receive exclusive offers from the top brands.
+
+Get it on: [Google Play](https://play.google.com/store/apps/details?id=au.org.goodonyou.goodonyou&hl=en), [App Store](https://apps.apple.com/us/app/good-on-you-ethical-fashion-app/id1044017998)
 
 ---
 
