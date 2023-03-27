@@ -1079,6 +1079,8 @@ on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=
 
 ---
 
+<br>
+
 <!-- Echo_Hacker_Farm -->
 
 <h3 style="font-size:20px" align="center">Eco Hacker Farm</h3>
@@ -1167,7 +1169,7 @@ Learn More about it in : [Website](https://pangeo.io)
 
 Leaflet is a well-known open source JavaScript library. It can be used for all sorts of things, including environmentally friendly projects like the [Arctic Web Map](https://webmap.arcticconnect.ca/#ac_3573/2/90.0/0.0), which allows scientists to accurately visualize and analyze the arctic region, a critical ability for climate research.
 
-Learn More about it in : [Website](https://pangeo.io)
+Learn More about it in : [Website](https://leafletjs.com/)
 
 ---
 
@@ -1188,11 +1190,11 @@ water.
 Here are some examples of sustainable living case studies:
 
 1. **The Green School:** The Green School is an eco-friendly school located in Bali, Indonesia. The school was built using sustainable materials such as bamboo, and promotes sustainable living practices such as composting and organic gardening. The school also has a zero-waste policy and has implemented a rainwater harvesting system to reduce water waste. The Green School aims to provide an education that is focused on sustainability and environmental stewardship.
-   [For more info visit here:](https://www.greenschool.org/bali/)
+   [More...](https://www.greenschool.org/bali/)
 2. **The Warka Water Tower:** The Warka Water Tower is a sustainable water harvesting system developed by Italian architect Arturo Vittori. The tower uses a mesh net to collect moisture from the air, which is then filtered and stored in a tower. The tower can hold up to 100 liters of water, providing a sustainable source of drinking water for rural communities. The tower is made from locally sourced materials and is designed to be easy to maintain and repair.
-   [For more info visit here:](https://warkawater.org/warkatower/)
+   [More...](https://warkawater.org/warkatower/)
 3. **The Beddington Zero Energy Development (BedZED):** BedZED is a sustainable housing development located in London, England. The development includes 100 homes and several office spaces, all of which are designed to be zero-carbon and energy-efficient. The homes feature a range of sustainable technologies, such as solar panels, rainwater harvesting, and composting toilets, and are built with sustainable materials. BedZED is considered a pioneering example of sustainable housing development.
-   [For more info visit here:](https://www.zedfactory.com/bedzed)
+   [More...](https://www.zedfactory.com/bedzed)
 
 ---
 
