@@ -21,7 +21,7 @@
 - [Interesting podcasts](#interesting-podcasts)
 - [Interesting Documentaries](#interesting-documentaries)
 - [Interesting Books](#interesting-books)
-- [Sustainable development goals](#sustainable-developement-goals)
+- [Sustainable development goals](#sustainable-development-goals)
 - [Donate!](#donate)
 - [Current Contributors](#current-contributors)
 
@@ -1406,6 +1406,8 @@ Source: [United Nations](https://sdgs.un.org/goals)
 
 <div align="right">
 
+[Image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.charities.org%2Fsites%2Fdefault%2Ffiles%2F2-TCF%2520log_web_charityprofilepage2018.jpg&tbnid=qiAd0x0T9a9eTM&vet=12ahUKEwiNlpjEk_39AhUfg_0HHQMaDMcQMygCegUIARC6AQ..i&imgrefurl=https%3A%2F%2Fwww.charities.org%2Fcharities%2Fconservation-fund&docid=Pn77AXoIoyUdUM&w=1600&h=330&q=the%20conservation%20fund%20logo&ved=2ahUKEwiNlpjEk_39AhUfg_0HHQMaDMcQMygCegUIARC6AQ)
+
 </div>
 
 <br>
@@ -1431,6 +1433,8 @@ The Conservation Fund is a non-profit that was founded in 1985. The organisation
 
 <div align="right">
 
+[Image source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F350.org&psig=AOvVaw2kgsYvzXKZUo5Dkzr_ycR2&ust=1680042284662000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDgnuKg_f0CFQAAAAAdAAAAABAJ)
+
 </div>
 
 <br>
@@ -1454,6 +1458,8 @@ An international organisation, 350.org were set up to reduce the level of carbon
 </p>
 
 <div align="right">
+
+[Image source](https://oceana.org/)
 
 </div>
 
@@ -1479,6 +1485,8 @@ The world's oceans play a vital role in the health of our planet. From the crust
 
 <div align="right">
 
+[Image source](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftreellionaire.com%2Fen%2Fcharities%2Ftrees-for-the-future%2F&psig=AOvVaw3YlsLsPKRGLwVh4FqKc3nY&ust=1680041884814000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCNC9zKKf_f0CFQAAAAAdAAAAABAD)
+
 </div>
 
 <br>
@@ -1502,6 +1510,8 @@ Combining conservation with improving the lives of poor farmers, Trees for the F
 </p>
 
 <div align="right">
+
+[Image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ucsusa.org%2Fthemes%2Fcustom%2Fucstheme%2Fassets%2Fsocial-logo.png&tbnid=Bgj_qevgpuO1oM&vet=12ahUKEwj79_T3kv39AhVxnv0HHfUnAtsQMygAegUIARCKAQ..i&imgrefurl=https%3A%2F%2Fwww.ucsusa.org%2F&docid=LxAFHSza9wjw3M&w=1200&h=630&q=Union%20Of%20Concerned%20Scientists%20logo&ved=2ahUKEwj79_T3kv39AhVxnv0HHfUnAtsQMygAegUIARCKAQ)
 
 </div>
 
