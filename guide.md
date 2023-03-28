@@ -958,11 +958,14 @@ communities by turning our food scraps and yard waste into compost.
    Quiting smoking can significantly help reduce environmental pollution and waste. To begin with, by quiting smoking, you will be protecting the oceans, the ground, the groundwater underneath , as well as forests and wildlife, from cigarette butts and the toxic chemicals that are contained within them that may end up on them. You will also be reducing carbon emissions from cigarette smoke in the atmosphere.
 
    <h1 align = "center">
-      <img height = "200" width = "200" src ="media/No_smoking.png" alt = "no smoking">
-      <h4 align = "right">
-         [Image source](https://upload.wikimedia.org/wikipedia/commons/6/6b/No_Smoking.svg)
-      </h4>
+      <img height = "200" width = "200" src ="media/No_Smoking.png" alt = "no smoking">
+
+   <h4 align = "right">
+   
+   [Image source](https://upload.wikimedia.org/wikipedia/commons/6/6b/No_Smoking.svg)
+   </h4>
    </h1>
+
 
 ## Understanding the value of a sustainable lifestyle
 
