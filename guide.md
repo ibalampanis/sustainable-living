@@ -86,6 +86,10 @@ Following a green lifestyle, means to shape a way of life oriented to some earth
 - Be actively aware of the current threats posed to environment (i.e. climate crisis components) and get eco-conscious
 - Become more adaptive and open to eco-friendly practices
 
+<br>Want an indicator on how you're doing? Take some time to check your footprint using the calculator listed below so you can start reducing your footprint!
+
+https://www.footprintcalculator.org/home/en
+
 <h5 align="right">
 
 [back to the top](#table-of-contents)
