@@ -1864,6 +1864,36 @@ supporting initiatives that use the efficient tools found via its research.
 
 Source: [GreenDreamer](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
 
+<!-- rainforest alliance -->
+
+<h3 style="font-size:20px" align="center">Rainforest Alliance</h3>
+<br>
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/rainforestalliance.jpg" alt=""> 
+</p>
+
+<div align="right">
+
+[Image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.rainforest-alliance.org%2Fwp-content%2Fuploads%2F2021%2F07%2FRA_Seal_Core_Green_and_White_RGB-e1602838216833.png&tbnid=X24pSlguKkEFSM&vet=12ahUKEwiM8KCvxP79AhVyrycCHd_RCGoQMygBegQIARBH..i&imgrefurl=https%3A%2F%2Fwww.rainforest-alliance.org%2Finsights%2Fwhat-does-rainforest-alliance-certified-mean%2F&docid=KiRDpBNKHPRnPM&w=500&h=500&q=rainforest%20alliance%20wiki&ved=2ahUKEwiM8KCvxP79AhVyrycCHd_RCGoQMygBegQIARBH)
+
+</div>
+
+<br>
+
+The Rainforest Alliance is an international non-governmental organization (NGO) with staff in more than 20 countries and
+operations in more than 70 countries. It was founded in 1987 by Daniel Katz, an American environmental activist, who
+serves as the chair of the board of directors. The NGO states that its mission is “to create a more sustainable world by
+using social and market forces to protect nature and improve the lives of farmers and forest communities.”Its work
+includes the provision of an environmental certification for sustainability in agriculture. In parallel to its
+certification program, the Rainforest Alliance develops and implements long-term conservation and community development
+programs in a number of critically important tropical landscapes where commodity production threatens ecosystem health
+and the well-being of rural communities.
+
+</a>
+
+[Donate](https://www.rainforest-alliance.org/)
+
 ## Current Contributors
 
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
