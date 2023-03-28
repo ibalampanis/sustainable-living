@@ -1791,11 +1791,7 @@ Here are some ways businesses can promote sustainable living:
 
 <br>
 
-The Conservation Fund is a non-profit that was founded in 1985. The organisation focuses on one task and one task only:
-protecting over seven million acres of land in the United States. With a vast and diverse landscape of forests, deserts,
-and waterways, even we in the UK should be investing in maintaining these landscapes for the stability of our planet.
-The Conservation Fund also puts 97% of all the money they receive directly towards their cause, which is an incredibly
-high rate and receives a big thumbs up from us.
+Established in 1985, The Conservation Fund is a non-profit organization with a singular mission: safeguarding more than seven million acres of land in the United States. The American landscape comprises a wide range of terrains, including forests, deserts, and waterways, making it essential for us in the UK to invest in preserving these landscapes for the benefit of our planet's stability. The Conservation Fund's commitment to its cause is remarkable, with 97% of all received funds allocated directly to their efforts, earning our enthusiastic endorsement.
 </a>
 
 [Donate to The Conservation Fund](https://www.conservationfund.org/donate)
@@ -1821,10 +1817,8 @@ high rate and receives a big thumbs up from us.
 
 <br>
 
-An international organisation, 350.org were set up to reduce the level of carbon dioxide in the atmosphere - an
-important and complex task! They’re currently working to reduce it to 350 parts per million, down from the 400 million
-we’re currently at, and are fighting fossil fuel industries with vigour. If you’re worried about climate change, 350.org
-are a key charity to donate to.
+350.org is a global organization established to tackle the critical and intricate task of decreasing the level of carbon dioxide in the atmosphere. Their current objective is to lower the amount of carbon dioxide to 350 parts per million, a considerable decrease from the current 400 million level, and they are fiercely opposing fossil fuel industries. If you are concerned about climate change, contributing to 350.org is an essential way to help.
+
 </a>
 
 [Donate to 350.org](https://act.350.org/donate/web_donate_button/?source=web_donate_button_main_nav_desktop)
@@ -1850,12 +1844,8 @@ are a key charity to donate to.
 
 <br>
 
-The world's oceans play a vital role in the health of our planet. From the crustaceans that absorb huge amounts of CO2,
-to the coral reefs that produce oxygen and prevent coastal erosion, our seas contain a balanced ecosystem that we all
-rely on. Oceana is a non-profit that’s committed to protecting the ocean for future generations, keeping it safe,
-stable, and teeming with life. They’ve had campaigns to end the trading of shark fins, halted the method of finding gas
-and oil with seismic airguns that devastate the ocean floor, and are constantly advocating to reduce the number of
-non-target fish caught in commercial fishing. Go Oceana!
+Our planet's well-being is deeply intertwined with the health of the world's oceans. The oceans host a diverse ecosystem, with crustaceans that absorb substantial amounts of CO2 and coral reefs that generate oxygen and prevent coastal erosion, and this equilibrium is vital for our survival. Oceana is a non-profit organization dedicated to safeguarding the ocean for future generations, preserving its vitality, stability, and abundance of marine life. Their past accomplishments include successful campaigns to ban shark fin trading, discontinue the usage of seismic airguns in gas and oil exploration, and promoting the reduction of unintentionally caught fish in commercial fishing. Let's support Oceana!
+
 </a>
 
 [Donate to Oceana](https://oceana.org/)
@@ -1881,10 +1871,8 @@ non-target fish caught in commercial fishing. Go Oceana!
 
 <br>
 
-Combining conservation with improving the lives of poor farmers, Trees for the Future have been working since 1989 to
-plant over 115 million trees around the world. By doing this, they’re encouraging biodiversity, improving thousands of
-acres of bad soil, and reducing the CO2 in our atmosphere. Trees are natural carbon catchers, and planting more of them
-is essential to our planet’s health.
+Trees for the Future has been planting over 115 million trees globally since 1989, integrating conservation efforts with enhancing the livelihoods of impoverished farmers. Their tree-planting initiatives encourage biodiversity, rehabilitate thousands of acres of depleted soil, and decrease CO2 levels in the atmosphere. Trees serve as natural carbon sinks, making it crucial to plant more of them to maintain the health of our planet.
+
 </a>
 
 [Donate to Trees for the Future](https://trees.org/)
@@ -1910,10 +1898,8 @@ is essential to our planet’s health.
 
 <br>
 
-One of the older charities on the list, The Union of Concerned Scientists (TUOCS) was formed in 1969. It’s a non-profit
-group of scientists that are working tirelessly to create a safer, healthier planet for us all. They don’t accept
-corporate or government funding so that they can maintain their independence, which means they rely solely on donations
-from people like you to keep pursuing their vital work.
+Formed in 1969, The Union of Concerned Scientists (TUOCS) is one of the more established organizations on the list. It is a non-profit association of scientists devoted to promoting a safer and healthier planet for everyone. By refusing corporate or government funding, they maintain their autonomy, relying solely on donations from people like you to continue their crucial work.
+
 </a>
 
 [Donate to The Union of Concerned Scientists](https://www.ucsusa.org/)
