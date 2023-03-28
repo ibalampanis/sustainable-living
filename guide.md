@@ -19,6 +19,7 @@
 - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
 - [Sustainable development goals](#sustainable-development-goals)
 - [Sustainable Living & Business](#sustainable-living--business)
+- [Sustainable Art](#sustainable-art)
 - [Citations](#citations)
 - [Interesting videos](#interesting-videos)
 - [Interesting podcasts](#interesting-podcasts)
