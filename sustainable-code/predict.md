@@ -96,7 +96,7 @@ Train a model. You can do this by running the following command:
 CREATE
 MODEL mindsdb.carbon_footprint_model
 FROM db.carbon_footprint
-PREDICT total_footprint;
+PREDICT age, income;
 ```
 
 ## Step 9: Make a prediction
@@ -104,9 +104,10 @@ PREDICT total_footprint;
 Make a prediction. You can do this by running the following command:
 
 ```sql
-SELECT age, income
+SELECT total_footprint
 FROM mindsdb.carbon_footprint_model
-WHERE total_footprint = 90000;
+WHERE age = 69
+  AND income = 42000;
 ```
 
 
