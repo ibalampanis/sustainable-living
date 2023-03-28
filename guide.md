@@ -17,13 +17,13 @@
 - [5 false myths about sustainable living](#5-false-myths-about-sustainable-living)
 - [Testimonials](#testimonials)
 - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
+- [Sustainable development goals](#sustainable-development-goals)
 - [Sustainable Living & Business](#sustainable-living--business)
 - [Citations](#citations)
 - [Interesting videos](#interesting-videos)
 - [Interesting podcasts](#interesting-podcasts)
 - [Interesting Documentaries](#interesting-documentaries)
 - [Interesting Books](#interesting-books)
-- [Sustainable development goals](#sustainable-development-goals)
 - [Donate!](#donate)
 - [Current Contributors](#current-contributors)
 
@@ -1537,7 +1537,7 @@ stronger communities.(7 Myths About Sustainable Living That Need to Be Debunked,
 ## European Union's (EU) 2030 Agenda for Sustainable Development
 
 EU's [2030 agenda](https://sdgs.un.org/2030agenda) is a large and ambitious project, aimed to tackle many issues
-humanity faces, related to the UN's [17 Sustainable Development Goals](https://sdgs.un.org/goals). It comprises 169
+humanity faces, related to the UN's [17 Sustainable Development Goals](#sustainable-development-goals). It comprises 169
 targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 
 - **People**: everyone deserves to have the opportunity to live a dignified life, away from poverty and realize their
@@ -1548,6 +1548,66 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 - **Peace**: sustainable development needs a world where people will no longer live in conflict and violence.
 - **Partnership**: to achieve goals of sustainable development, we have to work together as we depend on each other to
   prosper.
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+## Sustainable development goals
+
+The Sustainable Development Goals (SDGs), also referred to as the Global Goals, were enacted by the United Nations in
+2015 as a worldwide call to action to end poverty, protect the planet, and guarantee that by the year 2030, peace and
+prosperity will be enjoyed by all.
+
+The 17 SDGs acknowledge that development must balance social, economic, and environmental sustainability and that
+actions in one area will have an impact on results in others.
+Countries have agreed to give those who are falling behind the most priority when making progress. The SDGs aim to
+eradicate AIDS, starvation, poverty, and prejudice against women and girls.
+The SDGs must be achieved in every situation, and this requires the creativity, knowledge, technology, and financial
+resources of the entire community.
+
+### THE 17 GOALS
+
+1. **No poverty:**
+   End poverty in all its forms everywhere
+2. **Zero Hunger:**
+   End hunger, achieve food security and improved nutrition and promote sustainable agriculture
+3. **Good Health and well-being:**
+   Ensure healthy lives and promote well-being for all at all ages
+4. **Quality Education:**
+   Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+5. **Gender Equality:**
+   Achieve gender equality and empower all women and girls
+6. **Clean Water and Sanitation:**
+   Ensure availability and sustainable management of water and sanitation for all
+7. **Affordable and Clean Energy:**
+   Ensure access to affordable, reliable, sustainable and modern energy for all
+8. **Decent Work and Economic Growth:**
+   Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
+9. **Industry, Innovation and Infrastructure:**
+   Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+10. **Reduced Inequalities:**
+    Reduce inequality within and among countries
+11. **Sustainable Cities:**
+    Make cities and human settlements inclusive, safe, resilient and sustainable
+12. **Responsible Consumption and Production:**
+    Ensure sustainable consumption and production patterns
+13. **Climate Action:**
+    Take urgent action to combat climate change and its impacts
+14. **Life Below Water:**
+    Conserve and sustainably use the oceans, seas and marine resources for sustainable development
+15. **Life on Land:**
+    Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat
+    desertification, and halt and reverse land degradation and halt biodiversity loss
+16. **Peace, Justice and Strong Institutions:**
+    Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build
+    effective, accountable and inclusive institutions at all levels
+17. **Partnerships for the goals:**
+    Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+Source: [United Nations](https://sdgs.un.org/goals)
 
 <h5 align="right">
 
@@ -1696,65 +1756,6 @@ Here are some ways businesses can promote sustainable living:
 
 </h5>
 
-## Sustainable development goals
-
-The Sustainable Development Goals (SDGs), also referred to as the Global Goals, were enacted by the United Nations in
-2015 as a worldwide call to action to end poverty, protect the planet, and guarantee that by the year 2030, peace and
-prosperity will be enjoyed by all.
-
-The 17 SDGs acknowledge that development must balance social, economic, and environmental sustainability and that
-actions in one area will have an impact on results in others.
-Countries have agreed to give those who are falling behind the most priority when making progress. The SDGs aim to
-eradicate AIDS, starvation, poverty, and prejudice against women and girls.
-The SDGs must be achieved in every situation, and this requires the creativity, knowledge, technology, and financial
-resources of the entire community.
-
-### THE 17 GOALS
-
-1. **No poverty:**
-   End poverty in all its forms everywhere
-2. **Zero Hunger:**
-   End hunger, achieve food security and improved nutrition and promote sustainable agriculture
-3. **Good Health and well-being:**
-   Ensure healthy lives and promote well-being for all at all ages
-4. **Quality Education:**
-   Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
-5. **Gender Equality:**
-   Achieve gender equality and empower all women and girls
-6. **Clean Water and Sanitation:**
-   Ensure availability and sustainable management of water and sanitation for all
-7. **Affordable and Clean Energy:**
-   Ensure access to affordable, reliable, sustainable and modern energy for all
-8. **Decent Work and Economic Growth:**
-   Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
-9. **Industry, Innovation and Infrastructure:**
-   Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
-10. **Reduced Inequalities:**
-    Reduce inequality within and among countries
-11. **Sustainable Cities:**
-    Make cities and human settlements inclusive, safe, resilient and sustainable
-12. **Responsible Consumption and Production:**
-    Ensure sustainable consumption and production patterns
-13. **Climate Action:**
-    Take urgent action to combat climate change and its impacts
-14. **Life Below Water:**
-    Conserve and sustainably use the oceans, seas and marine resources for sustainable development
-15. **Life on Land:**
-    Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat
-    desertification, and halt and reverse land degradation and halt biodiversity loss
-16. **Peace, Justice and Strong Institutions:**
-    Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build
-    effective, accountable and inclusive institutions at all levels
-17. **Partnerships for the goals:**
-    Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
-
-Source: [United Nations](https://sdgs.un.org/goals)
-
-<h5 align="right">
-
-[back to the top](#table-of-contents)
-
-</h5>
 
 ## Donate!
 
