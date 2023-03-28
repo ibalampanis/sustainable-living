@@ -1,13 +1,13 @@
 # Sustainable Living: Tips and Tricks for a Greener Lifestyle
 
 ## Table of Contents
+
 - [What is Sustainable Living?](#what-is-sustainable-living)
 - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
 - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
 - [7 principles of sustainable living](#7-principles-of-sustainable-living)
 - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
 - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
-- [Organizations to support](#organizations-to-support)
 - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
 - [Environmental Open Source Projects](#environmental-open-source-projects)
 - [Green Communities](#green-communities)
@@ -167,37 +167,39 @@ Creating your own healthy environment involves taking steps to reduce exposure t
 ---
 
 ## There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:
-  - [Reduce your energy consumption](#reduce-your-energy-consumption)
-  - [Use sustainable transportation](#use-sustainable-transportation)
-  - [Reduce your water usage](#reduce-your-water-usage)
-  - [Reduce your waste](#reduce-your-waste)
-  - [Eat a plant-based diet](#eat-a-plant-based-diet)
-  - [Support eco-friendly businesses](#support-eco-friendly-businesses)
-  - [Get involved in your community](#get-involved-in-your-community)
-  - [Reduce your washing](#reduce-your-washing)
-  - [Clean with castile](#clean-with-castile)
-  - [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
-  - [Recycle as much as you can](#recycle-as-much-as-you-can)
-  - [Look after your electrical appliances](#look-after-your-electrical-appliances)
-  - [Create clean air](#create-clean-air)
-  - [Change your shower head](#change-your-shower-head)
-  - [Use a cup while brushing your teeth](#use-a-cup-while-brushing-your-teeth)
-  - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
-  - [Practise eco-driving](#practise-eco-driving)
-  - [Draught-proof your home](#draught-proof-your-home)
-  - [Recycle your clothes and shop vintage](#recycle-your-clothes-and-shop-vintage)
-  - [Buy vintage furniture](#buy-vintage-furniture)
-  - [Optimise your white goods](#optimise-your-white-goods)
-  - [Go smart](#go-smart)
-  - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
-  - [Use your own cup](#use-your-own-cup)
-  - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
-  - [Use LED Lights](#use-led-lights)
-  - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
-  - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
-  - [Reduce paper usage](#reduce-paper-usage)
-  - [Support environmental organizations](#support-environmental-organizations)
-  - [Composting at Home](#composting-at-home)
+
+- [Reduce your energy consumption](#reduce-your-energy-consumption)
+- [Use sustainable transportation](#use-sustainable-transportation)
+- [Reduce your water usage](#reduce-your-water-usage)
+- [Reduce your waste](#reduce-your-waste)
+- [Eat a plant-based diet](#eat-a-plant-based-diet)
+- [Support eco-friendly businesses](#support-eco-friendly-businesses)
+- [Get involved in your community](#get-involved-in-your-community)
+- [Reduce your washing](#reduce-your-washing)
+- [Clean with castile](#clean-with-castile)
+- [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
+- [Recycle as much as you can](#recycle-as-much-as-you-can)
+- [Look after your electrical appliances](#look-after-your-electrical-appliances)
+- [Create clean air](#create-clean-air)
+- [Change your shower head](#change-your-shower-head)
+- [Use a cup while brushing your teeth](#use-a-cup-while-brushing-your-teeth)
+- [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
+- [Practise eco-driving](#practise-eco-driving)
+- [Draught-proof your home](#draught-proof-your-home)
+- [Recycle your clothes and shop vintage](#recycle-your-clothes-and-shop-vintage)
+- [Buy vintage furniture](#buy-vintage-furniture)
+- [Optimise your white goods](#optimise-your-white-goods)
+- [Go smart](#go-smart)
+- [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
+- [Use your own cup](#use-your-own-cup)
+- [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
+- [Use LED Lights](#use-led-lights)
+- [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
+- [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
+- [Reduce paper usage](#reduce-paper-usage)
+- [Support environmental organizations](#support-environmental-organizations)
+- [Composting at Home](#composting-at-home)
+
 ### Reduce your energy consumption
 
 One of the most effective ways to reduce your carbon footprint is to use less energy. You can do this by turning off
@@ -852,31 +854,8 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 
 ---
 
-## Organizations to support
-
-<!-- A Growing Culture -->
-
-- **A Growing Culture**
-
-  Smallholder farmers and food producers produce the majority of the world's food supply. The nonprofit organization A Growing Culture is dedicated to fostering a culture of farmer autonomy and agroecological innovation. 'Reframing the way the world views farmers, facilitating collective learning, accelerating innovation through farmer-to-farmer exchange and supporting on-the-ground activities for farmer-led research and documentation' are some of the ways they achieve this.
-
-  - **Get involved:** Follow and amplify its educational content on Instagram and donate what you can.
-
-<!-- Greenpeace -->
-
-- **Greenpeace**
-
-  Greenpeace is an international organization dedicated to creating a green and peaceful world that is ecologically diverse and healthy. The nonprofit organization was established in the 1970s and currently operates in more than 40 nations. Its activists, students, educators, scientists and environmentalists rely on it to research problems and potential solutions, lobby governments, and participate in climate change initiatives. Greenpeace is well known for its Detox anti-consumption movement as well as for its fleet of boats that are used to physically block oil tankers from departing ports.
-
-  - **Get involved:** Join a local group of activists and follow along with Greenpeace’s journalism site, Unearthed. Donations are also welcome.
-
-- **Project Drawdown**
-
-  Project Drawdown is an international coalition of academics, researchers, business people, and activists working to develop a detailed strategy to stop global warming. The analysis' findings indicate that we already have the means to combat climate change. As a result, the organization now concentrates on educating people all around the world and supporting initiatives that use the efficient tools found via its research.
-
-  - **Get involved:** Start by reading the book which lays out 100 of the most effective solutions for reversing global warming. You can also learn more by attending an event, or support the group by making a donation.
-
 ## Apps you can use to help you live sustainably
+
 - [Ecosia](#ecosia)
 - [Geco Air](#geco-air)
 - [Good On You](#good-on-you)
@@ -1066,6 +1045,7 @@ on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=
 <br>
 
 ## Environmental Open-Source Projects
+
 - [Eco Hacker Farm](#eco_hacker_farm)
 - [Open Climate Workbench](#open-climate-workbench)
 - [Pangeo](#Pangeo)
@@ -1384,13 +1364,19 @@ The SDGs must be achieved in every situation, and this requires the creativity, 
 Source: [United Nations](https://sdgs.un.org/goals)
 
 ## Donate!
-### Donate to a good cause of your choice 
-#### 5 AMAZING ECO-FRIENDLY CHARITIES CHAMPIONING SUSTAINABILITY
+
+### Donate to a good cause of your choice
+
+#### 8 AMAZING ECO-FRIENDLY CHARITIES CHAMPIONING SUSTAINABILITY
+
 - [The Conservation Fund](#conv-fund)
 - [350.org](#350)
 - [Oceana](#oceana)
 - [Trees for the Future](#trees-for-the-future)
 - [The Union of Concerned Scientists](#uni-scie)
+- [A Growing Culture](#a-grw-cult)
+- [Greenpeace](#greenpeace)
+- [Project Drawdown](#pr-drawd)
 
 <a name="conv-fund">
 
@@ -1417,7 +1403,6 @@ The Conservation Fund is a non-profit that was founded in 1985. The organisation
 </a>
 
 [Donate](https://www.conservationfund.org/donate)
-
 
 <a name="350">
 
@@ -1525,6 +1510,85 @@ One of the older charities on the list, The Union of Concerned Scientists (TUOCS
 
 Source: [andkeep](https://andkeep.com/blogs/journal/5-amazing-eco-friendly-charities-championing-sustainability)
 
+<a name="a-grw-cult">
+
+<br>
+
+<!-- A Growing Culture -->
+
+<h3 style="font-size:20px" align="center">A Growing Culture</h3>
+<br>
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/aGrowingCulture.jpg" alt="A Growing Culture logo"> 
+</p>
+
+<div align="right">
+
+[Image source](https://www.agrowingculture.org/)
+
+</div>
+
+<br>
+
+Smallholder farmers and food producers produce the majority of the world's food supply. The nonprofit organization A Growing Culture is dedicated to fostering a culture of farmer autonomy and agroecological innovation. 'Reframing the way the world views farmers, facilitating collective learning, accelerating innovation through farmer-to-farmer exchange and supporting on-the-ground activities for farmer-led research and documentation' are some of the ways they achieve this.
+</a>
+
+[Donate](https://secure.givelively.org/donate/a-growing-culture-inc)
+
+<a name="greenpeace">
+
+<br>
+
+<!-- Greenpeace -->
+
+<h3 style="font-size:20px" align="center">Greenpeace</h3>
+<br>
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/greenpeace.png" alt="Greenpeace logo"> 
+</p>
+
+<div align="right">
+
+[Image source](http://www.stickpng.com/img/icons-logos-emojis/iconic-brands/greenpeace-logo)
+
+</div>
+
+<br>
+
+Greenpeace is an international organization dedicated to creating a green and peaceful world that is ecologically diverse and healthy. The nonprofit organization was established in the 1970s and currently operates in more than 40 nations. Its activists, students, educators, scientists and environmentalists rely on it to research problems and potential solutions, lobby governments, and participate in climate change initiatives. Greenpeace is well known for its Detox anti-consumption movement as well as for its fleet of boats that are used to physically block oil tankers from departing ports.
+</a>
+
+[Donate](https://www.greenpeace.org/international/act/donate/)
+
+<a name="pr-drawd">
+
+<br>
+
+<!-- Project Drawdown -->
+
+<h3 style="font-size:20px" align="center">Project Drawdown</h3>
+<br>
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/projectDrawdown.png" alt="Project Drawdown logo"> 
+</p>
+
+<div align="right">
+
+[Image source](https://www.guidestar.org/profile/38-3705448)
+
+</div>
+
+<br>
+
+Project Drawdown is an international coalition of academics, researchers, business people, and activists working to develop a detailed strategy to stop global warming. The analysis' findings indicate that we already have the means to combat climate change. As a result, the organization now concentrates on educating people all around the world and supporting initiatives that use the efficient tools found via its research.
+</a>
+
+[Donate](https://drawdown.org/donate)
+
+Source: [GreenDreamer](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
 
 ## Current Contributors
 
