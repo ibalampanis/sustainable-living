@@ -1730,9 +1730,7 @@ Source: [United Nations](https://sdgs.un.org/goals)
 
 ## Donate!
 
-### Donate to a good cause of your choice
-
-#### 8 AMAZING ECO-FRIENDLY CHARITIES CHAMPIONING SUSTAINABILITY
+### Donate to a good cause of your choice:
 
 - [The Conservation Fund](#conv-fund)
 - [350.org](#350)
