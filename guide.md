@@ -1765,7 +1765,6 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 
 </h5>
 
-=======
 ## Citations
 
 1. Gendre, I. (2023, February 28). What is green living? Greenly. Retrieved March 23, 2023,
