@@ -1169,7 +1169,9 @@ Here are some examples of sustainable living case studies:
 3. **The Beddington Zero Energy Development (BedZED):** BedZED is a sustainable housing development located in London, England. The development includes 100 homes and several office spaces, all of which are designed to be zero-carbon and energy-efficient. The homes feature a range of sustainable technologies, such as solar panels, rainwater harvesting, and composting toilets, and are built with sustainable materials. BedZED is considered a pioneering example of sustainable housing development.
    [More...](https://www.zedfactory.com/bedzed)
 
----
+
+
+
 
 ## 10 free online games about sustainable living
 
@@ -1235,7 +1237,9 @@ This game challenges players to build and manage a sustainable city by making de
 
 This game is about managing resources and reducing carbon emissions in order to prevent catastrophic climate change.
 
----
+
+
+
 
 ## 5 false myths about sustainable living
 
