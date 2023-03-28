@@ -1769,7 +1769,7 @@ The Conservation Fund also puts 97% of all the money they receive directly towar
 high rate and receives a big thumbs up from us.
 </a>
 
-[Donate](https://www.conservationfund.org/donate)
+[Donate to The Conservation Fund](https://www.conservationfund.org/donate)
 
 <a name="350">
 
@@ -1798,7 +1798,7 @@ we’re currently at, and are fighting fossil fuel industries with vigour. If yo
 are a key charity to donate to.
 </a>
 
-[Donate](https://act.350.org/donate/web_donate_button/?source=web_donate_button_main_nav_desktop)
+[Donate to 350.org](https://act.350.org/donate/web_donate_button/?source=web_donate_button_main_nav_desktop)
 
 <a name="oceana">
 
@@ -1829,7 +1829,7 @@ and oil with seismic airguns that devastate the ocean floor, and are constantly 
 non-target fish caught in commercial fishing. Go Oceana!
 </a>
 
-[Donate](https://oceana.org/)
+[Donate to Oceana](https://oceana.org/)
 
 <a name="trees-for-the-future">
 
@@ -1858,7 +1858,7 @@ acres of bad soil, and reducing the CO2 in our atmosphere. Trees are natural car
 is essential to our planet’s health.
 </a>
 
-[Donate](https://trees.org/)
+[Donate to Trees for the Future](https://trees.org/)
 
 <a name="uni-scie">
 
@@ -1887,9 +1887,8 @@ corporate or government funding so that they can maintain their independence, wh
 from people like you to keep pursuing their vital work.
 </a>
 
-[Donate](https://www.ucsusa.org/)
+[Donate to The Union of Concerned Scientists](https://www.ucsusa.org/)
 
-Source: [andkeep](https://andkeep.com/blogs/journal/5-amazing-eco-friendly-charities-championing-sustainability)
 
 <a name="a-grw-cult">
 
@@ -1918,7 +1917,7 @@ the world views farmers, facilitating collective learning, accelerating innovati
 supporting on-the-ground activities for farmer-led research and documentation' are some of the ways they achieve this.
 </a>
 
-[Donate](https://secure.givelively.org/donate/a-growing-culture-inc)
+[Donate to A Growing Culture](https://secure.givelively.org/donate/a-growing-culture-inc)
 
 <a name="greenpeace">
 
@@ -1949,7 +1948,7 @@ Detox anti-consumption movement as well as for its fleet of boats that are used 
 departing ports.
 </a>
 
-[Donate](https://www.greenpeace.org/international/act/donate/)
+[Donate to Greenpeace](https://www.greenpeace.org/international/act/donate/)
 
 <a name="pr-drawd">
 
@@ -1978,9 +1977,7 @@ combat climate change. As a result, the organization now concentrates on educati
 supporting initiatives that use the efficient tools found via its research.
 </a>
 
-[Donate](https://drawdown.org/donate)
-
-Source: [GreenDreamer](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
+[Donate to Project Drawdown](https://drawdown.org/donate)
 
 <!-- rainforest alliance -->
 
@@ -2010,7 +2007,10 @@ and the well-being of rural communities.
 
 </a>
 
-[Donate](https://www.rainforest-alliance.org/)
+[Donate to The Rainforest Alliance](https://www.rainforest-alliance.org/)
+
+Source: [andkeep](https://andkeep.com/blogs/journal/5-amazing-eco-friendly-charities-championing-sustainability)
+Source: [GreenDreamer](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
 
 <h5 align="right">
 
