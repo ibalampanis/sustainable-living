@@ -1,4 +1,5 @@
-
+import matplotlib.pyplot as plt
+import numpy as np
 
 def get_user_usage(category: str) -> float:
     '''Asks the user their usage in an emission category
@@ -26,6 +27,7 @@ def get_user_usage(category: str) -> float:
         except ValueError:
             print("\033[31mInvalid input. Please enter a number.\033[0m")
 
+
 def get_footprint_comment(total_emissions):
     """Returns a colored comment based on the given carbon footprint value."""
     if total_emissions < 400:
@@ -42,6 +44,20 @@ def get_footprint_comment(total_emissions):
     print(comment)
 
 
+def get_chart(usage):
+    """Plots a donut chart of the usage of each emission category."""
+    categories = list(usage.keys())
+    values = list(usage.values())
+    colors = ['#FFC300', '#FF5733', '#C70039', '#900C3F', '#581845', '#4CAF50', '#2196F3']
+    fig, ax1 = plt.subplots()
+    ax1.pie(values, colors=colors, startangle=90, counterclock=False, autopct='%1.1f%%', pctdistance=0.85, labeldistance=1.05)
+    ax1.axis('equal')
+    ax1.set_title("Emission Categories")
+    ax1.legend(categories, loc="best")
+    plt.show()
+
+
+
 def main():
     # Emissions factors (kg CO2e/unit)
     emissions_factors = {
@@ -56,15 +72,18 @@ def main():
 
     # Prompt user for input
     inputs = {}
+    cat_usage = {}
     for category, factor in emissions_factors.items():
         usage = get_user_usage(category)
+        cat_usage[category] = usage
         inputs[category] = usage * factor
 
     # Calculate total emissions
     total_emissions = sum(inputs.values())
 
-    get_footprint_comment(total_emissions)
 
+    get_chart(cat_usage)
+    get_footprint_comment(total_emissions)
 
 if __name__ == '__main__':
     main()
