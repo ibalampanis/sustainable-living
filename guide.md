@@ -959,11 +959,10 @@ communities by turning our food scraps and yard waste into compost.
 
    <h1 align = "center">
       <img height = "200" width = "200" src ="media/No_smoking.png" alt = "no smoking">
+      <h4 align = "right">
+         [Image source](https://upload.wikimedia.org/wikipedia/commons/6/6b/No_Smoking.svg)
+      </h4>
    </h1>
-   
-   <h4 align = right>
-   [Image source] (https://en.wikipedia.org/wiki/File:No_Smoking.svg)
-   </h4>
 
 ## Understanding the value of a sustainable lifestyle
 
