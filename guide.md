@@ -12,6 +12,7 @@
 - [Environmental Open Source Projects](#environmental-open-source-projects)
 - [Green Communities](#green-communities)
 - [Sustainable Living Case Studies](#sustainable-living-case-studies)
+- [10 free online games about sustainable living](#10-free-online-games-about-sustainable-living)
 - [5 false myths about sustainable living](#5-false-myths-about-sustainable-living)
 - [Testimonials](#testimonials)
 - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
@@ -1167,6 +1168,72 @@ Here are some examples of sustainable living case studies:
    [More...](https://warkawater.org/warkatower/)
 3. **The Beddington Zero Energy Development (BedZED):** BedZED is a sustainable housing development located in London, England. The development includes 100 homes and several office spaces, all of which are designed to be zero-carbon and energy-efficient. The homes feature a range of sustainable technologies, such as solar panels, rainwater harvesting, and composting toilets, and are built with sustainable materials. BedZED is considered a pioneering example of sustainable housing development.
    [More...](https://www.zedfactory.com/bedzed)
+
+---
+
+## 10 free online games about sustainable living
+
+Who says that learning how to live sustainably cannot be fun?
+
+---
+
+**1. EcoChains: Arctic Life**
+
+This game challenges players to build and manage a sustainable city by making decisions about energy production, transportation, and other factors.
+
+---
+
+**2. Energy City**
+
+This game challenges players to build and manage a sustainable city by making decisions about energy production, transportation, and other factors.
+
+---
+
+**3. Earth Day Quiz**
+
+This quiz game tests players' knowledge about environmental issues and sustainability.
+
+---
+
+**4. Trash Tycoon**
+
+In this game, players run a recycling company and manage waste in order to keep the environment clean and healthy.
+
+---
+
+**5. Water Life**
+
+This game is about managing a virtual aquarium and making decisions that affect the health and sustainability of the marine ecosystem.
+
+---
+
+**6. Climate Challenge**
+
+This game puts players in charge of a country and challenges them to reduce carbon emissions while maintaining economic growth and social welfare.
+
+---
+
+**7. Recycle Roundup**
+
+In this game, players help clean up a park by sorting different types of trash into the correct recycling bins.
+
+---
+
+**8. The Coral Reef Game**
+
+This game teaches players about the importance of coral reefs and the threats they face, as well as how to protect them.
+
+---
+
+**9. Plan it Green**
+
+This game challenges players to build and manage a sustainable city by making decisions about energy, transportation, and other factors.
+
+---
+
+**10. Global Warning**
+
+This game is about managing resources and reducing carbon emissions in order to prevent catastrophic climate change.
 
 ---
 
