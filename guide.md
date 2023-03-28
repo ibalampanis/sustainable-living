@@ -10,7 +10,7 @@
 - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
 - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
 - [Environmental Open Source Projects](#environmental-open-source-projects)
-- [Eco-travel](#eco--travel)
+- [Eco-travel](#eco-travel)
 - [Green Communities](#green-communities)
 - [Sustainable Living Case Studies](#sustainable-living-case-studies)
 - [10 free online games about sustainable living](#10-free-online-games-about-sustainable-living)
