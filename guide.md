@@ -19,7 +19,6 @@
 - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
 - [Sustainable development goals](#sustainable-development-goals)
 - [Sustainable Living & Business](#sustainable-living--business)
-- [Sustainable Art](#sustainable-art)
 - [Citations](#citations)
 - [Interesting videos](#interesting-videos)
 - [Interesting podcasts](#interesting-podcasts)
@@ -300,6 +299,7 @@ and healthy living space. Here are some tips for creating a healthy environment:
 - [Reduce paper usage](#reduce-paper-usage)
 - [Support environmental organizations](#support-environmental-organizations)
 - [Composting at Home](#composting-at-home)
+- [Quit smoking](#quit-smoking)
 
 ### Reduce your energy consumption
 
@@ -952,6 +952,21 @@ communities by turning our food scraps and yard waste into compost.
 </h4>
 
 </h1>
+
+
+### Quit smoking
+   
+Quiting smoking can significantly help reduce environmental pollution and waste. To begin with, by quiting smoking, you will be protecting the oceans, the ground, the groundwater underneath , as well as forests and wildlife, from cigarette butts and the toxic chemicals that are contained within them that may end up on them. You will also be reducing carbon emissions from cigarette smoke in the atmosphere.
+
+<h1 align = "center">
+   <img height = "200" width = "200" src ="media/No_Smoking.png" alt = "no smoking">
+
+<h4 align = "right">
+   
+   [Image source](https://upload.wikimedia.org/wikipedia/commons/6/6b/No_Smoking.svg)
+</h4>
+</h1>
+
 
 ## Understanding the value of a sustainable lifestyle
 
@@ -1651,80 +1666,6 @@ Here are some ways businesses can promote sustainable living:
 
 7. **Transparency**: By being transparent about their sustainability efforts, businesses can build trust with their
    customers and stakeholders and demonstrate their commitment to sustainable living.
-
-<h5 align="right">
-
-[back to the top](#table-of-contents)
-
-</h5>
-
-## Sustainable Art
-
-   ### What is Sustainable Art?
-
-
-   Sustainable art is the creative practice of making artwork that deals with or critiques environmental issues.These artwork
-   are not harmful to the environment. On the contrary, their materials and studio practices have a green footprint or are 
-   primarily created by recycled materials. 
-
-
-   ### Categories of Sustainable Art
-
-
-
-   -  **Conceptual Art**
-
-      Conceptual art is rooted in the idea that the artist’s intention takes precedence over the finished product. The emphasis 
-      is on the meaning of the piece rather than the creation of an object one can own, like a painting, photo or sculpture.
-      Conceptual pieces are usually site-specific works of an ephemeral nature. Most of the artists adopting these methods, use 
-      typical, everyday materials and “found items”. These artwork is created to make us question our actions and impact on the
-      planet.
-      
-   <h5 align="right">
-
-   [source](https://blog.publicgoods.com/sustainable-art-what-is-it-and-who-is-making-it/)
-
-   </h5>
-
-   -  **Ecological Art**
-
-      Ecological art is an artistic practice that seeks to preserve, remediate and/or vitalize the life forms, resources and ecology of Earth. Ecological art practitioners try to apply the principles of ecosystems to living species and their habitats throughout the lithosphere, atmosphere, biosphere, and hydrosphere, including wilderness, rural, suburban and urban locations. Ecological art also involves socially engaged, activist, community-based interventions, as well as politics, culture, economics, ethics and aesthetics as they impact the conditions of ecosystems.
-
-   <h5 align="right">
-
-   [source](https://en.wikipedia.org/wiki/Ecological_art)
-
-   </h5>
-
-   -  **Land Art**
-
-   Land art, also known as "Earth art", "environmental art", and "Earthworks" , is an art movement that was diversified due to the materials used and the siting of the works. Including others, the materials used by earthwork artists, are soil, rocks, vegetation, and water found on-site. Furthermore, points where they works are located, are often distant from population centers. Though sometimes fairly inaccessible, photo documentation was commonly brought back to the urban art galleries.
-
-   <h5 align="right">
-
-   [source](https://en.wikipedia.org/wiki/Land_art)
-
-   </h5>
-
-   -  **Renewable Energy Art**
-
-   Renewable energy art is a fairly new genre that either incorporates renewable energy into the design of the artwork, or utilizes renewable energy to operate kinetic aspects of the artwork. This approach is a direct response to global climate change and aims to make an explicit intervention at a functional level without compromising aesthetics.
-
-   <h5 align="right">
-
-   [source](http://landartgenerator.org/readrenewableart.html)
-
-   </h5>
-
-   -  **Upcycled Art**
-
-   "Upcycling, also known as creative reuse, is the process of transforming by-products, waste materials, useless, or unwanted products into new materials or products perceived to be of greater quality, such as artistic value or environmental value."
-
-   <h5 align="right">
-
-   [source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
-
-   </h5>
 
 <h5 align="right">
 
