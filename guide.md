@@ -47,6 +47,12 @@ healthier habits and decrease their dependence on artificial machines by alterin
 
 **In that way Sustainable Living makes you use less, want less, need less.**
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## What is NOT Sustainable Living?
 
 To be clear about sustainability let's define un-sustainability as well with an example, shall we? So let's imagine you
@@ -62,6 +68,12 @@ However, as the number of apples is finite, the children got anxious and nervous
 and greedy with the apples, thinking they own them... So they started protesting but their parents didn't care. And they
 kept eating and eating till 5 apples were left in the world. So no more apples for the children's generation.
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## Getting started with sustainable & green living
 
 Defining environmental sustainability in a clear and intelligible way, is of paramount importance, in order to approach
@@ -72,6 +84,12 @@ Following a green lifestyle, means to shape a way of life oriented to some earth
 - Protect natural resources by avoiding their overconsumption and safeguarding biodiversity
 - Be actively aware of the current threats posed to environment (i.e. climate crisis components) and get eco-conscious
 - Become more adaptive and open to eco-friendly practices
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## 7 principles of sustainable living
 
@@ -234,6 +252,12 @@ and healthy living space. Here are some tips for creating a healthy environment:
 > well-being. This can be achieved by using calming colors, minimizing clutter, and incorporating natural elements such
 > as
 > plants and nature sounds.
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ---
 
@@ -952,6 +976,12 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 - Support local communities
     - create a more resilient and equitable economy
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ---
 
 ## Apps you can use to help you live sustainably
@@ -1155,6 +1185,12 @@ on: [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=
 
 ---
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 <br>
 
 ## Environmental Open-Source Projects
@@ -1268,6 +1304,12 @@ Learn More about it in : [Website](https://leafletjs.com/)
 
 ---
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 <br>
 
 ## Green Communities
@@ -1277,6 +1319,12 @@ Green communities emerged in the 1960s such as Reston and Columbia. Now they exi
 They are characterized by the use of ecologically friendly techniques to serve the requirements of its citizens. While
 lowering their carbon footprint, these communities aim to save future generations from degradation of the land, air, and
 water.
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ---
 
@@ -1301,6 +1349,12 @@ Here are some examples of sustainable living case studies:
    harvesting, and composting toilets, and are built with sustainable materials. BedZED is considered a pioneering
    example of sustainable housing development.
    [More...](https://www.zedfactory.com/bedzed)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## 10 free online games about sustainable living
 
@@ -1371,6 +1425,12 @@ and other factors.
 
 This game is about managing resources and reducing carbon emissions in order to prevent catastrophic climate change.
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## 5 false myths about sustainable living
 
 There are several myths about sustainable living that are widely believed but false. Here are a few examples:
@@ -1421,6 +1481,12 @@ stronger communities.(7 Myths About Sustainable Living That Need to Be Debunked,
 
 ---
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## Testimonials
 
 > > We will talk about experiences and personal stories of people who embraced sustainable living mindset.
@@ -1433,6 +1499,12 @@ stronger communities.(7 Myths About Sustainable Living That Need to Be Debunked,
   Emma Watson has been an advocate for sustainable fashion and launched the Good On You app, which helps users discover
   eco-friendly and ethical clothing brands. She has also spoken out about the importance of reducing plastic waste and
   supports organizations like Greenpeace and Sky Ocean Rescue.
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## European Union's (EU) 2030 Agenda for Sustainable Development
 
@@ -1448,6 +1520,12 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 - **Peace**: sustainable development needs a world where people will no longer live in conflict and violence.
 - **Partnership**: to achieve goals of sustainable development, we have to work together as we depend on each other to
   prosper.
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## Sustainable Living & Business
 
@@ -1481,6 +1559,12 @@ Here are some ways businesses can promote sustainable living:
 7. **Transparency**: By being transparent about their sustainability efforts, businesses can build trust with their
    customers and stakeholders and demonstrate their commitment to sustainable living.
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## Citations
 
 1. Gendre, I. (2023, February 28). What is green living? Greenly. Retrieved March 23, 2023,
@@ -1501,6 +1585,12 @@ Here are some ways businesses can promote sustainable living:
 15. https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/
 16. [35 ENVIRONMENTAL ORGANIZATIONS AND NONPROFITS FOR A SUSTAINABLE FUTURE (LIST AND WAYS YOU CAN GET INVOLVED)](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## Interesting videos
 
 1. [Going Green: Tips for a Zero-Waste Lifestyle, TEDxYouth](https://www.youtube.com/watch?v=pw75xPQEbhk)
@@ -1514,17 +1604,35 @@ Here are some ways businesses can promote sustainable living:
 9. [What really happens to the plastic you throw away, Ted-Ed](https://www.youtube.com/watch?v=_6xlNyWPpB8)
 10. [Cowspiracy](https://www.youtube.com/watch?v=krWfb7sV_C4)
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## Interesting podcasts
 
 1. [The Slow Home Podcast](https://www.slowyourhome.com/the-slow-home-podcast/)
 2. [A Sustainable Mind](https://asustainablemind.com/)
 3. [How to Save a Planet](https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6?si=3b487ee3b0a54bec)
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## Interesting Documentaries
 
 1. Cowspiracy ([IMDB](https://www.imdb.com/title/tt3302820/?ref_=fn_al_tt_1))
 2. Minimalism ([IMDB](https://www.imdb.com/title/tt3810760/))
 3. The True Cost ([IMDB](https://www.imdb.com/title/tt3162938/?ref_=nv_sr_srsg_0))
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## Interesting Books
 
@@ -1553,6 +1661,12 @@ Here are some ways businesses can promote sustainable living:
    by William McDonough and Michael Braungart
 
 **P.S. Buy the e-book, audiobook or borrow a copy from a friend!**
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## Sustainable development goals
 
@@ -1607,6 +1721,12 @@ resources of the entire community.
     Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
 
 Source: [United Nations](https://sdgs.un.org/goals)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## Donate!
 
@@ -1893,6 +2013,12 @@ and the well-being of rural communities.
 </a>
 
 [Donate](https://www.rainforest-alliance.org/)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## Current Contributors
 
