@@ -26,7 +26,6 @@ def get_user_usage(category: str) -> float:
         except ValueError:
             print("\033[31mInvalid input. Please enter a number.\033[0m")
 
-
 def get_footprint_comment(total_emissions):
     """Returns a colored comment based on the given carbon footprint value."""
     if total_emissions < 400:
