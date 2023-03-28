@@ -10,6 +10,7 @@
 - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
 - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
 - [Environmental Open Source Projects](#environmental-open-source-projects)
+- [Eco-travel](#eco--travel)
 - [Green Communities](#green-communities)
 - [Sustainable Living Case Studies](#sustainable-living-case-studies)
 - [10 free online games about sustainable living](#10-free-online-games-about-sustainable-living)
@@ -1312,6 +1313,33 @@ Learn More about it in : [Website](https://leafletjs.com/)
 
 <br>
 
+## Eco-travel
+
+### What is Eco-Travel?
+
+In simple terms, eco-tourism refers to responsible travel. When people travel overseas, they frequently stay at places where tourism has rendered the local environment completely uninhabitable. Adventure travel that improves and protects the environment while enhancing local communities' well-being is the focus of ecotourism. Eco-travel provides people with a more genuine adventure experience and more chances to establish long-lasting relationships with the locals while also enhancing the ecosystem. Destination: Earth places a high priority on sustainability and humanitarian travel, which is obvious in each of our eco-adventures.
+
+### Benefits of Ecotourism
+
+Among the advantages of ecotourism are:
+
+1. Preserve the natural environment
+2. Help the local economy
+3. Empower local communities
+4. Build sincere connections
+5. Preserve the biological and cultural variety of the area
+6. Reduce the impact on the region's natural resources.
+
+Source: [Destination earth](https://destination-earth.org/) 
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+
+<br>
 ## Green Communities
 
 Green communities emerged in the 1960s such as Reston and Columbia. Now they exist all around the world.
