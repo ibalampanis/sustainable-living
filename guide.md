@@ -802,11 +802,11 @@ on the environment and connect with others who share your values.
 
 - Here are some ways to recycle or safely discard conventional batteries, as stated by
   the [United States Environmental Protection Agency](https://www.epa.gov/recycle/used-household-batteries):
-    1. To prevent fires from lithium-ion batteries, tape battery terminals and/or place batteries in separate plastic
-       bags and never put these batteries in household garbage or recycling bins.
-    2. Choose the right recycling spot closer to you. [Earth911](https://search.earth911.com/?what=Batteries) is a
-       useful site for finding the right disposal spot.
-    3. Send your used batteries in mail-in recycle programs, such as [Call2Recycle](https://www.call2recycle.org/).
+  1. To prevent fires from lithium-ion batteries, tape battery terminals and/or place batteries in separate plastic
+     bags and never put these batteries in household garbage or recycling bins.
+  2. Choose the right recycling spot closer to you. [Earth911](https://search.earth911.com/?what=Batteries) is a
+     useful site for finding the right disposal spot.
+  3. Send your used batteries in mail-in recycle programs, such as [Call2Recycle](https://www.call2recycle.org/).
 
 <h1 align="center"> 
 	<img height="200"  width="200" src="media/battery.png" alt="">
@@ -910,18 +910,18 @@ communities by turning our food scraps and yard waste into compost.
 
 - Nitrogen-Rich Material (“Greens”)
 
-    - Food and vegetable scraps
-    - Most grass clippings and yard trim
-    - Coffee grounds and paper filters
-    - Paper tea bags (no staples)
-    - Eggshells (crushed)
+  - Food and vegetable scraps
+  - Most grass clippings and yard trim
+  - Coffee grounds and paper filters
+  - Paper tea bags (no staples)
+  - Eggshells (crushed)
 
 - Carbon-Rich Materials (“Browns”)
-    - Dry leaves
-    - Plant stalks and twigs
-    - Shredded paper (non-glossy, not colored) and shredded brown bags
-    - Shredded cardboard (no wax coating, tape, or glue)
-    - Untreated wood chips
+  - Dry leaves
+  - Plant stalks and twigs
+  - Shredded paper (non-glossy, not colored) and shredded brown bags
+  - Shredded cardboard (no wax coating, tape, or glue)
+  - Untreated wood chips
 
 **What to Avoid Composting at Home:**
 
@@ -975,27 +975,27 @@ sides. To be more specific, we present you some demonstrative rewarding cases.
 
 - Restrict your negative environmental impact
 
-    - reduce your carbon footprint
-    - protect the planet's natural resources
+  - reduce your carbon footprint
+  - protect the planet's natural resources
 
 - Lessen your daily expenses, that being:
 
-    - green energy is cost-effective and keeps your electricity bills at low levels
-    - eco-friendly products are gradually becoming more affordable
+  - green energy is cost-effective and keeps your electricity bills at low levels
+  - eco-friendly products are gradually becoming more affordable
 
 - Pave the way for a healthier life
 
-    - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues leading to improved overall
-      health and well-being
+  - a vegetarian-oriented nutrition is a lifesaver for addressing potential health issues leading to improved overall
+    health and well-being
 
 - Share and spread your green lifestyle profile
 
-    - inspire and bring more people closer to the sustainable living model
-    - don't forget that it's all about collaboration and contribution when we need game-changing results
-    - make the first step for the desired domino effect
+  - inspire and bring more people closer to the sustainable living model
+  - don't forget that it's all about collaboration and contribution when we need game-changing results
+  - make the first step for the desired domino effect
 
 - Support local communities
-    - create a more resilient and equitable economy
+  - create a more resilient and equitable economy
 
 <h5 align="right">
 
@@ -1350,7 +1350,7 @@ Among the advantages of ecotourism are:
 5. Preserve the biological and cultural variety of the area
 6. Reduce the impact on the region's natural resources.
 
-Source: [Destination earth](https://destination-earth.org/) 
+Source: [Destination earth](https://destination-earth.org/)
 
 <h5 align="right">
 
@@ -1358,8 +1358,8 @@ Source: [Destination earth](https://destination-earth.org/)
 
 </h5>
 
-
 <br>
+
 ## Green Communities
 
 Green communities emerged in the 1960s such as Reston and Columbia. Now they exist all around the world.
@@ -1517,7 +1517,7 @@ Fact: Sustainable living can be as simple or as complex as you make it. Even sma
 instead of paper ones or turning off lights when leaving a room, can make a difference. Sustainable living is about
 making conscious choices that align with your values and goals.(5 Myths About Sustainable Living," One Green Planet,
 
-2018)
+2018.
 
 ---
 
@@ -1537,16 +1537,37 @@ stronger communities.(7 Myths About Sustainable Living That Need to Be Debunked,
 
 ## Testimonials
 
-> > We will talk about experiences and personal stories of people who embraced sustainable living mindset.
+In this section we will talk about experiences and personal stories of people who embraced sustainable living mindset.
 
-- Emma Watson, Actress and UN Women Goodwill Ambassador.
+### Emma Watson: Actress and UN Women Goodwill Ambassador.
 
-  Emma Watson has spoken publicly about her commitment to sustainability and environmentalism in various interviews and
-  speeches.
+> Emma Watson has spoken publicly about her commitment to sustainability and environmentalism in various interviews and speeches.
 
-  Emma Watson has been an advocate for sustainable fashion and launched the Good On You app, which helps users discover
-  eco-friendly and ethical clothing brands. She has also spoken out about the importance of reducing plastic waste and
-  supports organizations like Greenpeace and Sky Ocean Rescue.
+Emma Watson has been an advocate for sustainable fashion and launched the Good On You app, which helps users discover eco-friendly and ethical clothing brands. She has also spoken out about the importance of reducing plastic waste and supports organizations like Greenpeace and Sky Ocean Rescue.
+
+- [Instagram](https://www.instagram.com/emmawatson/?hl=el)
+- [Twitter](https://twitter.com/EmmaWatson)
+
+### Ashley Renne Nsonwu: Lifestyle educator and activist
+
+> Ashley Renne Nsonwu is a vegan educator aiming to help people learn through her social media page. She helps people adapt to plant-based diets and learn how to shop for plant-based beauty products.
+
+In her page you can find useful sustainability tips such as how to drink zero-waste coffee and how to reduce waste in your bathroom. Alongside the environmental issues she also tackles social issues like how pollution is connected to police brutality.
+
+- [Instagram](https://www.instagram.com/heyashleyrenne/?hl=en)
+- [Twitter](https://twitter.com/HeyAshleyRenne)
+
+### Rob Greenfield: Community organizer
+
+> Rob Greenfield is a community organizer and educator who roams the US showing people how they can minimize their environmental impact to live in harmony with the planet.
+
+Over the years, he’s helped grow the home garden movement, showed how to live outside the corporate food system, combatted food waste, and demonstrated how to live waste-free.
+
+- [Instagram](https://www.instagram.com/robjgreenfield/?hl=en)
+- [Twitter](https://twitter.com/RobJGreenfield)
+- [Youtube](https://www.youtube.com/channel/UCKirXBZV7hE4Fws3VSdYkRQ)
+
+[Source](https://www.globalcitizen.org/en/content/environmental-activists-to-follow-carbon-footprint/)
 
 <h5 align="right">
 
@@ -1673,6 +1694,77 @@ Here are some ways businesses can promote sustainable living:
 
 </h5>
 
+## Sustainable Art
+
+### What is Sustainable Art?
+
+Sustainable art is the creative practice of making artwork that deals with or critiques environmental issues.These artwork
+are not harmful to the environment. On the contrary, their materials and studio practices have a green footprint or are
+primarily created by recycled materials.
+
+### Categories of Sustainable Art
+
+- **Conceptual Art**
+
+  Conceptual art is rooted in the idea that the artist’s intention takes precedence over the finished product. The emphasis
+  is on the meaning of the piece rather than the creation of an object one can own, like a painting, photo or sculpture.
+  Conceptual pieces are usually site-specific works of an ephemeral nature. Most of the artists adopting these methods, use
+  typical, everyday materials and “found items”. These artwork is created to make us question our actions and impact on the
+  planet.
+
+   <h5 align="right">
+
+[source](https://blog.publicgoods.com/sustainable-art-what-is-it-and-who-is-making-it/)
+
+   </h5>
+
+- **Ecological Art**
+
+  Ecological art is an artistic practice that seeks to preserve, remediate and/or vitalize the life forms, resources and ecology of Earth. Ecological art practitioners try to apply the principles of ecosystems to living species and their habitats throughout the lithosphere, atmosphere, biosphere, and hydrosphere, including wilderness, rural, suburban and urban locations. Ecological art also involves socially engaged, activist, community-based interventions, as well as politics, culture, economics, ethics and aesthetics as they impact the conditions of ecosystems.
+
+   <h5 align="right">
+
+[source](https://en.wikipedia.org/wiki/Ecological_art)
+
+   </h5>
+
+- **Land Art**
+
+Land art, also known as "Earth art", "environmental art", and "Earthworks" , is an art movement that was diversified due to the materials used and the siting of the works. Including others, the materials used by earthwork artists, are soil, rocks, vegetation, and water found on-site. Furthermore, points where they works are located, are often distant from population centers. Though sometimes fairly inaccessible, photo documentation was commonly brought back to the urban art galleries.
+
+   <h5 align="right">
+
+[source](https://en.wikipedia.org/wiki/Land_art)
+
+   </h5>
+
+- **Renewable Energy Art**
+
+Renewable energy art is a fairly new genre that either incorporates renewable energy into the design of the artwork, or utilizes renewable energy to operate kinetic aspects of the artwork. This approach is a direct response to global climate change and aims to make an explicit intervention at a functional level without compromising aesthetics.
+
+   <h5 align="right">
+
+[source](http://landartgenerator.org/readrenewableart.html)
+
+   </h5>
+
+- **Upcycled Art**
+
+"Upcycling, also known as creative reuse, is the process of transforming by-products, waste materials, useless, or unwanted products into new materials or products perceived to be of greater quality, such as artistic value or environmental value."
+
+   <h5 align="right">
+
+[Source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
+
+   </h5>
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+=======
 ## Citations
 
 1. Gendre, I. (2023, February 28). What is green living? Greenly. Retrieved March 23, 2023,
@@ -1776,7 +1868,6 @@ Here are some ways businesses can promote sustainable living:
 
 </h5>
 
-
 ## Donate!
 
 ### Donate to a good cause of your choice:
@@ -1791,7 +1882,7 @@ Here are some ways businesses can promote sustainable living:
 - [Project Drawdown](#pr-drawd)
 - [Rainforest Alliance](#rainforest-alliance)
 - [Center Of Ecoliteracy](#center-of-ecoliteracy)
-<a name="conv-fund">
+  <a name="conv-fund">
 
 <br>
 
@@ -1925,7 +2016,6 @@ Formed in 1969, The Union of Concerned Scientists (TUOCS) is one of the more est
 
 [Donate to The Union of Concerned Scientists](https://www.ucsusa.org/)
 
-
 <a name="a-grw-cult">
 
 <br>
@@ -2047,6 +2137,7 @@ and the well-being of rural communities.
 
 Source: [andkeep](https://andkeep.com/blogs/journal/5-amazing-eco-friendly-charities-championing-sustainability)
 Source: [GreenDreamer](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
+
 <!-- Center Of Ecoliteracy-->
 <h3 style="font-size:20px" align="center">Center Of Ecoliteracy</h3>
 <br>
