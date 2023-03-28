@@ -2041,7 +2041,7 @@ Source: [GreenDreamer](https://greendreamer.com/journal/environmental-organizati
 
 <div align="right">
 
-[Image source]("https://www.ecoliteracy.org/")
+[Image source](https://www.ecoliteracy.org/)
 
 </div>
 
@@ -2052,7 +2052,7 @@ They envision a world where all students experience and understand how nature su
 
 </a>
 
-[Donate to Center Of Ecoliteracy]("https://www.ecoliteracy.org/donate")
+[Donate to Center Of Ecoliteracy](https://www.ecoliteracy.org/donate)
 
 <h5 align="right">
 
