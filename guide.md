@@ -1798,7 +1798,7 @@ primarily created by recycled materials.
 
 - **Land Art**
 
-Land art, also known as "Earth art", "environmental art", and "Earthworks" , is an art movement that was diversified due to the materials used and the siting of the works. Including others, the materials used by earthwork artists, are soil, rocks, vegetation, and water found on-site. Furthermore, points where they works are located, are often distant from population centers. Though sometimes fairly inaccessible, photo documentation was commonly brought back to the urban art galleries.
+  Land art, also known as "Earth art", "environmental art", and "Earthworks" , is an art movement that was diversified due to the materials used and the siting of the works. Including others, the materials used by earthwork artists, are soil, rocks, vegetation, and water found on-site. Furthermore, points where they works are located, are often distant from population centers. Though sometimes fairly inaccessible, photo documentation was commonly brought back to the urban art galleries.
 
 <h5 align="right">
 
@@ -1808,7 +1808,7 @@ Land art, also known as "Earth art", "environmental art", and "Earthworks" , is 
 
 - **Renewable Energy Art**
 
-Renewable energy art is a fairly new genre that either incorporates renewable energy into the design of the artwork, or utilizes renewable energy to operate kinetic aspects of the artwork. This approach is a direct response to global climate change and aims to make an explicit intervention at a functional level without compromising aesthetics.
+  Renewable energy art is a fairly new genre that either incorporates renewable energy into the design of the artwork, or utilizes renewable energy to operate kinetic aspects of the artwork. This approach is a direct response to global climate change and aims to make an explicit intervention at a functional level without compromising aesthetics.
 
 <h5 align="right">
 
@@ -1818,7 +1818,8 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 
 - **Upcycled Art**
 
-"Upcycling, also known as creative reuse, is the process of transforming by-products, waste materials, useless, or unwanted products into new materials or products perceived to be of greater quality, such as artistic value or environmental value."
+  The term "Upcycling" οr "Creative Reuse", is describing the process of transforming by-products, waste materials, useless, or unwanted products into new materials or products
+  that it is believed to be of greater quality, such as artistic or environmental value.
 
 <h5 align="right">
 
