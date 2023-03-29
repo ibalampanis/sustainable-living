@@ -1721,51 +1721,51 @@ primarily created by recycled materials.
   typical, everyday materials and “found items”. These artwork is created to make us question our actions and impact on the
   planet.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://blog.publicgoods.com/sustainable-art-what-is-it-and-who-is-making-it/)
 
-   </h5>
+</h5>
 
 - **Ecological Art**
 
   Ecological art is an artistic practice that seeks to preserve, remediate and/or vitalize the life forms, resources and ecology of Earth. Ecological art practitioners try to apply the principles of ecosystems to living species and their habitats throughout the lithosphere, atmosphere, biosphere, and hydrosphere, including wilderness, rural, suburban and urban locations. Ecological art also involves socially engaged, activist, community-based interventions, as well as politics, culture, economics, ethics and aesthetics as they impact the conditions of ecosystems.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://en.wikipedia.org/wiki/Ecological_art)
 
-   </h5>
+</h5>
 
 - **Land Art**
 
 Land art, also known as "Earth art", "environmental art", and "Earthworks" , is an art movement that was diversified due to the materials used and the siting of the works. Including others, the materials used by earthwork artists, are soil, rocks, vegetation, and water found on-site. Furthermore, points where they works are located, are often distant from population centers. Though sometimes fairly inaccessible, photo documentation was commonly brought back to the urban art galleries.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://en.wikipedia.org/wiki/Land_art)
 
-   </h5>
+</h5>
 
 - **Renewable Energy Art**
 
 Renewable energy art is a fairly new genre that either incorporates renewable energy into the design of the artwork, or utilizes renewable energy to operate kinetic aspects of the artwork. This approach is a direct response to global climate change and aims to make an explicit intervention at a functional level without compromising aesthetics.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](http://landartgenerator.org/readrenewableart.html)
 
-   </h5>
+</h5>
 
 - **Upcycled Art**
 
 "Upcycling, also known as creative reuse, is the process of transforming by-products, waste materials, useless, or unwanted products into new materials or products perceived to be of greater quality, such as artistic value or environmental value."
 
-   <h5 align="right">
+<h5 align="right">
 
 [Source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
 
-   </h5>
+</h5>
 
 <h5 align="right">
 
