@@ -1763,7 +1763,7 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 
 <h5 align="right">
 
-[Source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
+[source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
 
 </h5>
 
