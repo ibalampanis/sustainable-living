@@ -1,4 +1,4 @@
-# Energy Efficiency Tracker with Input Checks and Exception Handlers
+# Energy Efficiency Tracker with Input Checks, Exception Handlers, and Emissions Scale
 
 import datetime
 
@@ -58,6 +58,18 @@ if electricity_use and gas_use:
         # Output results
         print(f"\nAverage monthly CO2 emissions: {average_emissions:.2f} metric tons")
         print(f"Annual CO2 emissions: {annual_emissions:.2f} metric tons")
+
+        # Output emissions scale
+        if average_emissions <= 0.5:
+            print("Your average monthly CO2 emissions are very low! Great job!")
+        elif average_emissions <= 1:
+            print("Your average monthly CO2 emissions are relatively low. Keep up the good work!")
+        elif average_emissions <= 2:
+            print("Your average monthly CO2 emissions are average for a household. Consider reducing your usage.")
+        elif average_emissions <= 3:
+            print("Your average monthly CO2 emissions are above average. You can make significant reductions with a few changes.")
+        else:
+            print("Your average monthly CO2 emissions are very high. You should take immediate action to reduce your usage.")
     except ZeroDivisionError:
         print("Error: division by zero. Please enter at least one month of data.")
 else:
