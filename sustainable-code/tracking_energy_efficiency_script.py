@@ -1,4 +1,4 @@
-# Energy Efficiency Tracker with Input Checks
+# Energy Efficiency Tracker with Input Checks and Exception Handlers
 
 import datetime
 
@@ -30,38 +30,35 @@ def calculate_average_emissions(data):
 
 # Input loop
 while True:
-    electricity = input("Enter the kWh of electricity used this month (or 'done' to exit): ")
-    if electricity.lower() == "done":
-        break
     try:
+        electricity = input("Enter the kWh of electricity used this month (or 'done' to exit): ")
+        if electricity.lower() == "done":
+            break
         electricity_use.append(float(electricity))
-    except ValueError:
-        print("Invalid input. Please enter a number for electricity usage.")
-        continue
-    gas = input("Enter the therms of natural gas used this month: ")
-    try:
+
+        gas = input("Enter the therms of natural gas used this month: ")
         gas_use.append(float(gas))
-    except ValueError:
-        print("Invalid input. Please enter a number for gas usage.")
-        continue
-    date_str = input("Enter the date of this reading (YYYY-MM-DD): ")
-    try:
+
+        date_str = input("Enter the date of this reading (YYYY-MM-DD): ")
         date = datetime.datetime.strptime(date_str, '%Y-%m-%d')
-    except ValueError:
-        print("Invalid input. Please enter the date in the format YYYY-MM-DD.")
+    except ValueError as e:
+        print(f"Invalid input. {str(e)}. Please try again.")
         continue
 
 # Calculate emissions and efficiency
 if electricity_use and gas_use:
-    emissions_data = []
-    for i in range(len(electricity_use)):
-        emissions = calculate_emissions(electricity_use[i], gas_use[i])
-        emissions_data.append(emissions)
-    average_emissions = calculate_average_emissions(emissions_data)
-    annual_emissions = average_emissions * MONTHS_IN_YEAR
+    try:
+        emissions_data = []
+        for i in range(len(electricity_use)):
+            emissions = calculate_emissions(electricity_use[i], gas_use[i])
+            emissions_data.append(emissions)
+        average_emissions = calculate_average_emissions(emissions_data)
+        annual_emissions = average_emissions * MONTHS_IN_YEAR
 
-    # Output results
-    print(f"\nAverage monthly CO2 emissions: {average_emissions:.2f} metric tons")
-    print(f"Annual CO2 emissions: {annual_emissions:.2f} metric tons")
+        # Output results
+        print(f"\nAverage monthly CO2 emissions: {average_emissions:.2f} metric tons")
+        print(f"Annual CO2 emissions: {annual_emissions:.2f} metric tons")
+    except ZeroDivisionError:
+        print("Error: division by zero. Please enter at least one month of data.")
 else:
     print("No data entered. Please try again.")    
