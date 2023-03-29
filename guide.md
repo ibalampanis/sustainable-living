@@ -27,6 +27,7 @@
 - [Interesting Documentaries](#interesting-documentaries)
 - [Interesting Books](#interesting-books)
 - [Donate!](#donate)
+- [Products to avoid or minimize to promote sustainable living](#products-to-avoid-or-minimize-to-promote-sustainable-living)
 - [Current Contributors](#current-contributors)
 
 ---
@@ -1850,6 +1851,11 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 14. https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly
 15. https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/
 16. [35 ENVIRONMENTAL ORGANIZATIONS AND NONPROFITS FOR A SUSTAINABLE FUTURE (LIST AND WAYS YOU CAN GET INVOLVED)](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
+17. [Plastic waste inputs from land into the ocean] (https://science.sciencemag.org/content/347/6223/768)
+18. [The environmental and human costs of cotton production] (https://www.worldwildlife.org/industries/cotton)
+19. [Safer Choice] (https://www.epa.gov/saferchoice)
+20. [The True Cost] (https://truecostmovie.com/)
+21. [Sustainable Packaging Coalition] (https://sustainablepackaging.org/)
 
 <h5 align="right">
 
@@ -2226,6 +2232,46 @@ They envision a world where all students experience and understand how nature su
 </a>
 
 [Donate to Center Of Ecoliteracy](https://www.ecoliteracy.org/donate)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+gi
+## Products to avoid or minimize to promote sustainable living
+
+When it comes to sustainable living, it's important to be mindful of the products we use and the impact they have on the environment. Here are some products that are not environmentally friendly and should be avoided:
+
+---
+
+**1. Single-use plastic products**
+
+Single-use plastic products, such as straws, cutlery, cups, and bags, are not sustainable as they contribute to plastic pollution. According to a report by the United Nations, approximately 8 million tons of plastic waste end up in the oceans every year, damaging marine ecosystems and harming wildlife.
+
+---
+
+**2. Non-organic cotton**
+
+Non-organic cotton is not sustainable as it requires a large amount of water and pesticides to grow. The use of pesticides has negative impacts on the environment, including soil and water pollution, and can harm wildlife. In addition, the production of non-organic cotton contributes to the emission of greenhouse gases, which contribute to climate change.
+
+---
+
+**3. Conventional cleaning products**
+
+Conventional cleaning products often contain harmful chemicals that can harm the environment and human health. For example, many cleaning products contain phosphates, which can cause eutrophication in waterways, leading to the death of aquatic life. Additionally, many cleaning products contain volatile organic compounds (VOCs), which can contribute to air pollution and have negative impacts on human health.
+
+---
+
+**4. Fast fashion**
+
+Fast fashion is not sustainable as it involves the production of clothing at a rapid pace, using low-quality materials and labor practices that often exploit workers. The production of fast fashion also contributes to environmental pollution and waste, as clothes are often disposed of quickly.
+
+---
+
+**5. Non-recyclable packaging**
+
+Non-recyclable packaging, such as Styrofoam and certain plastics, is not sustainable as it cannot be recycled or biodegraded, contributing to landfill waste and pollution.
 
 <h5 align="right">
 
