@@ -1691,9 +1691,9 @@ Here are some ways businesses can promote sustainable living:
    
 8. **Buy carbon offsets**:  The purchase of offsets can help a corporation reach carbon neutrality for whatever component of its carbon footprint that cannot be decreased through modifications. Companies can quantify and offset their emissions using a variety of carbon markets. It's crucial to look for third-party certification and the projects that the investments are made in while making a decision. Some examples are listed below:
 
-..* [Cool Effect](https://www.cooleffect.org/business-offset)
-..* [Clear](https://clear.eco/carbon-offset-offices-factories/)
-..* [Native Energy](https://native.eco/small-business-calculator/)
+- [Cool Effect](https://www.cooleffect.org/business-offset)
+- [Clear](https://clear.eco/carbon-offset-offices-factories/)
+- [Native Energy](https://native.eco/small-business-calculator/)
 
 (https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly)
 
