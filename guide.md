@@ -1391,9 +1391,17 @@ Sustainable volunteering is a commitment to help without leaving a environmental
       Volunteer in one of the largest and most successful wildlife of Africa rehabilitation/release centers
       Work alongside professionals at this world-renowned center
 
-[VolunTouring](https://www.voluntouring.org/tag/sustainable-living/)
+<br>
 
-   VolunTouring.com is a web platform that provides a very big list of volunteering opportunities for travelers and nomads around the world.
+<!-- VolunTouring -->
+
+<h3 style="font-size:20px" align="center">VolunTouring</h3>
+
+<p align="center"> 
+	<img height="200"  width="200" src="media/cropped-Voluntouring1.png" alt=""> 
+</p>
+
+   [VolunTouring.com](https://www.voluntouring.org/tag/sustainable-living/) is a web platform that provides a very big list of volunteering opportunities for travelers and nomads around the world.
 
    A famous project
 
