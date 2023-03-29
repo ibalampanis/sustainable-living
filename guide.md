@@ -11,7 +11,7 @@
 - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
 - [Environmental Open Source Projects](#environmental-open-source-projects)
 - [Eco-travel][def]
-- [Sustainable-volunteering] (#sustainable-volunteering)
+- [Sustainable-volunteering](#sustainable-volunteering)
 - [Green Communities](#green-communities)
 - [Sustainable Living Case Studies](#sustainable-living-case-studies)
 - [10 free online games about sustainable living](#10-free-online-games-about-sustainable-living)
@@ -1362,7 +1362,7 @@ Source: [Destination earth](https://destination-earth.org/)
 
 <br>
 
-## Volunteering Opportunities
+## Sustainable Volunteering
 
 ### What is Sustainable Volunteering 
 
@@ -1382,7 +1382,7 @@ GoEco
       Volunteer in one of the largest and most successful wildlife of Africa rehabilitation/release centers
       Work alongside professionals at this world-renowned center
 
-[VolunTouring] (https://www.voluntouring.org/tag/sustainable-living/)
+[VolunTouring](https://www.voluntouring.org/tag/sustainable-living/)
 
    VolunTouring.com is a web platform that provides a very big list of volunteering opportunities for travelers and nomads around the world.
 
