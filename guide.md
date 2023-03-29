@@ -2238,7 +2238,7 @@ They envision a world where all students experience and understand how nature su
 [back to the top](#table-of-contents)
 
 </h5>
-gi
+
 ## Products to avoid or minimize to promote sustainable living
 
 When it comes to sustainable living, it's important to be mindful of the products we use and the impact they have on the environment. Here are some products that are not environmentally friendly and should be avoided:
