@@ -1707,28 +1707,36 @@ promote environmental stewardship, social responsibility, and economic prosperit
 Here are some ways businesses can promote sustainable living:
 
 1. **Reduce Energy Consumption**: Businesses can reduce their energy consumption by implementing energy-efficient
-   practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems.
+   practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems. (https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
 
 2. **Reduce Waste**: Businesses can reduce waste by implementing recycling and composting programs, reducing paper
-   usage, and using eco-friendly products and packaging.
+   usage, and using eco-friendly products and packaging. (https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
 
 3. **Encourage Remote Work**: Your electricity bill will go down right away if you encourage remote work. Lighting,
    climate control, and plugged-in office equipment will cost less. Less environmental stress results from those energy
    savings.
    Also, workers who don't drive to work don't contribute to the atmosphere's damaging greenhouse gas emissions. They
-   consume fewer fossil fuels each week, which helps the environment and saves them money.
+   consume fewer fossil fuels each week, which helps the environment and saves them money. (https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly)
 
 4. **Sustainable Sourcing**: Businesses can source sustainable materials, ingredients, and products that have a lower
-   environmental impact.
+   environmental impact.(https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly)
 
 5. **Employee Engagement**: Encouraging employee involvement in sustainability efforts can create a culture of
-   sustainability within the workplace and inspire new ideas and initiatives.
-
+   sustainability within the workplace and inspire new ideas and initiatives. (https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
+   
 6. **Social Responsibility**: Businesses can promote social responsibility by supporting local communities, investing in
-   social causes, and ensuring fair and ethical practices in their supply chains.
+   social causes, and ensuring fair and ethical practices in their supply chains. (https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
 
 7. **Transparency**: By being transparent about their sustainability efforts, businesses can build trust with their
-   customers and stakeholders and demonstrate their commitment to sustainable living.
+   customers and stakeholders and demonstrate their commitment to sustainable living.(https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
+   
+8. **Buy carbon offsets**:  The purchase of offsets can help a corporation reach carbon neutrality for whatever component of its carbon footprint that cannot be decreased through modifications. Companies can quantify and offset their emissions using a variety of carbon markets. It's crucial to look for third-party certification and the projects that the investments are made in while making a decision. Some examples are listed below:
+
+- [Cool Effect](https://www.cooleffect.org/business-offset)
+- [Clear](https://clear.eco/carbon-offset-offices-factories/)
+- [Native Energy](https://native.eco/small-business-calculator/)
+
+(https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly)
 
 <h5 align="right">
 
@@ -1754,51 +1762,51 @@ primarily created by recycled materials.
   typical, everyday materials and “found items”. These artwork is created to make us question our actions and impact on the
   planet.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://blog.publicgoods.com/sustainable-art-what-is-it-and-who-is-making-it/)
 
-   </h5>
+</h5>
 
 - **Ecological Art**
 
   Ecological art is an artistic practice that seeks to preserve, remediate and/or vitalize the life forms, resources and ecology of Earth. Ecological art practitioners try to apply the principles of ecosystems to living species and their habitats throughout the lithosphere, atmosphere, biosphere, and hydrosphere, including wilderness, rural, suburban and urban locations. Ecological art also involves socially engaged, activist, community-based interventions, as well as politics, culture, economics, ethics and aesthetics as they impact the conditions of ecosystems.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://en.wikipedia.org/wiki/Ecological_art)
 
-   </h5>
+</h5>
 
 - **Land Art**
 
 Land art, also known as "Earth art", "environmental art", and "Earthworks" , is an art movement that was diversified due to the materials used and the siting of the works. Including others, the materials used by earthwork artists, are soil, rocks, vegetation, and water found on-site. Furthermore, points where they works are located, are often distant from population centers. Though sometimes fairly inaccessible, photo documentation was commonly brought back to the urban art galleries.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://en.wikipedia.org/wiki/Land_art)
 
-   </h5>
+</h5>
 
 - **Renewable Energy Art**
 
 Renewable energy art is a fairly new genre that either incorporates renewable energy into the design of the artwork, or utilizes renewable energy to operate kinetic aspects of the artwork. This approach is a direct response to global climate change and aims to make an explicit intervention at a functional level without compromising aesthetics.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](http://landartgenerator.org/readrenewableart.html)
 
-   </h5>
+</h5>
 
 - **Upcycled Art**
 
 "Upcycling, also known as creative reuse, is the process of transforming by-products, waste materials, useless, or unwanted products into new materials or products perceived to be of greater quality, such as artistic value or environmental value."
 
-   <h5 align="right">
+<h5 align="right">
 
-[Source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
+[source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
 
-   </h5>
+</h5>
 
 <h5 align="right">
 
