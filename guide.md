@@ -1668,6 +1668,20 @@ targets related to _People_, _Planet_, _Prosperity_, _Peace_, and _Partnership_.
 
 </h5>
 
+<p align="center"> 
+	<img  src="media/Sustainable-Development-Goals-what-is-sustainable-living-930x485%20(1).webp" alt=""> 
+</p>
+
+<br>
+
+<div align="right">
+
+[Image source](https://gcap.global/wp-content/uploads/2018/11/SGDs.png)
+
+</div>
+
+<br>
+
 ## Sustainable development goals
 
 The Sustainable Development Goals (SDGs), also referred to as the Global Goals, were enacted by the United Nations in
