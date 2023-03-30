@@ -1845,6 +1845,49 @@ Starbucks are committed to reduce carbon emissions, eliminate waste and save wat
 </ul>
 (As these are mentioned on the official website of Starbucks)
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+## Healthy & Sustainable Recipes
+<h6>Recipes that don't have consequenses on Earth</h6>
+
+<h3>Quinoa Power Pot</h3>
+<p align="center"> 
+	<img height="200"  width=""  src="media/quinoa_power_porridge.jpg" alt=""> 
+</p>
+<h7>Ingredients</h7>
+<ul>
+   <li>Quinoa</li>
+   <li>Around 400 to 500 ml of milk</li>
+   <li>500ml hot water</li>
+   <li>2 teaspoons coconut oil/butter</li>
+   <li>1 teaspoon vanilla extract</li>
+   <li>2 teaspoons maple syrup/raw honey</li>
+</ul>
+
+<p>You can see the recipe <a href="https://www.wwf.org.uk/recipes/quinoa-power-pot">here<a></p>
+
+<h3>Banana & Spelt Loaf Cake</h3>
+<p align="center"> 
+	<img height="200"  width=""  src="media/banana-spelt-loaf-cake.jpg" alt=""> 
+</p>
+<h7>Ingredients</h7>
+<ul>
+   <li>260g Spelt Organic Flour</li>
+   <li>40g Ground Almonds</li>
+   <li>20g Baking Powder</li>
+   <li>100g Pitted Dates</li>
+   <li>275g Banana</li>
+   <li>80ml Rapeseed Oil</li>
+   <li>80ml Almond Milk</li>
+   <li>115g Soft Light Brown Sugar</li>
+   <li>1 Med/Large Banana for decoration</li>
+</ul>
+
+<p>You can see the recipe <a href="https://www.wwf.org.uk/recipes/banana-spelt-loaf-cake">here<a></p>
 
 ## Sustainable Art
 
