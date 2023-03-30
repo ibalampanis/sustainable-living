@@ -1643,6 +1643,17 @@ Over the years, he’s helped grow the home garden movement, showed how to live 
 
 [Source](https://www.globalcitizen.org/en/content/environmental-activists-to-follow-carbon-footprint/)
 
+### Bea Johnson
+
+> Béa Johnson is a US-based environmental activist, author and motivational speaker.
+
+She is best known for waste free living by reducing her family's annual trash down to a pint and for authoring the book Zero Waste Home: The Ultimate Guide to Simplifying Your Life by Reducing Your Waste. Having started to adhere to simple living as early as 2006, Johnson is widely recognized for pioneering and popularizing waste-free living.
+
+- [Instagram](https://www.instagram.com/zerowastehome/)
+- [Twitter](https://twitter.com/zerowastehome)
+
+[Source](https://en.wikipedia.org/wiki/Bea_Johnson)
+
 <h5 align="right">
 
 [back to the top](#table-of-contents)
