@@ -1,7 +1,7 @@
 # Sustainability Questionnaire Application
 
 <h1 align="center">
-	<img height="200"  width="200" src="../media/sustainability-quiz.png" alt="">
+	<img height="200"  width="300" src="../media/sustainability-quiz.png" alt="">
 
 <h4 align="right">
 
