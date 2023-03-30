@@ -1712,6 +1712,16 @@ Here are some ways businesses can promote sustainable living:
 
 </h5>
 
+## Businesses that follows Sustainable Living 
+
+The last few years, more and more businesses are stating to follow a way of living based on the value of sustainability, meaning that they prioritize environmental, social, and economic sustainability in their operations.
+
+1. **Patagonia**: Patagonia is an outdoor clothing and gear company and has been a leader in sustainability for many years. They have chosen to use eco-friendly materials in their products, prioritize fair labor practices, and donate 1% of their sales to environmental causes.
+
+During the past few months, almost all the products of paragonia, around 94%, are made from reused materials. Their production line are created organically by virgin cotton. By this way, they achieve to save water and reduce carbon emissions by 45%. 
+
+2. **Unilever**: Unilever is a greek company that has a high portfolio of Food, Ice Cream and Ηousehold & Personal Care and Hygiene. Unilever has 26 categories of products with approximately 1.400 products.
+
 ## Sustainable Art
 
 ### What is Sustainable Art?
