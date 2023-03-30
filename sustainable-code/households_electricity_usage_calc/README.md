@@ -1,0 +1,6 @@
+<h1 align="center">
+	PYTHON SCRIPT WHICH SHOWS THE MONTHLY ELECTRICITY CONSUMPTION OF EACH DEVICE THAT A HOUSEHOLD USES
+<h1>
+<h2 align="right">
+	**************UNDER CONSTRUCTION**************
+<h2>
