@@ -1,16 +1,15 @@
 # Sustainability Questionnaire Application
 
 <h1 align="center">
-	<img width="300" src="media/environment-quiz.png" >
-	<br>
-</h1>
+	<img height="200"  width="200" src="media/environment-quiz.png" alt="">
 
-<h5 align="right">
+<h4 align="right">
 
 [Image source](https://leverageedu.com/blog/environment-quiz/)
 
-</h5>
+</h4>
 
+</h1>
 
 ## How green are you?
 
