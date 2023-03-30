@@ -938,8 +938,8 @@ communities by turning our food scraps and yard waste into compost.
 1. Add kitchen scraps and organic matter to a bin with a 25:1 - 40:1 browns to greens ratio. You don't have to purchase
    microorganisms as they naturally exist in carbon and nitrogen sources.
 2. The pile must be humid but not wet. Add sawdust to dry it or water to moisten it as needed.
-3. Stire the contents of the pile reqularly. Turning the compost promotes oxygen flow and releases the heat that builds
-   during decomposition. The ideal temperature should be between 32°-60° Celcius.
+3. Stir the contents of the pile regularly. Turning the compost promotes oxygen flow and releases the heat that builds
+   during decomposition. The ideal temperature should be between 32°-60° Celsius.
 4. Your compost is will be ready to use after several months, when the color is dark, the content crumbles and it stops
    emitting heat. You should avoid unfinished compost on your garden, as it tends to be toxic for plants.
 
@@ -964,15 +964,15 @@ communities by turning our food scraps and yard waste into compost.
 
 In order to lead an environmentally conscious lifestyle you should always be informed about the newest legislations and updates. Here you can find some news sources based around sustainability.
 
---
+<br>
 
 ### [ERM: The Sustainability Institute News](https://www.sustainability.com/news/)
 
---
+<br>
 
 ### [Business Green](https://www.businessgreen.com/type/news)
 
---
+<br>
 
 ### [euronews: Sustainable Development](https://www.euronews.com/tag/sustainable-development)
 
