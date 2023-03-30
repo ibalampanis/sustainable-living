@@ -11,7 +11,8 @@
 - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
 - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
 - [Environmental Open Source Projects](#environmental-open-source-projects)
-- [Eco-travel](#eco-travel)
+- [Eco-travel][def]
+- [Sustainable-volunteering](#sustainable-volunteering)
 - [Green Communities](#green-communities)
 - [Sustainable Living Case Studies](#sustainable-living-case-studies)
 - [10 free online games about sustainable living](#10-free-online-games-about-sustainable-living)
@@ -27,6 +28,7 @@
 - [Interesting Documentaries](#interesting-documentaries)
 - [Interesting Books](#interesting-books)
 - [Donate!](#donate)
+- [Products to avoid or minimize to promote sustainable living](#products-to-avoid-or-minimize-to-promote-sustainable-living)
 - [Current Contributors](#current-contributors)
 
 ---
@@ -301,6 +303,7 @@ and healthy living space. Here are some tips for creating a healthy environment:
 - [Reduce paper usage](#reduce-paper-usage)
 - [Support environmental organizations](#support-environmental-organizations)
 - [Composting at Home](#composting-at-home)
+- [Quit smoking](#quit-smoking)
 
 ### Reduce your energy consumption
 
@@ -954,6 +957,7 @@ communities by turning our food scraps and yard waste into compost.
 
 </h1>
 
+<<<<<<< HEAD
 <h5 align="right">
 
 [back to the top](#table-of-contents)
@@ -985,6 +989,22 @@ In order to lead an environmentally conscious lifestyle you should always be inf
 [back to the top](#table-of-contents)
 
 </h5>
+=======
+
+### Quit smoking
+   
+Quiting smoking can significantly help reduce environmental pollution and waste. To begin with, by quiting smoking, you will be protecting the oceans, the ground, the groundwater underneath , as well as forests and wildlife, from cigarette butts and the toxic chemicals that are contained within them that may end up on them. You will also be reducing carbon emissions from cigarette smoke in the atmosphere.
+
+<h1 align = "center">
+   <img height = "200" width = "200" src ="media/No_Smoking.png" alt = "no smoking">
+
+<h4 align = "right">
+   
+   [Image source](https://upload.wikimedia.org/wikipedia/commons/6/6b/No_Smoking.svg)
+</h4>
+</h1>
+
+>>>>>>> 6860276fb68087e6f6e7faf5179c172871ff2040
 
 ## Understanding the value of a sustainable lifestyle
 
@@ -1378,6 +1398,63 @@ Source: [Destination earth](https://destination-earth.org/)
 
 <br>
 
+## Sustainable Volunteering
+
+### What is Sustainable Volunteering 
+
+Sustainable volunteering is a commitment to help without leaving a environmentally-negative footprint. There are a lot of ways for environmentally conscious people to preserve and contribute to maintain sustainability, you just need to educate yourself and be conscious of the impact you're really having.
+
+### Popular Organizations
+
+<br>
+
+<!-- GOECO -->
+
+<h3 style="font-size:20px" align="center">GOECO</h3>
+
+<p align="center"> 
+	<img height="200"  width="200" src="media/goeco.png" alt=""> 
+</p>
+
+
+   GoEco is one of the most popular eco-tourism companies with a varied selection of affordable volunteer projects abroad. They have partnerships all over the world with over 150 extraordinary community, wildlife and environmental initiatives.
+
+   A famous project
+
+   [Zimbabwe African Wildlife Orphanage](https://www.goeco.org/area/volunteer-in-africa/zimbabwe/african-wildlife-orphanage/)
+   Volunteers on this project work with a range of animals, from monkeys to lions. They have the chance to experience Zimbabwe’s natural beauty while making a positive impact on the delicate African ecosystem.
+   Responsibilities:
+      Volunteer in one of the largest and most successful wildlife of Africa rehabilitation/release centers
+      Work alongside professionals at this world-renowned center
+
+<br>
+
+<!-- VolunTouring -->
+
+<h3 style="font-size:20px" align="center">VolunTouring</h3>
+
+<p align="center"> 
+	<img height="200"  width="200" src="media/cropped-Voluntouring1.png" alt=""> 
+</p>
+
+   [VolunTouring.com](https://www.voluntouring.org/tag/sustainable-living/) is a web platform that provides a very big list of volunteering opportunities for travelers and nomads around the world.
+
+   A famous project
+
+   ESC program 2023 [Volunteer in an Irish Ecovillage](https://www.voluntouring.org/2023/02/09/esc-program-2023-volunteer-in-an-irish-ecovillage/)
+
+   By participating in this programm, you can help the Irish Ecovillage.In this village is located a farm which produces organic vegetables for the local community using regenerative and environmentally beneficial growing methods. Everyday tasks include sowing seeds, watering, weeding, harvesting, and weighing vegetables.
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+---
+
+<br>
+
 ## Green Communities
 
 Green communities emerged in the 1960s such as Reston and Columbia. Now they exist all around the world.
@@ -1683,28 +1760,36 @@ promote environmental stewardship, social responsibility, and economic prosperit
 Here are some ways businesses can promote sustainable living:
 
 1. **Reduce Energy Consumption**: Businesses can reduce their energy consumption by implementing energy-efficient
-   practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems.
+   practices such as using LED lights, installing solar panels, and optimizing heating and cooling systems. (https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
 
 2. **Reduce Waste**: Businesses can reduce waste by implementing recycling and composting programs, reducing paper
-   usage, and using eco-friendly products and packaging.
+   usage, and using eco-friendly products and packaging. (https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
 
 3. **Encourage Remote Work**: Your electricity bill will go down right away if you encourage remote work. Lighting,
    climate control, and plugged-in office equipment will cost less. Less environmental stress results from those energy
    savings.
    Also, workers who don't drive to work don't contribute to the atmosphere's damaging greenhouse gas emissions. They
-   consume fewer fossil fuels each week, which helps the environment and saves them money.
+   consume fewer fossil fuels each week, which helps the environment and saves them money. (https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly)
 
 4. **Sustainable Sourcing**: Businesses can source sustainable materials, ingredients, and products that have a lower
-   environmental impact.
+   environmental impact.(https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly)
 
 5. **Employee Engagement**: Encouraging employee involvement in sustainability efforts can create a culture of
-   sustainability within the workplace and inspire new ideas and initiatives.
-
+   sustainability within the workplace and inspire new ideas and initiatives. (https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
+   
 6. **Social Responsibility**: Businesses can promote social responsibility by supporting local communities, investing in
-   social causes, and ensuring fair and ethical practices in their supply chains.
+   social causes, and ensuring fair and ethical practices in their supply chains. (https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
 
 7. **Transparency**: By being transparent about their sustainability efforts, businesses can build trust with their
-   customers and stakeholders and demonstrate their commitment to sustainable living.
+   customers and stakeholders and demonstrate their commitment to sustainable living.(https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/)
+   
+8. **Buy carbon offsets**:  The purchase of offsets can help a corporation reach carbon neutrality for whatever component of its carbon footprint that cannot be decreased through modifications. Companies can quantify and offset their emissions using a variety of carbon markets. It's crucial to look for third-party certification and the projects that the investments are made in while making a decision. Some examples are listed below:
+
+- [Cool Effect](https://www.cooleffect.org/business-offset)
+- [Clear](https://clear.eco/carbon-offset-offices-factories/)
+- [Native Energy](https://native.eco/small-business-calculator/)
+
+(https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly)
 
 <h5 align="right">
 
@@ -1730,51 +1815,52 @@ primarily created by recycled materials.
   typical, everyday materials and “found items”. These artwork is created to make us question our actions and impact on the
   planet.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://blog.publicgoods.com/sustainable-art-what-is-it-and-who-is-making-it/)
 
-   </h5>
+</h5>
 
 - **Ecological Art**
 
   Ecological art is an artistic practice that seeks to preserve, remediate and/or vitalize the life forms, resources and ecology of Earth. Ecological art practitioners try to apply the principles of ecosystems to living species and their habitats throughout the lithosphere, atmosphere, biosphere, and hydrosphere, including wilderness, rural, suburban and urban locations. Ecological art also involves socially engaged, activist, community-based interventions, as well as politics, culture, economics, ethics and aesthetics as they impact the conditions of ecosystems.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://en.wikipedia.org/wiki/Ecological_art)
 
-   </h5>
+</h5>
 
 - **Land Art**
 
-Land art, also known as "Earth art", "environmental art", and "Earthworks" , is an art movement that was diversified due to the materials used and the siting of the works. Including others, the materials used by earthwork artists, are soil, rocks, vegetation, and water found on-site. Furthermore, points where they works are located, are often distant from population centers. Though sometimes fairly inaccessible, photo documentation was commonly brought back to the urban art galleries.
+  Land art, also known as "Earth art", "environmental art", and "Earthworks" , is an art movement that was diversified due to the materials used and the siting of the works. Including others, the materials used by earthwork artists, are soil, rocks, vegetation, and water found on-site. Furthermore, points where they works are located, are often distant from population centers. Though sometimes fairly inaccessible, photo documentation was commonly brought back to the urban art galleries.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](https://en.wikipedia.org/wiki/Land_art)
 
-   </h5>
+</h5>
 
 - **Renewable Energy Art**
 
-Renewable energy art is a fairly new genre that either incorporates renewable energy into the design of the artwork, or utilizes renewable energy to operate kinetic aspects of the artwork. This approach is a direct response to global climate change and aims to make an explicit intervention at a functional level without compromising aesthetics.
+  Renewable energy art is a fairly new genre that either incorporates renewable energy into the design of the artwork, or utilizes renewable energy to operate kinetic aspects of the artwork. This approach is a direct response to global climate change and aims to make an explicit intervention at a functional level without compromising aesthetics.
 
-   <h5 align="right">
+<h5 align="right">
 
 [source](http://landartgenerator.org/readrenewableart.html)
 
-   </h5>
+</h5>
 
 - **Upcycled Art**
 
-"Upcycling, also known as creative reuse, is the process of transforming by-products, waste materials, useless, or unwanted products into new materials or products perceived to be of greater quality, such as artistic value or environmental value."
+  The term "Upcycling" οr "Creative Reuse", is describing the process of transforming by-products, waste materials, useless, or unwanted products into new materials or products
+  that it is believed to be of greater quality, such as artistic or environmental value.
 
-   <h5 align="right">
+<h5 align="right">
 
-[Source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
+[source](https://www.watsonwolfe.com/2021/01/04/recycled-art-a-form-of-environmental-activism/)
 
-   </h5>
+</h5>
 
 <h5 align="right">
 
@@ -1801,6 +1887,11 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 14. https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly
 15. https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/
 16. [35 ENVIRONMENTAL ORGANIZATIONS AND NONPROFITS FOR A SUSTAINABLE FUTURE (LIST AND WAYS YOU CAN GET INVOLVED)](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future)
+17. [Plastic waste inputs from land into the ocean] (https://science.sciencemag.org/content/347/6223/768)
+18. [The environmental and human costs of cotton production] (https://www.worldwildlife.org/industries/cotton)
+19. [Safer Choice] (https://www.epa.gov/saferchoice)
+20. [The True Cost] (https://truecostmovie.com/)
+21. [Sustainable Packaging Coalition] (https://sustainablepackaging.org/)
 
 <h5 align="right">
 
@@ -2184,6 +2275,46 @@ They envision a world where all students experience and understand how nature su
 
 </h5>
 
+## Products to avoid or minimize to promote sustainable living
+
+When it comes to sustainable living, it's important to be mindful of the products we use and the impact they have on the environment. Here are some products that are not environmentally friendly and should be avoided:
+
+---
+
+**1. Single-use plastic products**
+
+Single-use plastic products, such as straws, cutlery, cups, and bags, are not sustainable as they contribute to plastic pollution. According to a report by the United Nations, approximately 8 million tons of plastic waste end up in the oceans every year, damaging marine ecosystems and harming wildlife.
+
+---
+
+**2. Non-organic cotton**
+
+Non-organic cotton is not sustainable as it requires a large amount of water and pesticides to grow. The use of pesticides has negative impacts on the environment, including soil and water pollution, and can harm wildlife. In addition, the production of non-organic cotton contributes to the emission of greenhouse gases, which contribute to climate change.
+
+---
+
+**3. Conventional cleaning products**
+
+Conventional cleaning products often contain harmful chemicals that can harm the environment and human health. For example, many cleaning products contain phosphates, which can cause eutrophication in waterways, leading to the death of aquatic life. Additionally, many cleaning products contain volatile organic compounds (VOCs), which can contribute to air pollution and have negative impacts on human health.
+
+---
+
+**4. Fast fashion**
+
+Fast fashion is not sustainable as it involves the production of clothing at a rapid pace, using low-quality materials and labor practices that often exploit workers. The production of fast fashion also contributes to environmental pollution and waste, as clothes are often disposed of quickly.
+
+---
+
+**5. Non-recyclable packaging**
+
+Non-recyclable packaging, such as Styrofoam and certain plastics, is not sustainable as it cannot be recycled or biodegraded, contributing to landfill waste and pollution.
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## Current Contributors
 
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
@@ -2191,3 +2322,6 @@ They envision a world where all students experience and understand how nature su
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+
+[def]: #eco-travel

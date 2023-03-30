@@ -1,0 +1,18 @@
+device_name,electrical_usage
+Refrigerator,0.2
+Electric stove,1.2
+Oven,1.5
+Microwave,0.9
+Toaster,0.8
+Kettle,1.0
+Dishwasher,1.2
+Washing machine,2.5
+Dryer,2.0
+Television,0.1
+Desktop computer,0.3
+Laptop computer,0.1
+Printer,0.05
+Router,0.05
+Modem,0.05
+Smartphone charger,0.01
+Tablet charger,0.01
