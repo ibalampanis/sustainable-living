@@ -1,4 +1,4 @@
-[# Sustainable Living: Tips and Tricks for a Greener Lifestyle
+# Sustainable Living: Tips and Tricks for a Greener Lifestyle
 
 ## Table of Contents
 
@@ -1722,6 +1722,8 @@ During the past few months, almost all the products of paragonia, around 94%, ar
 
 2. **Unilever**: Unilever is a greek company that has a high portfolio of Food, Ice Cream and Ηousehold & Personal Care and Hygiene. Unilever has 26 categories of products with approximately 1.400 products.
 
+Unilever decided to build sustainable ways of living and communities in order to achieve growth as a company. In 2005, Unilever launched "Brand Imprint" initiative, in order to engage 2 billion customers per day that use more than 400 hundred brands in the effort of reducing environental waste.
+
 ## Sustainable Art
 
 ### What is Sustainable Art?
@@ -2201,4 +2203,3 @@ They envision a world where all students experience and understand how nature su
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
-](https://github.com/ibalampanis/sustainable-living.git)
