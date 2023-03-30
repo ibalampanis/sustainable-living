@@ -294,24 +294,22 @@ a more sustainable future.
 
 Creating your own healthy environment involves taking steps to reduce exposure to harmful substances and promote a safe
 and healthy living space. Here are some tips for creating a healthy environment:
+-<b>Improve air quality</b>: Air pollution can negatively impact health, so it's important to take steps to improve
+indoor air quality. This can include using air filters, opening windows for ventilation, and avoiding the use of harsh
+chemicals and cleaners.
 
-> <b>Improve air quality</b>: Air pollution can negatively impact health, so it's important to take steps to improve
-> indoor air quality. This can include using air filters, opening windows for ventilation, and avoiding the use of harsh
-> chemicals and cleaners.
+-<b>Reduce exposure to toxins</b>: Toxins such as lead, asbestos, and radon can be found in some homes and can be
+harmful to health. Take steps to identify and remove any sources of toxins in your home.
 
-> <b>Reduce exposure to toxins</b>: Toxins such as lead, asbestos, and radon can be found in some homes and can be
-> harmful to health. Take steps to identify and remove any sources of toxins in your home.
+-<b>Use non-toxic products</b>: Choose non-toxic products for cleaning, personal care, and household items. This can
+help reduce exposure to harmful chemicals.
 
-> <b>Use non-toxic products</b>: Choose non-toxic products for cleaning, personal care, and household items. This can
-> help reduce exposure to harmful chemicals.
+-<b>Promote natural light</b>: Natural light is important for both physical and mental health. Ensure that your home
+has plenty of natural light and consider using light therapy if necessary.
 
-> <b>Promote natural light</b>: Natural light is important for both physical and mental health. Ensure that your home
-> has plenty of natural light and consider using light therapy if necessary.
-
-> <b>Create a calm and relaxing environment</b>: A calm and relaxing environment can promote mental health and
-> well-being. This can be achieved by using calming colors, minimizing clutter, and incorporating natural elements such
-> as
-> plants and nature sounds.
+-<b>Create a calm and relaxing environment</b>: A calm and relaxing environment can promote mental health and
+well-being. This can be achieved by using calming colors, minimizing clutter, and incorporating natural elements such
+as plants and nature sounds.
 
 <h5 align="right">
 
@@ -909,7 +907,7 @@ large amounts of water and energy, and it often involves the use of harmful chem
    resources such as e-books, online newspapers, or digital magazines.
 
 3. Use paperless alternatives: Choose to pay your bills online instead of receiving paper bills, and use online
-   invitations instead of physical ones.
+   invitations instead of physical ones. 
 
 <h1 align="center"> 
 	<img height="200"  width="200" src="media/paper.png" alt="">
