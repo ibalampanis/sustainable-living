@@ -1728,6 +1728,31 @@ During the past few months, almost all the products of paragonia, around 94%, ar
 
 Unilever decided to build sustainable ways of living and communities in order to achieve growth as a company. In 2005, Unilever launched "Brand Imprint" initiative, in order to engage 2 billion customers per day that use more than 400 hundred brands in the effort of reducing environental waste.
 
+3. **Tesla**: Tesla is an automotive and energy companny. Their main cause is to design, develop and manufacture vehicles runned by electricity and solar panels.
+
+In 2021. Tesla's vehicles, energy storage and solar panels achieve the reduction of 8.4 million metric tons of carbon emission.
+
+Tesla's efforts aims for the whole world to turn to the use of sustainable energy. That's why Tesla increase its produnction line, in order to help everyone have access on all the products of Tesla. Their goal is to sell 20 million electric vehicles by 2030.
+
+4. **IKEA**: IKEA is a swedish company that produces and sells home furnitures by 1943 and its belief is that home is the most important place in the world.
+
+Their effort to contribute on a more sustainable way of living is based on their collaboration with partners, co-workers and customers. 
+
+IKEA is trying to implement some new ideas in order to contribute on sustainable living by innovating water saving solutions. This can be achieved by developing and manufacturing products that can help to save water, such as water nozzles. In addition, it can be achieved enabling people having clean air at their home. This possible to be accomplished by producing affordable air purifiers.
+
+5. **Starbucks**: Starbucks is a worldwide known American brand for coffehouses. This company offers multiple blends of coffee and handmade beverages.
+
+Starbucks are committed to reduce carbon emissions, eliminate waste and save water. Their focuses are:
+<ul>
+   <li>Expanding plant-based menu options</li>
+   <li>Shifting away from single-use reusable packaging</li>
+   <li>Investing in regenerative agriculture, reforestation, forest conservation and water replenishment in our supply chai</li>
+   <li>Working on better ways to manage our waste</li>
+   <li>Innovating with more responsible stores, operations, manufacturing and delivery</li>
+</ul>
+(As these are mentioned on the official website of Starbucks)
+
+
 ## Sustainable Art
 
 ### What is Sustainable Art?
