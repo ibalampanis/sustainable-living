@@ -323,81 +323,38 @@ and healthy living space. Here are some tips for creating a healthy environment:
 
 ## There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:
 
-- [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
-  - [Table of Contents](#table-of-contents)
-  - [What is Sustainable Living?](#what-is-sustainable-living)
-  - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
-  - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
-  - [7 principles of sustainable living](#7-principles-of-sustainable-living)
-  - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
-    - [Reduce your energy consumption](#reduce-your-energy-consumption)
-    - [Use sustainable transportation](#use-sustainable-transportation)
-    - [Reduce your water usage](#reduce-your-water-usage)
-    - [Reduce your waste](#reduce-your-waste)
-    - [Eat a plant-based diet](#eat-a-plant-based-diet)
-    - [Support eco-friendly businesses](#support-eco-friendly-businesses)
-    - [Get involved in your community](#get-involved-in-your-community)
-    - [Reduce your washing](#reduce-your-washing)
-    - [Clean with castile](#clean-with-castile)
-    - [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
-    - [Recycle as much as you can](#recycle-as-much-as-you-can)
-    - [Look after your electrical appliances](#look-after-your-electrical-appliances)
-    - [Create clean air](#create-clean-air)
-    - [Change your shower head](#change-your-shower-head)
-    - [Use a cup while brushing your teeth](#use-a-cup-while-brushing-your-teeth)
-    - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
-    - [Practise eco-driving](#practise-eco-driving)
-    - [Draught-proof your home](#draught-proof-your-home)
-    - [Buy vintage furniture](#buy-vintage-furniture)
-    - [Recycle your clothes and shop vintage](#recycle-your-clothes-and-shop-vintage)
-    - [Optimise your white goods](#optimise-your-white-goods)
-    - [Go smart](#go-smart)
-    - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
-    - [Use your own cup](#use-your-own-cup)
-    - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
-    - [Use LED Lights](#use-led-lights)
-    - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
-    - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
-    - [Reduce paper usage:](#reduce-paper-usage)
-    - [Support environmental organizations:](#support-environmental-organizations)
-    - [Composting at Home](#composting-at-home)
-  - [Get informed: Environmental News Sources](#get-informed-environmental-news-sources)
-    - [ERM: The Sustainability Institute News](#erm-the-sustainability-institute-news)
-    - [Business Green](#business-green)
-    - [euronews: Sustainable Development](#euronews-sustainable-development)
-    - [Reuters: Sustainable Business](#reuters-sustainable-business)
-  - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
-  - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
-  - [Environmental Open-Source Projects](#environmental-open-source-projects)
-  - [Eco-travel](#eco-travel)
-    - [What is Eco-Travel?](#what-is-eco-travel)
-    - [Benefits of Ecotourism](#benefits-of-ecotourism)
-  - [Green Communities](#green-communities)
-  - [Sustainable Living Case Studies](#sustainable-living-case-studies)
-  - [10 free online games about sustainable living](#10-free-online-games-about-sustainable-living)
-  - [5 false myths about sustainable living](#5-false-myths-about-sustainable-living)
-  - [Testimonials](#testimonials)
-    - [Emma Watson: Actress and UN Women Goodwill Ambassador.](#emma-watson-actress-and-un-women-goodwill-ambassador)
-    - [Ashley Renne Nsonwu: Lifestyle educator and activist](#ashley-renne-nsonwu-lifestyle-educator-and-activist)
-    - [Rob Greenfield: Community organizer](#rob-greenfield-community-organizer)
-  - [European Union's (EU) 2030 Agenda for Sustainable Development](#european-unions-eu-2030-agenda-for-sustainable-development)
-  - [Sustainable development goals](#sustainable-development-goals)
-    - [THE 17 GOALS](#the-17-goals)
-  - [Sustainable Living \& Business](#sustainable-living--business)
-  - [Businesses that follows Sustainable Living](#businesses-that-follows-sustainable-living)
-  - [Sustainable Art](#sustainable-art)
-    - [What is Sustainable Art?](#what-is-sustainable-art)
-    - [Categories of Sustainable Art](#categories-of-sustainable-art)
-  - [Citations](#citations)
-  - [Interesting videos](#interesting-videos)
-  - [Interesting podcasts](#interesting-podcasts)
-  - [Interesting Documentaries](#interesting-documentaries)
-  - [Interesting Books](#interesting-books)
-    - [Zero Waste Lifestyle](#zero-waste-lifestyle)
-    - [Sustainable and Eco-Friendly Living](#sustainable-and-eco-friendly-living)
-  - [Donate!](#donate)
-    - [Donate to a good cause of your choice:](#donate-to-a-good-cause-of-your-choice)
-  - [Current Contributors](#current-contributors)
+- [Reduce your energy consumption](#reduce-your-energy-consumption)
+- [Use sustainable transportation](#use-sustainable-transportation)
+- [Reduce your water usage](#reduce-your-water-usage)
+- [Reduce your waste](#reduce-your-waste)
+- [Eat a plant-based diet](#eat-a-plant-based-diet)
+- [Support eco-friendly businesses](#support-eco-friendly-businesses)
+- [Get involved in your community](#get-involved-in-your-community)
+- [Reduce your washing](#reduce-your-washing)
+- [Clean with castile](#clean-with-castile)
+- [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
+- [Recycle as much as you can](#recycle-as-much-as-you-can)
+- [Look after your electrical appliances](#look-after-your-electrical-appliances)
+- [Create clean air](#create-clean-air)
+- [Change your shower head](#change-your-shower-head)
+- [Use a cup while brushing your teeth](#use-a-cup-while-brushing-your-teeth)
+- [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
+- [Practise eco-driving](#practise-eco-driving)
+- [Draught-proof your home](#draught-proof-your-home)
+- [Buy vintage furniture](#buy-vintage-furniture)
+- [Recycle your clothes and shop vintage](#recycle-your-clothes-and-shop-vintage)
+- [Optimise your white goods](#optimise-your-white-goods)
+- [Go smart](#go-smart)
+- [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
+- [Use your own cup](#use-your-own-cup)
+- [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
+- [Use LED Lights](#use-led-lights)
+- [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
+- [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
+- [Reduce paper usage:](#reduce-paper-usage)
+- [Support environmental organizations:](#support-environmental-organizations)
+- [Composting at Home](#composting-at-home)
+  
 
 ### Reduce your energy consumption
 
@@ -1845,6 +1802,49 @@ Starbucks are committed to reduce carbon emissions, eliminate waste and save wat
 </ul>
 (As these are mentioned on the official website of Starbucks)
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+## Healthy & Sustainable Recipes
+<h6>Recipes that don't have consequenses on Earth</h6>
+
+<h3>Quinoa Power Pot</h3>
+<p align="center"> 
+	<img height="200"  width=""  src="media/quinoa_power_porridge.jpg" alt=""> 
+</p>
+<h7>Ingredients</h7>
+<ul>
+   <li>Quinoa</li>
+   <li>Around 400 to 500 ml of milk</li>
+   <li>500ml hot water</li>
+   <li>2 teaspoons coconut oil/butter</li>
+   <li>1 teaspoon vanilla extract</li>
+   <li>2 teaspoons maple syrup/raw honey</li>
+</ul>
+
+<p>You can see the recipe <a href="https://www.wwf.org.uk/recipes/quinoa-power-pot">here<a></p>
+
+<h3>Banana & Spelt Loaf Cake</h3>
+<p align="center"> 
+	<img height="200"  width=""  src="media/banana-spelt-loaf-cake.jpg" alt=""> 
+</p>
+<h7>Ingredients</h7>
+<ul>
+   <li>260g Spelt Organic Flour</li>
+   <li>40g Ground Almonds</li>
+   <li>20g Baking Powder</li>
+   <li>100g Pitted Dates</li>
+   <li>275g Banana</li>
+   <li>80ml Rapeseed Oil</li>
+   <li>80ml Almond Milk</li>
+   <li>115g Soft Light Brown Sugar</li>
+   <li>1 Med/Large Banana for decoration</li>
+</ul>
+
+<p>You can see the recipe <a href="https://www.wwf.org.uk/recipes/banana-spelt-loaf-cake">here<a></p>
 
 ## Sustainable Art
 
