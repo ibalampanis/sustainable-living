@@ -71,6 +71,10 @@ However, as the number of apples is finite, the children got anxious and nervous
 and greedy with the apples, thinking they own them... So they started protesting but their parents didn't care. And they
 kept eating and eating till 5 apples were left in the world. So no more apples for the children's generation.
 
+So the conclusion of the story above is that we should always be aware of the resources which are generously given to us by nature
+-the metaphor of the infinite apples- and use the ones needed, without being insatiable and greedy. Only in this way will we be able 
+to create the right conditions for a more ecological and sustainable future, both for us and the generations to come.
+
 <h5 align="right">
 
 [back to the top](#table-of-contents)
