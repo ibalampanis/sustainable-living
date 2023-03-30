@@ -964,19 +964,19 @@ communities by turning our food scraps and yard waste into compost.
 
 In order to lead an environmentally conscious lifestyle you should always be informed about the newest legislations and updates. Here you can find some news sources based around sustainability.
 
-<br>
+---
 
 ### [ERM: The Sustainability Institute News](https://www.sustainability.com/news/)
 
-<br>
+---
 
 ### [Business Green](https://www.businessgreen.com/type/news)
 
-<br>
+---
 
 ### [euronews: Sustainable Development](https://www.euronews.com/tag/sustainable-development)
 
---
+---
 
 ### [Reuters: Sustainable Business](https://www.reuters.com/business/sustainable-business/)
 
