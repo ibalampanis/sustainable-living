@@ -1,11 +1,11 @@
 # Sustainability Questionnaire Application
 
 <h1 align="center">
-	<img height="200"  width="200" src="media/environment-quiz.png" alt="">
+	<img height="200"  width="200" src="media/sustainability-quiz.webp" alt="">
 
 <h4 align="right">
 
-[Image source](https://leverageedu.com/blog/environment-quiz/)
+[Image source](https://www.q4quiz.com/environment-quiz-questions-and-answers/)
 
 </h4>
 
