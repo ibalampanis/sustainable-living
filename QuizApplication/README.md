@@ -1,5 +1,17 @@
 # Sustainability Questionnaire Application
 
+<h1 align="center">
+	<img width="300" src="media/environment-quiz.png" >
+	<br>
+</h1>
+
+<h5 align="right">
+
+[Image source](https://leverageedu.com/blog/environment-quiz/)
+
+</h5>
+
+
 ## How green are you?
 
 Have you ever wondered whether your daily life practices are green enough or you
@@ -22,7 +34,7 @@ and ideal chance to get started with a simple software project.
 ### What to do?
 
 1. First you will need to clone the project "sustainable-living", so you can obtain
-tha source code locally. We are going to do that through the terminal.
+the source code locally. We are going to do that through the terminal.
 For Unix-based os open the utility application "Terminal", while for MS Windows
 use a Unix-like environment, like CygWin.
 
