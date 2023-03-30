@@ -2,8 +2,6 @@
 
 ## Table of Contents
 
-- [Sustainable Living: Tips and Tricks for a Greener Lifestyle](#sustainable-living-tips-and-tricks-for-a-greener-lifestyle)
-  - [Table of Contents](#table-of-contents)
   - [What is Sustainable Living?](#what-is-sustainable-living)
   - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
