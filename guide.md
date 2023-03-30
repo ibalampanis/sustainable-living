@@ -7,6 +7,7 @@
 - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
 - [7 principles of sustainable living](#7-principles-of-sustainable-living)
 - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
+- [Get informed: Environmental News Sources]
 - [Understanding the value of a sustainable lifestyle](#understanding-the-value-of-a-sustainable-lifestyle)
 - [Apps you can use to help you live sustainably](#apps-you-can-use-to-help-you-live-sustainably)
 - [Environmental Open Source Projects](#environmental-open-source-projects)
@@ -952,6 +953,38 @@ communities by turning our food scraps and yard waste into compost.
 </h4>
 
 </h1>
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+## Get informed: Environmental News Sources
+
+In order to lead an environmentally conscious lifestyle you should always be informed about the newest legislations and updates. Here you can find some news sources based around sustainability.
+
+--
+
+### [ERM: The Sustainability Institute News](https://www.sustainability.com/news/)
+
+--
+
+### [Business Green](https://www.businessgreen.com/type/news)
+
+--
+
+### [euronews: Sustainable Development](https://www.euronews.com/tag/sustainable-development)
+
+--
+
+### [Reuters: Sustainable Business](https://www.reuters.com/business/sustainable-business/)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ## Understanding the value of a sustainable lifestyle
 
