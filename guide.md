@@ -2,50 +2,42 @@
 
 ## Table of Contents
 
-   - [What is Sustainable Living?](#what-is-sustainable-living)
-   - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
-   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
-   - [7 principles of sustainable living](#7-principles-of-sustainable-living)
-   <details>
-   <summary>
-   There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:
-   </summary>
-   <br>
-
-   - [Reduce your energy consumption](#reduce-your-energy-consumption)
-   - [Use sustainable transportation](#use-sustainable-transportation)
-   - [Reduce your water usage](#reduce-your-water-usage)
-   - [Reduce your waste](#reduce-your-waste)
-   - [Eat a plant-based diet](#eat-a-plant-based-diet)
-   - [Support eco-friendly businesses](#support-eco-friendly-businesses)
-   - [Get involved in your community](#get-involved-in-your-community)
-   - [Reduce your washing](#reduce-your-washing)
-   - [Clean with castile](#clean-with-castile)
-   - [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
-   - [Recycle as much as you can](#recycle-as-much-as-you-can)
-   - [Look after your electrical appliances](#look-after-your-electrical-appliances)
-   - [Create clean air](#create-clean-air)
-   - [Change your shower head](#change-your-shower-head)
-   - [Use a cup while brushing your teeth](#use-a-cup-while-brushing-your-teeth)
-   - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
-   - [Practise eco-driving](#practise-eco-driving)
-   - [Draught-proof your home](#draught-proof-your-home)
-   - [Buy vintage furniture](#buy-vintage-furniture)
-   - [Recycle your clothes and shop vintage](#recycle-your-clothes-and-shop-vintage)
-   - [Optimise your white goods](#optimise-your-white-goods)
-   - [Go smart](#go-smart)
-   - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
-   - [Use your own cup](#use-your-own-cup)
-   - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
-   - [Use LED Lights](#use-led-lights)
-   - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
-   - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
-   - [Reduce paper usage:](#reduce-paper-usage)
-   - [Support environmental organizations:](#support-environmental-organizations)
-   - [Composting at Home](#composting-at-home)
-
-   </details>
-
+  - [What is Sustainable Living?](#what-is-sustainable-living)
+  - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
+  - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
+  - [7 principles of sustainable living](#7-principles-of-sustainable-living)
+  -[There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
+    - [Reduce your energy consumption](#reduce-your-energy-consumption)
+    - [Use sustainable transportation](#use-sustainable-transportation)
+    - [Reduce your water usage](#reduce-your-water-usage)
+    - [Reduce your waste](#reduce-your-waste)
+    - [Eat a plant-based diet](#eat-a-plant-based-diet)
+    - [Support eco-friendly businesses](#support-eco-friendly-businesses)
+    - [Get involved in your community](#get-involved-in-your-community)
+    - [Reduce your washing](#reduce-your-washing)
+    - [Clean with castile](#clean-with-castile)
+    - [Go for plastic-free personal care](#go-for-plastic-free-personal-care)
+    - [Recycle as much as you can](#recycle-as-much-as-you-can)
+    - [Look after your electrical appliances](#look-after-your-electrical-appliances)
+    - [Create clean air](#create-clean-air)
+    - [Change your shower head](#change-your-shower-head)
+    - [Use a cup while brushing your teeth](#use-a-cup-while-brushing-your-teeth)
+    - [Opt for green energy suppliers](#opt-for-green-energy-suppliers)
+    - [Practise eco-driving](#practise-eco-driving)
+    - [Draught-proof your home](#draught-proof-your-home)
+    - [Buy vintage furniture](#buy-vintage-furniture)
+    - [Recycle your clothes and shop vintage](#recycle-your-clothes-and-shop-vintage)
+    - [Optimise your white goods](#optimise-your-white-goods)
+    - [Go smart](#go-smart)
+    - [Insulate, Insulate, Insulate](#insulate-insulate-insulate)
+    - [Use your own cup](#use-your-own-cup)
+    - [Invest in renewable energy solutions](#invest-in-renewable-energy-solutions)
+    - [Use LED Lights](#use-led-lights)
+    - [Recycle And Recharge Batteries](#recycle-and-recharge-batteries)
+    - [Practice mindful consumption by only buying what you need and repairing instead of replacing broken items](#practice-mindful-consumption-by-only-buying-what-you-need-and-repairing-instead-of-replacing-broken-items)
+    - [Reduce paper usage:](#reduce-paper-usage)
+    - [Support environmental organizations:](#support-environmental-organizations)
+    - [Composting at Home](#composting-at-home)
   - [Get informed: Environmental News Sources](#get-informed-environmental-news-sources)
     - [ERM: The Sustainability Institute News](#erm-the-sustainability-institute-news)
     - [Business Green](#business-green)
@@ -1645,17 +1637,6 @@ Over the years, he’s helped grow the home garden movement, showed how to live 
 - [Youtube](https://www.youtube.com/channel/UCKirXBZV7hE4Fws3VSdYkRQ)
 
 [Source](https://www.globalcitizen.org/en/content/environmental-activists-to-follow-carbon-footprint/)
-
-### Bea Johnson
-
-> Béa Johnson is a US-based environmental activist, author and motivational speaker.
-
-She is best known for waste free living by reducing her family's annual trash down to a pint and for authoring the book Zero Waste Home: The Ultimate Guide to Simplifying Your Life by Reducing Your Waste. Having started to adhere to simple living as early as 2006, Johnson is widely recognized for pioneering and popularizing waste-free living.
-
-- [Instagram](https://www.instagram.com/zerowastehome/)
-- [Twitter](https://twitter.com/zerowastehome)
-
-[Source](https://en.wikipedia.org/wiki/Bea_Johnson)
 
 <h5 align="right">
 
