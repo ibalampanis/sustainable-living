@@ -10,7 +10,7 @@
   <summary>
   [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
   </summary>
-  <br>
+
     - [Reduce your energy consumption](#reduce-your-energy-consumption)
     - [Use sustainable transportation](#use-sustainable-transportation)
     - [Reduce your water usage](#reduce-your-water-usage)
@@ -42,6 +42,7 @@
     - [Reduce paper usage:](#reduce-paper-usage)
     - [Support environmental organizations:](#support-environmental-organizations)
     - [Composting at Home](#composting-at-home)
+
    </details>
 
   - [Get informed: Environmental News Sources](#get-informed-environmental-news-sources)
