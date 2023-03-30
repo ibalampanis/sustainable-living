@@ -2,15 +2,16 @@
 
 ## Table of Contents
 
-  - [What is Sustainable Living?](#what-is-sustainable-living)
-  - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
-  - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
-  - [7 principles of sustainable living](#7-principles-of-sustainable-living)
-  <details>
-  <summary>
-  - [There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:](#there-are-many-things-you-can-do-to-live-a-greener-lifestyle-here-are-some-ideas-to-get-you-started)
-  </summary>
-  <br>
+   - [What is Sustainable Living?](#what-is-sustainable-living)
+   - [What is NOT Sustainable Living?](#what-is-not-sustainable-living)
+   - [Getting started with sustainable \& green living](#getting-started-with-sustainable--green-living)
+   - [7 principles of sustainable living](#7-principles-of-sustainable-living)
+   <details>
+   <summary>
+   There are many things you can do to live a greener lifestyle. Here are some ideas to get you started:
+   </summary>
+   <br>
+
     - [Reduce your energy consumption](#reduce-your-energy-consumption)
     - [Use sustainable transportation](#use-sustainable-transportation)
     - [Reduce your water usage](#reduce-your-water-usage)
@@ -42,7 +43,9 @@
     - [Reduce paper usage:](#reduce-paper-usage)
     - [Support environmental organizations:](#support-environmental-organizations)
     - [Composting at Home](#composting-at-home)
+
    </details>
+
   - [Get informed: Environmental News Sources](#get-informed-environmental-news-sources)
     - [ERM: The Sustainability Institute News](#erm-the-sustainability-institute-news)
     - [Business Green](#business-green)
