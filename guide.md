@@ -2333,6 +2333,18 @@ They envision a world where all students experience and understand how nature su
 
 The act of volunteering can be considered a driving force to the protection of our environment and the promotion of sustainability with more and more people willing to contribute and act in favor of our planet. It is a well-known fact that many of the most famous organizations that promote sustainability such as Greenpeace, rely on volunteering to achieve their goals and keep going. As a volunteer you can work on different tasks, from promoting the cause of an organization on social media to cleaning the ocean! It all comes down to how experienced you are, what your talents are and most important of all how much of your time you are willing to offer. It is also worth mentioning that though volunteering not only do you contribute to the well-being of the society but you also achieve major benefits for yourself! First of all, you are given a sense of purpose and improve your self-esteem, you are also able to gain much needed experience that can enrich your CV and you get to meet new friends and socialize with others that share the same interests and concerns as you. However, the greatest benefit of it all is that you get to experience the sense of fulfillment of helping others and you come to realize the great impact that teamwork can have. Are you ready to take the next step and apply for a volunteering position? Here is a list of non-profit organizations in need of your help.
 
+<h3 style="font-size:20px" align="center">WWF (World Wide Fund For Nature)</h3>
+
+WWF is an international non-profit organization aiming at the conservation of the environment. Established in 1961, WWF has since been endeavoring to protect wildlife and endangered animals through campaigns and coordinated action. There are various positions for anyone willing to help with tasks varying from tree planting to promoting the mission of the organization on social media.
+
+<h3 style="font-size:20px" align="center">Mporoume (We Can)</h3>
+
+Mporoume is a Greek non-profit organization whose mission is to reduce food waste. Volunteers can participate in a number of different programs that aim at collecting spare food from different sources, such as the farmers’ market, and offering it to people in need. In this way no food is thrown away and people receive the help needed.
+
+<h3 style="font-size:20px" align="center">Greenpeace</h3>
+
+Greenpeace is an international non-profit organization whose mission is the protection of the environment. It is considered one of the most well-known non-profits in the world especially due to its impactful campaigns that take against any business, government or 
+
 ## Current Contributors
 
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
