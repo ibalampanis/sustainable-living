@@ -21,6 +21,7 @@ Here are some jokes Chat-GPT wrote to encourage more people to adapt a sustainab
   (Choosing sustainable fashion options, such as vegan leather, is a sustainable living practice.)
   
 - Why did the tree hugger refuse to wear animal skins? Because it didn't leaf a good environmental footprint!
+  (Choosing sustainable clothing options, such as plant-based fabrics, is a vital aspect of sustainable living.)
 
 - What did the water bottle say to the recycling bin? "Thanks for giving me a second chance!"\
   (This joke encourages people to recycle and reduce their plastic waste.)
