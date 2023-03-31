@@ -2336,19 +2336,39 @@ The act of volunteering can be considered a driving force to the protection of o
 
 <h3 style="font-size:20px" align="center">WWF (World Wide Fund For Nature)</h3>
 
-WWF is an international non-profit organization aiming at the conservation of the environment. Established in 1961, WWF has since been endeavoring to protect wildlife and endangered animals through campaigns and coordinated action. There are various positions for anyone willing to help with tasks varying from tree planting to promoting the mission of the organization on social media.
+WWF is an international non-profit organization aiming at the conservation of the environment. Established in 1961, WWF has since been endeavoring to fight climate change, protect wildlife and endangered animals and reduce the use of single-use plastic products through campaigns and coordinated action. There are various positions for anyone willing to help with tasks varying from tree planting and promoting the mission of the organization on social media to creating mobile applications and translating texts. In 2022 more than 50 different programs took place in collaboration with around 35.000 citizens. If you love nature this is the place to be.
+
+[Visit the website](https://www.wwf.gr/en/?type1=%2Fen%2F)
 
 <h3 style="font-size:20px" align="center">Boroume (We Can)</h3>
 
-Boroume is a Greek non-profit organization whose mission is to reduce food waste. Volunteers can participate in a number of different programs that aim at collecting spare food from different sources, such as the farmers’ market, and offering it to people in need. In this way no food is thrown away and people receive the help needed.
+Boroume is a Greek non-profit organization that was founded in 2011 and whose mission is to reduce food waste. Volunteers can participate in a number of different programs. Many of them aim at collecting spare food from different sources, such as the farmers’ market or fields and offering it to people in need. In this way no food is thrown away and people receive the help needed. There are also certain awareness programs that try to educate people on the issue of food waste and its consequences on economic, societal and environmental level. To offer a glimpse of the great impact of Boroume, it is worth mentioning that since its first day in action, more than 60.000.000 portions of food have been saved from being thrown away. Participating as a volunteer in this organization can really change the way you perceive food and make you greatly change your habits.
+
+[Visit the website](https://www.boroume.gr/en/)
 
 <h3 style="font-size:20px" align="center">Greenpeace</h3>
 
-Greenpeace is an international non-profit organization whose mission is the protection of the environment. It is considered one of the most well-known non-profits in the world especially due to its impactful campaigns that take against any business, government or individual project that may have negative consequences on the environment.
+Greenpeace is an international non-profit organization whose mission is the protection of the environment. It was founded in 1991 and it is considered one of the most well-known non-profits in the world especially due to its impactful campaigns that take against any business, government or individual project that may have negative consequences on the environment. Greenpeace counts more than 3.000 employees in international level and has a very diverse network, meaning that you can contribute from many different places around the world.
 
-<h3 style="font-size:20px" align="center">We4All</h3>
+[Visit the website](https://www.greenpeace.org/international/)
 
-We4All is a Greek non-profit organization aiming at the conservation of the environment. It was founded in 2018 after the destructive fire in Mati in order to “help the earth heal”. We4All and its volunteers participate in various projects such as tree planting, watering and conducting trainings at schools and other organizations in hopes of raising environmental awareness. 
+<h3 style="font-size:20px" align="center">we4all</h3>
+
+we4all is a Greek non-profit organization aiming at the conservation of the environment. It was founded in 2018 after the destructive fire in Mati in order to “help the earth heal”. we4all and its volunteers participate in various projects such as tree planting, watering and conducting trainings at schools and other organizations in hopes of raising environmental awareness. Since its first day in action, more than 825.000 trees have been planted in collaboration with around 6.000 volunteers. If you are passionate about the protection of the environment and want to act towards it this non-profit organization could be a great choice for you!
+
+[Visit the website](https://we4all.com)
+
+<h3 style="font-size:20px" align="center">Oloi mazi boroume</h3>
+
+Oloi mazi boroume is another of the suggested organizations that are based in Greece. It was founded in 2011 and it is responsible for many great activities taking place each of whom can concern either education, medicine, the environment or social welfare. Some actions worth of mention that take place frequently are the collection of medicine for people in need, the organization of blood drives as well as the collection of food and tree planting. Oloi mazi boroume is a nice suggestion for anyone who wants to take part in different programs that vary in character but are equally important to the wellbeing of our society.
+
+[Visit the website](https://www.oloimaziboroume.gr)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 <br>
 
