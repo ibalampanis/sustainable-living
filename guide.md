@@ -74,6 +74,7 @@
       - [Sustainable and Eco-Friendly Living](#sustainable-and-eco-friendly-living)
    - [Donate!](#donate)
    - [Donate to a good cause of your choice:](#donate-to-a-good-cause-of-your-choice)
+   - [Volunteer](#volunteer)
    - [Current Contributors](#current-contributors)
 
 ---
