@@ -9,11 +9,12 @@ csv_path = os.path.join(os.path.dirname(script_path), 'devices.csv')
 
 # Open the CSV file and extract each device name and power consumption from the first two columns
 device_info = []
-with open('devices.csv') as csvfile:
+with open(csv_path) as csvfile:
     reader = csv.reader(csvfile)
     next(reader)  # Skip header row
     for row in reader:
         device_info.append((row[0], float(row[1]), float(row[2])))
+
 
 # Initialize the GUI
 root = tk.Tk()
