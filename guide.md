@@ -2338,9 +2338,9 @@ The act of volunteering can be considered a driving force to the protection of o
 
 WWF is an international non-profit organization aiming at the conservation of the environment. Established in 1961, WWF has since been endeavoring to protect wildlife and endangered animals through campaigns and coordinated action. There are various positions for anyone willing to help with tasks varying from tree planting to promoting the mission of the organization on social media.
 
-<h3 style="font-size:20px" align="center">Mporoume (We Can)</h3>
+<h3 style="font-size:20px" align="center">Boroume (We Can)</h3>
 
-Mporoume is a Greek non-profit organization whose mission is to reduce food waste. Volunteers can participate in a number of different programs that aim at collecting spare food from different sources, such as the farmers’ market, and offering it to people in need. In this way no food is thrown away and people receive the help needed.
+Boroume is a Greek non-profit organization whose mission is to reduce food waste. Volunteers can participate in a number of different programs that aim at collecting spare food from different sources, such as the farmers’ market, and offering it to people in need. In this way no food is thrown away and people receive the help needed.
 
 <h3 style="font-size:20px" align="center">Greenpeace</h3>
 
