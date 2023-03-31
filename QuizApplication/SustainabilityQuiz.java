@@ -33,17 +33,17 @@ public class SustainabilityQuiz {
     public static void main(String[] args) throws IOException {
         // read and fetch the questions from the txt file and use a delimiter to hold them in questions array
         try {
-        List<String> data = new ArrayList<String>();
-        Scanner sc = new Scanner(new FileReader("Questions.txt"))
-                .useDelimiter("!\\s*");
-        String str;
-        while (sc.hasNext()) {
-            str = sc.next();
-            data.add(str);
-        }
-        String[] questions = data.toArray(new String[0]);
-        sc.close();
-        startQuiz(questions);
+            List<String> data = new ArrayList<String>();
+            Scanner sc = new Scanner(new FileReader("Questions.txt"))
+                   	   .useDelimiter("!\\s*");
+            String str;
+            while (sc.hasNext()) {
+                str = sc.next();
+                data.add(str);
+            }
+            String[] questions = data.toArray(new String[0]);
+            sc.close();
+            startQuiz(questions);
         } catch (FileNotFoundException e) {
             System.out.println("File not found.");
         }
