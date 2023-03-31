@@ -2344,11 +2344,11 @@ Boroume is a Greek non-profit organization whose mission is to reduce food waste
 
 <h3 style="font-size:20px" align="center">Greenpeace</h3>
 
-Greenpeace is an international non-profit organization whose mission is the protection of the environment. It is considered one of the most well-known non-profits in the world especially due to its impactful campaigns that take against any business, government or 
+Greenpeace is an international non-profit organization whose mission is the protection of the environment. It is considered one of the most well-known non-profits in the world especially due to its impactful campaigns that take against any business, government or individual project that may have negative consequences on the environment.
 
-<h3 style="font-size:20px" align="center">WE4ALL</h3>
+<h3 style="font-size:20px" align="center">We4All</h3>
 
-WE4ALL is a Greek non-profit organization aiming at the conservation of the environment. It was founded in 2018 after the destructive fire in Mati in order to “help the earth heal”. WE4ALL and its volunteers participate in various projects such as tree planting, watering and conducting trainings at schools and other organizations in hopes of raising environmental awareness. 
+We4All is a Greek non-profit organization aiming at the conservation of the environment. It was founded in 2018 after the destructive fire in Mati in order to “help the earth heal”. We4All and its volunteers participate in various projects such as tree planting, watering and conducting trainings at schools and other organizations in hopes of raising environmental awareness. 
 
 <br>
 
