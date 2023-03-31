@@ -72,6 +72,7 @@
    - [Interesting Books](#interesting-books)
       - [Zero Waste Lifestyle](#zero-waste-lifestyle)
       - [Sustainable and Eco-Friendly Living](#sustainable-and-eco-friendly-living)
+   - [Best films to inspire sustainability](#best-films-to-inspire-sustainability)
    - [Donate!](#donate)
    - [Donate to a good cause of your choice:](#donate-to-a-good-cause-of-your-choice)
    - [Volunteer](#volunteer)
@@ -2024,6 +2025,21 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
    by William McDonough and Michael Braungart
 
 **P.S. Buy the e-book, audiobook or borrow a copy from a friend!**
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+## Best films to inspire sustainability
+
+1. WALL-E (2008)
+2. Avatar (2009)
+3. 2040 (2019)
+4. Don't look up (2021)
+5. Princess Mononoke (1997)
+6. Snowpiercer (2003)
 
 <h5 align="right">
 
