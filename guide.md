@@ -2329,6 +2329,10 @@ They envision a world where all students experience and understand how nature su
 
 </h5>
 
+## Volunteer
+
+The act of volunteering can be considered a driving force to the protection of our environment and the promotion of sustainability with more and more people willing to contribute and act in favor of our planet. It is a well-known fact that many of the most famous organizations that promote sustainability such as Greenpeace, rely on volunteering to achieve their goals and keep going. As a volunteer you can work on different tasks, from promoting the cause of an organization on social media to cleaning the ocean! It all comes down to how experienced you are, what your talents are and most important of all how much of your time you are willing to offer. It is also worth mentioning that though volunteering not only do you contribute to the well-being of the society but you also achieve major benefits for yourself! First of all, you are given a sense of purpose and improve your self-esteem, you are also able to gain much needed experience that can enrich your CV and you get to meet new friends and socialize with others that share the same interests and concerns as you. However, the greatest benefit of it all is that you get to experience the sense of fulfillment of helping others and you come to realize the great impact that teamwork can have. 
+
 ## Current Contributors
 
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
