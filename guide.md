@@ -2346,6 +2346,12 @@ Mporoume is a Greek non-profit organization whose mission is to reduce food wast
 
 Greenpeace is an international non-profit organization whose mission is the protection of the environment. It is considered one of the most well-known non-profits in the world especially due to its impactful campaigns that take against any business, government or 
 
+<h3 style="font-size:20px" align="center">WE4ALL</h3>
+
+WE4ALL is a Greek non-profit organization aiming at the conservation of the environment. It was founded in 2018 after the destructive fire in Mati in order to “help the earth heal”. WE4ALL and its volunteers participate in various projects such as tree planting, watering and conducting trainings at schools and other organizations in hopes of raising environmental awareness. 
+
+<br>
+
 ## Current Contributors
 
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
