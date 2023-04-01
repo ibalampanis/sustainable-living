@@ -63,14 +63,19 @@ for i in range(rounds):
             print(f"{choice}: {answer}")
 
     # Prompt the user for an answer
-    user_answer = input("Your answer: ")
+    while True:
+        user_answer = input("Your answer: ")
+        if user_answer.lower() in ['a', 'b', 'c', 'd']:
+            break
+        else:
+            print("Answer must be one of a,b,c,d.Try again!")
 
     # Check the user's answer
     if user_answer.lower() == choices["answer"]:
-        print("Correct!")
+        print("Correct!\n")
         score += 1
     else:
-        print("Incorrect.")
+        print("Incorrect.\n")
         lives -= 1
 
     # Check if the game is over
