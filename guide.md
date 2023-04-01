@@ -1868,13 +1868,31 @@ Sustainable fashion can be achieved through various practices, such as using eco
 
 Overall, sustainable fashion aims to create a more responsible and equitable fashion industry that balances economic growth with environmental and social considerations, and ensures that the needs of both current and future generations are met.</p>
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ### Life Cycle Analysis
 
 <p>Life Cycle Analysis (LCA) is a tool used to understand the how a product impacts the environment at each stage of its life cycle, from raw input to the end of the products' life cycle. Life Cycle Cost (LCC) is an economic metric that "identifies the minimum cost for each life cycle stage which would be presented in the aspects of material, procedures, usage, end-of-life and transportation."[17] LCA and LCC can be used to identify particular aspects of a product that is particularly environmentally damaging & reduce those impacts. For example, LCA might reveal that the fabrication stage of a product's life cycle is particularly harmful for the environment and switching to a different material can drive emissions down. However, switching material may increase environmental effects later in a products life time; LCA takes into account the whole life cycle of a product and can alert designers to the many impacts of a product, which is why LCA is important.</p>
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ### Sustainable clothing
 
 <p>Sustainable clothing refers to fabrics derived from eco-friendly resources, such as sustainably grown fiber crops or recycled materials. Sustainable clothing includes the use of second-hand retail repair and often utilizes upcycling and recycling of clothing.[142] It also refers to how these fabrics are made. Historically, being environmentally conscious towards clothing meant (1), making clothes last long by caring for them, repairing and patching them, (2) inheriting and using hand-me-downs within ones expanded family and community, (3) buying clothes from thrift stores or any shops that sell second-hand clothing, or (4) donating used clothes to shops previously mentioned, for reuse or resale. In modern times, with a prominent trend towards sustainability and being 'green', sustainable clothing has expanded towards (5) reducing the amount of clothing overproduced, incinerated or discarded to landfills, and (6) decreasing the environmental impact of agrochemicals in producing conventional fiber crops (e.g. cotton).</p>
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ### Recycled clothing
 
@@ -1882,11 +1900,23 @@ Overall, sustainable fashion aims to create a more responsible and equitable fas
 
 <p>While most textiles can be recycled, they are mainly downgraded almost immediately into low-quality end-uses, such as filling materials. The limited range of recycled materials available reflects the market dominance of cheap virgin fibers and the lack of technological innovation in the recycling industry. For over 200 years recycling technology has stayed the same; fibers are extracted from used fabric by mechanically tearing the fabric apart using carding machines. The process breaks the fibers, producing much shorter lengths that tend to result in a low-quality yarn. Textiles made from synthetic fibers can also be recycled chemically in a process that involves breaking down the fiber at the molecular level and then depolymerizing the feedstock. While chemical recycling is more energy-intensive than mechanical pulling, the resulting fiber tends to be of more predictable quality. The most commonly available recycled synthetic fibre is polyester made from plastic bottles, although recycled nylon is also available.</p>
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ### Trashion
 
 <p>Trashion is a philosophy and an ethic encompassing environmentalism and innovation. Making traditional objects out of recycled materials can be trashion, as can making avant-garde fashion from cast-offs or junk. It springs from a desire to make the best use of limited resources. Trashion is similar to upcycling and refashion, although it began with specific fashion aspirations. Like upcycling, trashion generates items that are valued again, but these items may be either low-cost or high-cost. The environmental aim of trashion is to call attention to and reduce the polluting outcome of fashion waste
 
 Initially trashion was used to describe art-couture costume usually linked to contests or fashion shows; however, as recycling and 'green' fashion have become more prevalent, trashion has taken a turn for the more wearable. The term is now widely used in creative circles to describe any wearable item or accessory that is constructed using all or part materials recycled materials, including clothing that has been thrifted and reconditioned.</p>
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ###  Sustainable High Fashion
 
@@ -1898,6 +1928,11 @@ Sustainable high fashion also involves promoting transparency in the supply chai
 
 By embracing sustainable high fashion practices, designers and fashion brands can create a more responsible and ethical fashion industry that meets the needs of both consumers and the planet. It offers an opportunity to create beautiful and luxurious fashion pieces while minimizing the impact on the environment and promoting social responsibility.</p>
 
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
 
 ###  Businesses in Sustainable High Fashion
 
