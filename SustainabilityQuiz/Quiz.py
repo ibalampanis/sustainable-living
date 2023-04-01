@@ -1,10 +1,5 @@
 import random
 
-# Set up the game
-lives = 3
-score = 0
-rounds = 5
-
 # Define the questions, choices, and answers
 questions = {
     "What is a reusable alternative to plastic bags?": {
@@ -44,10 +39,22 @@ questions = {
     }
 }
 
+# Set up the game
+lives = 3
+score = 0
+rounds = len(questions)
+
+usedQuestion = []
+
 # Define the game loop
 for i in range(rounds):
-    # Get a random question and answer
-    question, choices = random.choice(list(questions.items()))
+
+    # Get a random question and answer, different every time
+    while True:
+        question, choices = random.choice(list(questions.items()))
+        if question not in usedQuestion:
+            usedQuestion.append(question)
+            break
 
     # Print the question and choices
     print(f"Round {i + 1}: {question}")
