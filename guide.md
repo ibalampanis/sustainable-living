@@ -67,6 +67,7 @@
   - [Businesses that follow Sustainable Living](#businesses-that-follow-sustainable-living)
   - [Sustainable Fashion](#Sustainable Fashion)
     - [Sustainable clothing](#Sustainable clothing)
+    - [Recycled clothing](#Recycled clothing)
     - [High Fashion](#High Fashion)
     - [Businesses in High Fashion](#Businesses in High Fashion)
   - [Healthy \& Sustainable Recipes](#healthy--sustainable-recipes)
@@ -1838,6 +1839,10 @@ Overall, sustainable fashion aims to create a more responsible and equitable fas
 ### Sustainable clothing
 
 <p>Sustainable clothing refers to fabrics derived from eco-friendly resources, such as sustainably grown fiber crops or recycled materials. Sustainable clothing includes the use of second-hand retail repair and often utilizes upcycling and recycling of clothing.[142] It also refers to how these fabrics are made. Historically, being environmentally conscious towards clothing meant (1), making clothes last long by caring for them, repairing and patching them, (2) inheriting and using hand-me-downs within ones expanded family and community, (3) buying clothes from thrift stores or any shops that sell second-hand clothing, or (4) donating used clothes to shops previously mentioned, for reuse or resale. In modern times, with a prominent trend towards sustainability and being 'green', sustainable clothing has expanded towards (5) reducing the amount of clothing overproduced, incinerated or discarded to landfills, and (6) decreasing the environmental impact of agrochemicals in producing conventional fiber crops (e.g. cotton).</p>
+
+### Recycled clothing
+
+<p>Recycled or reclaimed fibers are recovered from either pre or post-consumer sources. Those falling into the category of 'pre-consumer' are unworn/unused textile wastes from all the various stages of manufacture. Post-consumer textile waste could be any product that has been worn/used and has (typically) been discarded or donated to charities. Once sorted for quality and color, they can be shredded (pulled, UK, or picked, US) into a fibrous state. According to the specification and end-use, these fibers can be blended together or with 'new' fiber.</p>
 
 ###  Sustainable High Fashion
 
