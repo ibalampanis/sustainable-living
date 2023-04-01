@@ -2156,12 +2156,26 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 
 ## Best films to inspire sustainability
 
-1. WALL-E (2008)
-2. Avatar (2009)
-3. 2040 (2019)
-4. Don't look up (2021)
-5. Princess Mononoke (1997)
-6. Snowpiercer (2003)
+<h3>1. WALL-E</h3>
+
+WALL-E is a 2008 American animated science fiction film produced by Pixar Animation Studios and released by Walt Disney Pictures. The director of the film is Andrew Stanton who is also one of the two writers. WALL-E takes place in 2805, in a dystopian future where Earth has become deserted, unhabitable and completely destroyed due to rampant consumerism and zero concern about the environment. The movie follows a lonely robot, WALL-E, left alone to clean up garbage when the sudden visit of EVE, another robot changes everything.
+
+<h3>2. Avatar</h3>
+
+Avatar is a 2009 epic science fiction film directed, written, co-produced and co-edited by James Cameron. The movie takes place in the mid-22nd century, in 2154 and follows the colonization from humans, of Pandora, a moon of a gas giant, in order to mine the mineral unobtanium. The operation of the mining colony constitutes a threat to the local tribe of Na’vi, a humanoid kind of species indigenous to Pandora leading to tensions arising between the two. The film has been highly praised for its use of visual effects and is the highest-grossing film of all time.
+
+<h3>3. Don't Look Up</h3>
+
+Don’t Look Up is a 2021 American apocalyptic political satire film written, co-produced and directed by Adam Mckay. The film follows the story of two astronomers who try to warn humanity about an approaching comet that will collide with Earth and kill everyone. The collision stands as an allegory for climate change that is just as dangerous but no one pays the appropriate attention. The cast includes Leonardo DiCaprio, Jennifer Lawrence, Rob Morgan and others.
+
+<h3>4. Princess Mononoke</h3>
+
+Princess Mononoke is a 1997 Japanese animated epic historical fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli. The movie is set in the Muromachi period of Japan (spanning from 1336 to around 1573 CE) but also includes fantasy elements. It follows the story of the young prince Ashitaka and his involvement in the conflict between the gods of a forest and the humans who consume its resources. The movie deals with the theme of environmentalism and was a commercial blockbuster in Japan at the time of its release. It also greatly contributed in making Studio Ghibli internationally renowned.
+
+<h3>5. Snowpiercer</h3>
+
+Snowpiercer is a 2013 post-apocalyptic science fiction action film based on the French climate fiction graphic novel Le Transperceneige. The director of the film is Bong Joon-ho with Chris Evans, Song Kang-ho and Tilda Swinton starring as the main characters. Snowpiercer takes place aboard the train of the same name as it travels the Earth carrying the last surviving humans after a failed attempt to stop climate change using climate engineering caused a new Ice Age. The film has been highly acclaimed and praised for its vision, direction and performances.
+
 
 <h5 align="right">
 
