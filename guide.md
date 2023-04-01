@@ -1815,7 +1815,37 @@ Starbucks are committed to reduce carbon emissions, eliminate waste and save wat
    <li>Working on better ways to manage our waste</li>
    <li>Innovating with more responsible stores, operations, manufacturing and delivery</li>
 </ul>
-(As these are mentioned on the official website of Starbucks)
+(As these are mentioned on the official website of Starbucks) 
+
+<br>
+<br>
+
+6. **Interface**: Interface is a carpet tile company that has made sustainability a key part of its business model. The company uses recycled materials in its products, and has a goal of becoming a carbon negative company by 2040. 
+   
+Here are some examples of their sustainability initiatives:
+<ul>
+   <li>Mission Zero: Interface's Mission Zero is a commitment to eliminate any negative impact the company may have on the environment by 2020. The company has made progress towards this goal by reducing its carbon emissions, water usage, and waste sent to landfills.</li>
+   <li>Closed-Loop Manufacturing: Interface has developed a closed-loop manufacturing process that uses recycled materials to create new flooring products. The company has also developed a program called ReEntry 2.0, which collects old carpet tiles from customers and recycles them into new products.</li>
+   <li>Net-Works: Net-Works is a partnership between Interface and the Zoological Society of London that collects discarded fishing nets from fishing communities in the Philippines and recycles them into carpet tiles. This program helps to reduce waste in the oceans and provides additional income for local communities.</li>
+</ul>
+
+7. **Seventh Generation**: Seventh Generation is a cleaning and personal care products company that focuses on environmentally-friendly and sustainable products. The company uses plant-based ingredients and recycled packaging in its products.
+
+Here are some examples of their sustainability practices:
+<ul>
+   <li>Renewable Energy: Seventh Generation has committed to using 100% renewable energy in its manufacturing facilities by 2020. The company has also invested in renewable energy projects, such as wind power and solar power.</li>
+   <li>Packaging: Seventh Generation has worked to reduce the environmental impact of its product packaging. The company uses recycled materials in its packaging and has reduced the size and weight of its products to minimize the use of resources.</li>
+   <li>Ingredient Transparency: Seventh Generation is committed to transparency about the ingredients used in its products. The company provides detailed information on its website about the ingredients used in each product and the potential health and environmental impacts of those ingredients.</li>
+</ul>
+
+8. **Eileen Fisher**: Eileen Fisher is a clothing company that is committed to sustainable and ethical practices. The company uses organic and recycled materials in its products, and also has a program to take back and recycle used clothing.
+   
+Here are some examples of their sustainability initiatives:
+<ul>
+   <li>Organic Materials: Eileen Fisher uses organic cotton and linen in many of its products. The company also uses recycled materials and has developed a program to collect old clothing from customers and turn it into new products.</li>
+   <li>Supply Chain Transparency: Eileen Fisher is committed to transparency in its supply chain. The company provides information on its website about the factories and mills that produce its products, as well as the environmental and social impacts of those facilities.</li>
+   <li>Social Responsibility: Eileen Fisher is committed to ethical labor practices and fair wages for its workers. The company has developed partnerships with organizations that support women's empowerment and has established a program to provide job training and employment opportunities for women who have experienced homelessness or other challenges.</li>
+</ul>
 
 <h5 align="right">
 
