@@ -65,6 +65,9 @@
   - [Sustainable Living \& Business](#sustainable-living--business)
   - [The Line, Saudi Arabia](#the-line-saudi-arabia)
   - [Businesses that follow Sustainable Living](#businesses-that-follow-sustainable-living)
+  - [Sustainable Fashion](#Sustainable Fashion)
+    - [High Fashion](#High Fashion)
+    - [Businesses in High Fashion](#Businesses in High Fashion)
   - [Healthy \& Sustainable Recipes](#healthy--sustainable-recipes)
   - [Sustainable Art](#sustainable-art)
     - [What is Sustainable Art?](#what-is-sustainable-art)
@@ -1816,6 +1819,60 @@ Starbucks are committed to reduce carbon emissions, eliminate waste and save wat
    <li>Innovating with more responsible stores, operations, manufacturing and delivery</li>
 </ul>
 (As these are mentioned on the official website of Starbucks)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
+## Sustainable Fashion
+
+<p> Sustainable fashion refers to the design, production, and consumption of clothing and accessories in a way that is environmentally friendly, socially responsible, and economically viable. It involves considering the entire lifecycle of a garment, from the sourcing of materials to its disposal, and minimizing its impact on people and the planet.
+
+Sustainable fashion can be achieved through various practices, such as using eco-friendly materials, reducing waste and pollution, supporting fair labor practices, and promoting ethical and responsible consumption. It also involves adopting circular economy principles, which prioritize the reuse, repair, and recycling of materials to create a closed-loop system that reduces waste and maximizes resource efficiency.
+
+Overall, sustainable fashion aims to create a more responsible and equitable fashion industry that balances economic growth with environmental and social considerations, and ensures that the needs of both current and future generations are met.</p>
+
+###  Sustainable High Fashion
+
+<p> Sustainable high fashion refers to the production of luxury and high-end fashion items using environmentally and socially responsible practices. It involves creating exquisite and high-quality fashion pieces while minimizing the impact on the environment and promoting fair labor practices.
+
+To achieve sustainable high fashion, designers and fashion brands can use eco-friendly materials such as organic cotton, hemp, and recycled fabrics. They can also reduce waste and carbon emissions by using innovative technologies such as 3D printing and digital pattern making. Additionally, they can adopt circular economy principles such as upcycling, which involves transforming waste materials into new and innovative fashion pieces.
+
+Sustainable high fashion also involves promoting transparency in the supply chain, ensuring that workers are treated fairly, and minimizing the use of harmful chemicals and processes in the production of clothing and accessories.
+
+By embracing sustainable high fashion practices, designers and fashion brands can create a more responsible and ethical fashion industry that meets the needs of both consumers and the planet. It offers an opportunity to create beautiful and luxurious fashion pieces while minimizing the impact on the environment and promoting social responsibility.</p>
+
+
+###  Businesses in Sustainable High Fashion
+
+<h3>1. Stella McCartney</h3>
+<p>
+When it comes to sustainability, this is a designer label that won’t compromise on quality, constantly pushing boundaries and embracing new technologies to create an on-trend brand that is as stylish as it is sustainable. This brand uses Re-engineered cashmere & silk, fibres from forests, recycled nylon & polyester, vegetarian leather and organic cotton. In 2014, Stella McCartney launched Clevercare, an easy-to-understand, five-step labelling method, helping to educate consumers on clothing care and how to prolong the life of their favourite pieces. The result? A lot less waste, and probably the reason many fashionistas own at least one vintage Stella McCartney item. To ensure the brand is always ahead of the game, regular audits are conducted to measure environmental impact. In addition, the McCartney label is a member of the Ethical Trading Initiative, which ensures the careful selection of ethical-renowned suppliers, as well as collaborations with several environmental conservation organisations and NGOs, including Parley for the Oceans and Wildlife Works.</p>
+
+<h3>2. The Social Outfit</h3>
+
+<p>
+Australian-based brand, The Social Outfit, are a social enterprise and charity with an amazing mission. The label provides employment and training to refugees and migrant communities in all aspects of the fashion world, from clothing production to marketing. In many cases, working at The Social Outfit will be their first paid job and the first step of integrating into the Aussie way of life. They also take their sustainability seriously. With a focus on waste reduction, they have saved tonnes of waste from landfill, through their goal to repurpose and reuse fabrics destined for the skip. So far they have partnered with over 28 Australian brands in this mission, including Alice McCall and Bec & Bridge.</p>
+
+<h3>3. Vivienne Westwood</h3>
+
+<p>
+Practising exactly what she preaches, Vivienne Westwood’s legendary label is setting an example to fashionistas across the globe by slowly transforming her brand into a sustainable masterpiece. How? Through adopting recycled and eco-friendly fabrics and using the label’s voice to educate people on Human Rights and Climate Change. This brand uses sustainable materials like silk, hemp and tencel while olso spearheading Environmental and human rights campaigns, cutting-edge sustainable technologies. Her latest initiative is one that embraces modern-day sustainability, using collaborations and catwalk events as platforms to create awareness, encouraging ethical fashion fans to protect Mother Earth. The campaign focuses on three areas; Quality V Quantity, Gaia and Arts & Culture.</p>
+
+<h3>4. Rare & Fair</h3>
+
+<p>This boutique slow fashion brand focuses on the promotion of handmade clothes and accessories, created by artisans using sustainable, raw materials. Their aim? To embrace the ethical treatment of workers, use planet-friendly materials and reduce waste. Their hand-loomed, natural clothing and products come straight from the hands of the artisans, then directly to you. Opting for this method allows Rare & Fair to fully back artisan communities and handloom weavers. The styles, despite embracing traditional methods, boast modern designs, allowing customers to look and feel great, knowing that they’ve done their bit towards supporting these ancient production techniques.</p>
+
+<h3>And even more affordable and well know brands are changing like :</h3>
+
+<h3>Levi’s</h3>
+
+<p> Denim is notorious for requiring huge amounts of water to create one pair of jeans, but Levi’s new collection, WaterLess, uses up to 96% less water. For this and all of its products, Levi’s is committed to sustainability through the entire design and manufacturing process, including working towards 100% sustainably sourced cotton and recycling old jeans into home insulation.</p>
+
+<h3>H&M Conscious</h3>
+<p>H&M is moving away from its fast fashion roots with the Conscious collection, made of materials like organic cotton and recycled polyester. By using eco-friendly fabrics and more sustainable production methods, the company hopes to reduce its environmental footprint. Customers can also recycle unwanted garments at H&M stores and get a discount for a future purchase. As a whole, H&M has a goal to use only sustainably sourced materials by 2030. </p>
 
 <h5 align="right">
 
