@@ -66,6 +66,7 @@
   - [The Line, Saudi Arabia](#the-line-saudi-arabia)
   - [Businesses that follow Sustainable Living](#businesses-that-follow-sustainable-living)
   - [Sustainable Fashion](#Sustainable Fashion)
+    - [Sustainable clothing](#Sustainable clothing)
     - [High Fashion](#High Fashion)
     - [Businesses in High Fashion](#Businesses in High Fashion)
   - [Healthy \& Sustainable Recipes](#healthy--sustainable-recipes)
@@ -1833,6 +1834,10 @@ Starbucks are committed to reduce carbon emissions, eliminate waste and save wat
 Sustainable fashion can be achieved through various practices, such as using eco-friendly materials, reducing waste and pollution, supporting fair labor practices, and promoting ethical and responsible consumption. It also involves adopting circular economy principles, which prioritize the reuse, repair, and recycling of materials to create a closed-loop system that reduces waste and maximizes resource efficiency.
 
 Overall, sustainable fashion aims to create a more responsible and equitable fashion industry that balances economic growth with environmental and social considerations, and ensures that the needs of both current and future generations are met.</p>
+
+### Sustainable clothing
+
+<p>Sustainable clothing refers to fabrics derived from eco-friendly resources, such as sustainably grown fiber crops or recycled materials. Sustainable clothing includes the use of second-hand retail repair and often utilizes upcycling and recycling of clothing.[142] It also refers to how these fabrics are made. Historically, being environmentally conscious towards clothing meant (1), making clothes last long by caring for them, repairing and patching them, (2) inheriting and using hand-me-downs within ones expanded family and community, (3) buying clothes from thrift stores or any shops that sell second-hand clothing, or (4) donating used clothes to shops previously mentioned, for reuse or resale. In modern times, with a prominent trend towards sustainability and being 'green', sustainable clothing has expanded towards (5) reducing the amount of clothing overproduced, incinerated or discarded to landfills, and (6) decreasing the environmental impact of agrochemicals in producing conventional fiber crops (e.g. cotton).</p>
 
 ###  Sustainable High Fashion
 
