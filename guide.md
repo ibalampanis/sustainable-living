@@ -63,6 +63,7 @@
   - [Sustainable development goals](#sustainable-development-goals)
     - [THE 17 GOALS](#the-17-goals)
   - [Sustainable Living \& Business](#sustainable-living--business)
+  - [The Line, Saudi Arabia](#the-line-saudi-arabia)
   - [Businesses that follows Sustainable Living](#businesses-that-follows-sustainable-living)
   - [Healthy \& Sustainable Recipes](#healthy--sustainable-recipes)
   - [Sustainable Art](#sustainable-art)
@@ -1829,6 +1830,23 @@ Here are some ways businesses can promote sustainable living:
 
 </h5>
 
+## The Line, Saudi Arabia
+
+The Line is a civilizational revolution in urban living, that puts humans first by providing an unprecedented urban living experience.
+The project is a **linear smart city** under construction situated in **Saudi Arabia**, and it is part of [Saudi Vision 2030] project (https://en.wikipedia.org/wiki/Saudi_Vision_2030).
+
+The city is estimated to populate 9 million residents, allover its 170 kilometer long length.
+
+Its sustainability plan: The city will use entirely renewable energy and it will consists of 3 layers; one on the surface for pedestrians, one underground for infrastructure, and another underground for transportation. (https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia)
+
+No roads, cars or emissions, it will run on 100% renewable energy and 95% of land will be preserved for nature. People's health and wellbeing will be prioritized over transportation and infrastructure, unlike traditional cities.(https://www.neom.com/en-us/regions/theline)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 ## Businesses that follows Sustainable Living 
 
 The last few years, more and more businesses are stating to follow a way of living based on the value of sustainability, meaning that they prioritize environmental, social, and economic sustainability in their operations.
@@ -2431,6 +2449,8 @@ Oloi mazi boroume is another of the suggested organizations that are based in Gr
 14. James Chin Moody. (2020). [Prioritizing the planet: 11 ways small businesses can become more eco-friendly](https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly). GreenBiz
 15. VLS Environmental Solutions. (Aug 2022). [19 Ways to Foster a More Sustainable Business](https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/). VLS Environmental Solutions
 16. Green Dreamer. 2022. [35 ENVIRONMENTAL ORGANIZATIONS AND NONPROFITS FOR A SUSTAINABLE FUTURE (LIST AND WAYS YOU CAN GET INVOLVED)](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future). Green Dreamer
+17. https://www.neom.com/en-us/regions/theline
+18. https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia
 
 <h5 align="right">
 
