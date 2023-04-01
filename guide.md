@@ -69,6 +69,7 @@
     - [Life Cycle Analysis](#Life Cycle Analysis)
     - [Sustainable clothing](#Sustainable clothing)
     - [Recycled clothing](#Recycled clothing)
+    - [Trashion](#Trashion)
     - [High Fashion](#High Fashion)
     - [Businesses in High Fashion](#Businesses in High Fashion)
   - [Healthy \& Sustainable Recipes](#healthy--sustainable-recipes)
@@ -1880,6 +1881,12 @@ Overall, sustainable fashion aims to create a more responsible and equitable fas
 <p>Recycled or reclaimed fibers are recovered from either pre or post-consumer sources. Those falling into the category of 'pre-consumer' are unworn/unused textile wastes from all the various stages of manufacture. Post-consumer textile waste could be any product that has been worn/used and has (typically) been discarded or donated to charities. Once sorted for quality and color, they can be shredded (pulled, UK, or picked, US) into a fibrous state. According to the specification and end-use, these fibers can be blended together or with 'new' fiber.</p>
 
 <p>While most textiles can be recycled, they are mainly downgraded almost immediately into low-quality end-uses, such as filling materials. The limited range of recycled materials available reflects the market dominance of cheap virgin fibers and the lack of technological innovation in the recycling industry. For over 200 years recycling technology has stayed the same; fibers are extracted from used fabric by mechanically tearing the fabric apart using carding machines. The process breaks the fibers, producing much shorter lengths that tend to result in a low-quality yarn. Textiles made from synthetic fibers can also be recycled chemically in a process that involves breaking down the fiber at the molecular level and then depolymerizing the feedstock. While chemical recycling is more energy-intensive than mechanical pulling, the resulting fiber tends to be of more predictable quality. The most commonly available recycled synthetic fibre is polyester made from plastic bottles, although recycled nylon is also available.</p>
+
+### Trashion
+
+<p>Trashion is a philosophy and an ethic encompassing environmentalism and innovation. Making traditional objects out of recycled materials can be trashion, as can making avant-garde fashion from cast-offs or junk. It springs from a desire to make the best use of limited resources. Trashion is similar to upcycling and refashion, although it began with specific fashion aspirations. Like upcycling, trashion generates items that are valued again, but these items may be either low-cost or high-cost. The environmental aim of trashion is to call attention to and reduce the polluting outcome of fashion waste
+
+Initially trashion was used to describe art-couture costume usually linked to contests or fashion shows; however, as recycling and 'green' fashion have become more prevalent, trashion has taken a turn for the more wearable. The term is now widely used in creative circles to describe any wearable item or accessory that is constructed using all or part materials recycled materials, including clothing that has been thrifted and reconditioned.</p>
 
 ###  Sustainable High Fashion
 
