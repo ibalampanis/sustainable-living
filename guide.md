@@ -1837,6 +1837,18 @@ The project is a **linear smart city** under construction situated in **Saudi Ar
 
 The city is estimated to populate 9 million residents, allover its 170 kilometer long length.
 
+<!-- The Line -->
+
+<p align="center"> 
+	<img height="400"  width=""  src="media/line.jpg" alt=""> 
+</p>
+
+<div align="right">
+
+[Image source](https://www.neom.com/en-us/regions/theline)
+
+</div>
+
 Its sustainability plan: The city will use entirely renewable energy and it will consists of 3 layers; one on the surface for pedestrians, one underground for infrastructure, and another underground for transportation. (https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia)
 
 No roads, cars or emissions, it will run on 100% renewable energy and 95% of land will be preserved for nature. People's health and wellbeing will be prioritized over transportation and infrastructure, unlike traditional cities.(https://www.neom.com/en-us/regions/theline)
