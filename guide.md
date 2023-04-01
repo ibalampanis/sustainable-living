@@ -1833,7 +1833,7 @@ Here are some ways businesses can promote sustainable living:
 ## The Line, Saudi Arabia
 
 The Line is a civilizational revolution in urban living, that puts humans first by providing an unprecedented urban living experience.
-The project is a **linear smart city** under construction situated in **Saudi Arabia**, and it is part of [Saudi Vision 2030] project (https://en.wikipedia.org/wiki/Saudi_Vision_2030).
+The project is a **linear smart city** under construction situated in **Saudi Arabia**, and it is part of [Saudi Vision 2030](https://en.wikipedia.org/wiki/Saudi_Vision_2030) project.
 
 The city is estimated to populate 9 million residents, allover its 170 kilometer long length.
 
