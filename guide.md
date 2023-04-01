@@ -66,6 +66,7 @@
   - [The Line, Saudi Arabia](#the-line-saudi-arabia)
   - [Businesses that follow Sustainable Living](#businesses-that-follow-sustainable-living)
   - [Sustainable Fashion](#Sustainable Fashion)
+    - [Life Cycle Analysis](#Life Cycle Analysis)
     - [Sustainable clothing](#Sustainable clothing)
     - [Recycled clothing](#Recycled clothing)
     - [High Fashion](#High Fashion)
@@ -1865,6 +1866,10 @@ Here are some examples of their sustainability initiatives:
 Sustainable fashion can be achieved through various practices, such as using eco-friendly materials, reducing waste and pollution, supporting fair labor practices, and promoting ethical and responsible consumption. It also involves adopting circular economy principles, which prioritize the reuse, repair, and recycling of materials to create a closed-loop system that reduces waste and maximizes resource efficiency.
 
 Overall, sustainable fashion aims to create a more responsible and equitable fashion industry that balances economic growth with environmental and social considerations, and ensures that the needs of both current and future generations are met.</p>
+
+### Life Cycle Analysis
+
+<p>Life Cycle Analysis (LCA) is a tool used to understand the how a product impacts the environment at each stage of its life cycle, from raw input to the end of the products' life cycle. Life Cycle Cost (LCC) is an economic metric that "identifies the minimum cost for each life cycle stage which would be presented in the aspects of material, procedures, usage, end-of-life and transportation."[17] LCA and LCC can be used to identify particular aspects of a product that is particularly environmentally damaging & reduce those impacts. For example, LCA might reveal that the fabrication stage of a product's life cycle is particularly harmful for the environment and switching to a different material can drive emissions down. However, switching material may increase environmental effects later in a products life time; LCA takes into account the whole life cycle of a product and can alert designers to the many impacts of a product, which is why LCA is important.</p>
 
 ### Sustainable clothing
 
