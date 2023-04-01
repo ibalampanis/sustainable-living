@@ -2461,8 +2461,8 @@ Oloi mazi boroume is another of the suggested organizations that are based in Gr
 14. James Chin Moody. (2020). [Prioritizing the planet: 11 ways small businesses can become more eco-friendly](https://www.greenbiz.com/article/prioritizing-planet-11-ways-small-businesses-can-become-more-eco-friendly). GreenBiz
 15. VLS Environmental Solutions. (Aug 2022). [19 Ways to Foster a More Sustainable Business](https://www.vlses.com/2022/08/08/fostering-more-sustainable-business/). VLS Environmental Solutions
 16. Green Dreamer. 2022. [35 ENVIRONMENTAL ORGANIZATIONS AND NONPROFITS FOR A SUSTAINABLE FUTURE (LIST AND WAYS YOU CAN GET INVOLVED)](https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future). Green Dreamer
-17. https://www.neom.com/en-us/regions/theline
-18. https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia
+17. NEOM (2023) [The Line](https://www.neom.com/en-us/regions/theline)
+18. Wikipedia, The Free Encyclopedia (2023) [The Line, Saudi Arabia](https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia)
 
 <h5 align="right">
 
