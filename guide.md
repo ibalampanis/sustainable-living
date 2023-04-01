@@ -1788,39 +1788,69 @@ No roads, cars or emissions, it will run on 100% renewable energy and 95% of lan
 
 ## Businesses that follow Sustainable Living 
 
-The last few years, more and more businesses are stating to follow a way of living based on the value of sustainability, meaning that they prioritize environmental, social, and economic sustainability in their operations.
+The last few years, more and more businesses are starting to follow a way of living based on the value of sustainability, meaning that they prioritize environmental, social, and economic sustainability in their operations.
 
 1. **Patagonia**: Patagonia is an outdoor clothing and gear company and has been a leader in sustainability for many years. They have chosen to use eco-friendly materials in their products, prioritize fair labor practices, and donate 1% of their sales to environmental causes.
 
-During the past few months, almost all the products of paragonia, around 94%, are made from reused materials. Their production line are created organically by virgin cotton. By this way, they achieve to save water and reduce carbon emissions by 45%. 
+During the past few months, almost all the products of paragonia, around 94%, are made from reused materials. Their production line are created organically by virgin cotton. By this way, they achieved saving water and reducing carbon emissions by 45%. 
 
-2. **Unilever**: Unilever is a greek company that has a high portfolio of Food, Ice Cream and Ηousehold & Personal Care and Hygiene. Unilever has 26 categories of products with approximately 1.400 products.
+2. **Unilever**: Unilever is a british company that has a high portfolio of Food, Ice Cream and Ηousehold & Personal Care and Hygiene. Unilever has 26 categories of products with approximately 1.400 products.
 
-Unilever decided to build sustainable ways of living and communities in order to achieve growth as a company. In 2005, Unilever launched "Brand Imprint" initiative, in order to engage 2 billion customers per day that use more than 400 hundred brands in the effort of reducing environental waste.
+Unilever decided to build sustainable ways of living and communities in order to achieve growth as a company. In 2005, Unilever launched "Brand Imprint" initiative, in order to engage 2 billion customers per day that use more than 400 hundred brands in the effort of reducing environmental waste.
 
-3. **Tesla**: Tesla is an automotive and energy companny. Their main cause is to design, develop and manufacture vehicles runned by electricity and solar panels.
+3. **Tesla**: Tesla is an automotive and energy company. Their main cause is to design, develop and manufacture vehicles runned by electricity and solar panels.
 
-In 2021. Tesla's vehicles, energy storage and solar panels achieve the reduction of 8.4 million metric tons of carbon emission.
+In 2021, Tesla's vehicles, energy storage, and solar panels achieved the reduction of 8.4 million metric tons of carbon emission.
 
-Tesla's efforts aims for the whole world to turn to the use of sustainable energy. That's why Tesla increase its produnction line, in order to help everyone have access on all the products of Tesla. Their goal is to sell 20 million electric vehicles by 2030.
+Tesla's efforts aim for the whole world to turn to the use of sustainable energy. That's why Tesla increased its production line, in order to help everyone have access to all the products of Tesla. Their goal is to sell 20 million electric vehicles by 2030.
 
-4. **IKEA**: IKEA is a swedish company that produces and sells home furnitures by 1943 and its belief is that home is the most important place in the world.
+4. **IKEA**: IKEA is a swedish company that produces and sells home furniture by 1943 and its belief is that home is the most important place in the world.
 
 Their effort to contribute on a more sustainable way of living is based on their collaboration with partners, co-workers and customers. 
 
-IKEA is trying to implement some new ideas in order to contribute on sustainable living by innovating water saving solutions. This can be achieved by developing and manufacturing products that can help to save water, such as water nozzles. In addition, it can be achieved enabling people having clean air at their home. This possible to be accomplished by producing affordable air purifiers.
+IKEA is trying to implement some new ideas in order to contribute on sustainable living by innovating water saving solutions. This can be achieved by developing and manufacturing products that can help save water, such as water nozzles. In addition, it can be achieved by enabling people having clean air at their home. This can be accomplished by producing affordable air purifiers.
 
 5. **Starbucks**: Starbucks is a worldwide known American brand for coffehouses. This company offers multiple blends of coffee and handmade beverages.
 
-Starbucks are committed to reduce carbon emissions, eliminate waste and save water. Their focuses are:
+Starbucks is committed to reduce carbon emissions, eliminate waste and save water. Its focuses are:
 <ul>
    <li>Expanding plant-based menu options</li>
    <li>Shifting away from single-use reusable packaging</li>
-   <li>Investing in regenerative agriculture, reforestation, forest conservation and water replenishment in our supply chai</li>
+   <li>Investing in regenerative agriculture, reforestation, forest conservation and water replenishment in our supply chain</li>
    <li>Working on better ways to manage our waste</li>
    <li>Innovating with more responsible stores, operations, manufacturing and delivery</li>
 </ul>
-(As these are mentioned on the official website of Starbucks)
+(As these are mentioned on the official website of Starbucks) 
+
+<br>
+<br>
+
+6. **Interface**: Interface is a carpet tile company that has made sustainability a key part of its business model. The company uses recycled materials in its products, and has a goal of becoming a carbon negative company by 2040. 
+   
+Here are some examples of their sustainability initiatives:
+<ul>
+   <li>Mission Zero: Interface's Mission Zero is a commitment to eliminate any negative impact the company may have on the environment by 2020. The company has made progress towards this goal by reducing its carbon emissions, water usage, and waste sent to landfills.</li>
+   <li>Closed-Loop Manufacturing: Interface has developed a closed-loop manufacturing process that uses recycled materials to create new flooring products. The company has also developed a program called ReEntry 2.0, which collects old carpet tiles from customers and recycles them into new products.</li>
+   <li>Net-Works: Net-Works is a partnership between Interface and the Zoological Society of London that collects discarded fishing nets from fishing communities in the Philippines and recycles them into carpet tiles. This program helps to reduce waste in the oceans and provides additional income for local communities.</li>
+</ul>
+
+7. **Seventh Generation**: Seventh Generation is a cleaning and personal care products company that focuses on environmentally-friendly and sustainable products. The company uses plant-based ingredients and recycled packaging in its products.
+
+Here are some examples of their sustainability practices:
+<ul>
+   <li>Renewable Energy: Seventh Generation has committed to using 100% renewable energy in its manufacturing facilities by 2020. The company has also invested in renewable energy projects, such as wind power and solar power.</li>
+   <li>Packaging: Seventh Generation has worked to reduce the environmental impact of its product packaging. The company uses recycled materials in its packaging and has reduced the size and weight of its products to minimize the use of resources.</li>
+   <li>Ingredient Transparency: Seventh Generation is committed to transparency about the ingredients used in its products. The company provides detailed information on its website about the ingredients used in each product and the potential health and environmental impacts of those ingredients.</li>
+</ul>
+
+8. **Eileen Fisher**: Eileen Fisher is a clothing company that is committed to sustainable and ethical practices. The company uses organic and recycled materials in its products, and also has a program to take back and recycle used clothing.
+   
+Here are some examples of their sustainability initiatives:
+<ul>
+   <li>Organic Materials: Eileen Fisher uses organic cotton and linen in many of its products. The company also uses recycled materials and has developed a program to collect old clothing from customers and turn it into new products.</li>
+   <li>Supply Chain Transparency: Eileen Fisher is committed to transparency in its supply chain. The company provides information on its website about the factories and mills that produce its products, as well as the environmental and social impacts of those facilities.</li>
+   <li>Social Responsibility: Eileen Fisher is committed to ethical labor practices and fair wages for its workers. The company has developed partnerships with organizations that support women's empowerment and has established a program to provide job training and employment opportunities for women who have experienced homelessness or other challenges.</li>
+</ul>
 
 <h5 align="right">
 
