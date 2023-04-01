@@ -65,13 +65,13 @@
   - [Sustainable Living \& Business](#sustainable-living--business)
   - [The Line, Saudi Arabia](#the-line-saudi-arabia)
   - [Businesses that follow Sustainable Living](#businesses-that-follow-sustainable-living)
-  - [Sustainable Fashion](#Sustainable Fashion)
-    - [Life Cycle Analysis](#Life Cycle Analysis)
-    - [Sustainable clothing](#Sustainable clothing)
-    - [Recycled clothing](#Recycled clothing)
+  - [Sustainable Fashion](#Sustainable-Fashion)
+    - [Life Cycle Analysis](#Life-Cycle-Analysis)
+    - [Sustainable clothing](#Sustainable-clothing)
+    - [Recycled clothing](#Recycled-clothing)
     - [Trashion](#Trashion)
-    - [High Fashion](#High Fashion)
-    - [Businesses in High Fashion](#Businesses in High Fashion)
+    - [High Fashion](#High-Fashion)
+    - [Businesses in High Fashion](#Businesses-in-High-Fashion)
   - [Healthy \& Sustainable Recipes](#healthy--sustainable-recipes)
   - [Sustainable Art](#sustainable-art)
     - [What is Sustainable Art?](#what-is-sustainable-art)
@@ -1918,7 +1918,7 @@ Initially trashion was used to describe art-couture costume usually linked to co
 
 </h5>
 
-###  Sustainable High Fashion
+### Sustainable High Fashion
 
 <p> Sustainable high fashion refers to the production of luxury and high-end fashion items using environmentally and socially responsible practices. It involves creating exquisite and high-quality fashion pieces while minimizing the impact on the environment and promoting fair labor practices.
 
@@ -1934,7 +1934,7 @@ By embracing sustainable high fashion practices, designers and fashion brands ca
 
 </h5>
 
-###  Businesses in Sustainable High Fashion
+### Businesses in Sustainable High Fashion
 
 <h3>1. Stella McCartney</h3>
 <p>
