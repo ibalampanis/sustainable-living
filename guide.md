@@ -82,6 +82,7 @@
   - [Interesting Books](#interesting-books)
     - [Zero Waste Lifestyle](#zero-waste-lifestyle)
     - [Sustainable and Eco-Friendly Living](#sustainable-and-eco-friendly-living)
+  - [Sustainability magazines and newsletters to sign up for](#sustainability-magazines-and-newsletters-to-sign-up-for)
   - [Best films to inspire sustainability](#best-films-to-inspire-sustainability)
   - [Donate!](#donate)
     - [Donate to a good cause of your choice:](#donate-to-a-good-cause-of-your-choice)
@@ -2153,6 +2154,27 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 [back to the top](#table-of-contents)
 
 </h5>
+
+## Sustainability magazines and newsletters to sign up for
+
+1. [Envirotec](https://envirotecmagazine.com/)
+2. [Sustainability X® Magazine](https://www.sustainabilityx.co/)
+3. [Tree Hugger](https://www.treehugger.com/)
+4. [Sustainability Times](https://www.sustainability-times.com/)
+5. [Sustainability](https://sustainabilitymag.com/)
+6. [Nature Sustainability](https://www.nature.com/natsustain/)
+7. [MDPI](https://www.mdpi.com/)
+8. [Springer Nature](https://www.springernature.com/gp)
+9. [Sustainable Brands](https://sustainablebrands.com/)
+10. [GreenBiz](https://www.greenbiz.com/newsletters-subscribe)
+11. [UNEP Climate Action Programme](https://www.climateaction.org/news/latest)
+
+<h5 align="right">
+
+[back to the top](#table-of-contents)
+
+</h5>
+
 
 ## Best films to inspire sustainability
 
