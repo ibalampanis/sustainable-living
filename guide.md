@@ -64,7 +64,7 @@
     - [THE 17 GOALS](#the-17-goals)
   - [Sustainable Living \& Business](#sustainable-living--business)
   - [The Line, Saudi Arabia](#the-line-saudi-arabia)
-  - [Businesses that follows Sustainable Living](#businesses-that-follows-sustainable-living)
+  - [Businesses that follow Sustainable Living](#businesses-that-follow-sustainable-living)
   - [Healthy \& Sustainable Recipes](#healthy--sustainable-recipes)
   - [Sustainable Art](#sustainable-art)
     - [What is Sustainable Art?](#what-is-sustainable-art)
@@ -1859,7 +1859,7 @@ No roads, cars or emissions, it will run on 100% renewable energy and 95% of lan
 
 </h5>
 
-## Businesses that follows Sustainable Living 
+## Businesses that follow Sustainable Living 
 
 The last few years, more and more businesses are stating to follow a way of living based on the value of sustainability, meaning that they prioritize environmental, social, and economic sustainability in their operations.
 
