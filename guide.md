@@ -1389,7 +1389,7 @@ Learn More about it in : [Website](https://leafletjs.com/)
 
 ### What is Eco-Travel?
 
-In simple terms, eco-tourism refers to responsible travel. When people travel overseas, they frequently stay at places where tourism has rendered the local environment completely uninhabitable. Adventure travel that improves and protects the environment while enhancing local communities' well-being is the focus of ecotourism. Eco-travel provides people with a more genuine adventure experience and more chances to establish long-lasting relationships with the locals while also enhancing the ecosystem. Destination: Earth places a high priority on sustainability and humanitarian travel, which is obvious in each of our eco-adventures.
+In simple terms, ecotourism refers to responsible travel. When people travel overseas, they frequently stay at places where tourism has rendered the local environment completely uninhabitable. Adventure travel that improves and protects the environment while enhancing local communities' well-being is the focus of ecotourism. Eco-travel provides people with a more genuine adventure experience and more chances to establish long-lasting relationships with the locals while also enhancing the ecosystem. Destination: Earth places a high priority on sustainability and humanitarian travel, which is obvious in each of our eco-adventures.
 
 ### Benefits of Ecotourism
 
@@ -1542,7 +1542,7 @@ There are several myths about sustainable living that are widely believed but fa
 Fact: While some sustainable products may have higher upfront costs, sustainable living can actually save money in the
 long run. For example, energy-efficient appliances and LED light bulbs can save money on utility bills. Additionally,
 sustainable living can involve making lifestyle changes, such as reducing meat consumption, which can lead to cost
-savings. (7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2019)
+savings. (7 Myths About Sustainable Living That Need to Be Debunked, EcoWatch, 2019)
 
 ---
 
@@ -1551,7 +1551,7 @@ savings. (7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 
 Fact: Sustainable living is not about giving up modern conveniences, but rather finding ways to use them more
 efficiently and responsibly. For example, using a reusable water bottle instead of single-use plastic bottles is a
 simple way to reduce waste without giving up the convenience of having water on-the-go. (5 Myths About Sustainable
-Living," One Green Planet, 2018)
+Living, One Green Planet, 2018)
 
 ---
 
@@ -1559,7 +1559,7 @@ Living," One Green Planet, 2018)
 
 Fact: While living off the grid is one option for sustainable living, it is not the only one. Sustainable living can be
 achieved in many ways, such as reducing energy consumption, using public transportation, or buying locally-sourced
-products. (The Top 5 Myths About Sustainable Living," MindBodyGreen, 2019)
+products. (The Top 5 Myths About Sustainable Living, MindBodyGreen, 2019)
 
 ---
 
@@ -1567,7 +1567,7 @@ products. (The Top 5 Myths About Sustainable Living," MindBodyGreen, 2019)
 
 Fact: Sustainable living can be as simple or as complex as you make it. Even small changes, such as using cloth napkins
 instead of paper ones or turning off lights when leaving a room, can make a difference. Sustainable living is about
-making conscious choices that align with your values and goals. (5 Myths About Sustainable Living," One Green Planet, 2018)
+making conscious choices that align with your values and goals. (5 Myths About Sustainable Living, One Green Planet, 2018)
 
 ---
 
@@ -1575,7 +1575,7 @@ making conscious choices that align with your values and goals. (5 Myths About S
 
 Fact: Sustainable living is for everyone. While many people may be drawn to sustainable living for environmental
 reasons, the benefits extend beyond just the planet. Sustainable living can also improve health, save money, and build
-stronger communities. (7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2019)
+stronger communities. (7 Myths About Sustainable Living That Need to Be Debunked, EcoWatch, 2019)
 
 ---
 
@@ -1777,7 +1777,7 @@ The city is estimated to populate 9 million residents, allover its 170 kilometer
 
 </div>
 
-Its sustainability plan: The city will use entirely renewable energy and it will consists of 3 layers; one on the surface for pedestrians, one underground for infrastructure, and another underground for transportation. (https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia)
+Its sustainability plan: The city will use entirely renewable energy and it will consist of 3 layers; one on the surface for pedestrians, one underground for infrastructure, and another underground for transportation. (https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia)
 
 No roads, cars or emissions, it will run on 100% renewable energy and 95% of land will be preserved for nature. People's health and wellbeing will be prioritized over transportation and infrastructure, unlike traditional cities.(https://www.neom.com/en-us/regions/theline)
 
@@ -1875,7 +1875,7 @@ Overall, sustainable fashion aims to create a more responsible and equitable fas
 
 ### Life Cycle Analysis
 
-<p>Life Cycle Analysis (LCA) is a tool used to understand the how a product impacts the environment at each stage of its life cycle, from raw input to the end of the products' life cycle. Life Cycle Cost (LCC) is an economic metric that "identifies the minimum cost for each life cycle stage which would be presented in the aspects of material, procedures, usage, end-of-life and transportation." LCA and LCC can be used to identify particular aspects of a product that is particularly environmentally damaging and reduce those impacts. For example, LCA might reveal that the fabrication stage of a product's life cycle is particularly harmful for the environment and switching to a different material can drive emissions down. However, switching material may increase environmental effects later in a products life time; LCA takes into account the whole life cycle of a product and can alert designers to the many impacts of a product, which is why LCA is important.</p>
+<p>Life Cycle Analysis (LCA) is a tool used to understand how a product impacts the environment at each stage of its life cycle, from raw input to the end of the products' life cycle. Life Cycle Cost (LCC) is an economic metric that "identifies the minimum cost for each life cycle stage which would be presented in the aspects of material, procedures, usage, end-of-life and transportation." LCA and LCC can be used to identify particular aspects of a product that is particularly environmentally damaging and reduce those impacts. For example, LCA might reveal that the fabrication stage of a product's life cycle is particularly harmful for the environment and switching to a different material can drive emissions down. However, switching material may increase environmental effects later in a products life cycle; LCA takes into account the whole life cycle of a product and can alert designers to the many impacts of a product, which is why LCA is important.</p>
 
 <h5 align="right">
 
@@ -1895,7 +1895,7 @@ Overall, sustainable fashion aims to create a more responsible and equitable fas
 
 ### Recycled clothing
 
-<p>Recycled or reclaimed fibers are recovered from either pre or post-consumer sources. Those falling into the category of 'pre-consumer' are unworn/unused textile wastes from all the various stages of manufacture. Post-consumer textile waste could be any product that has been worn/used and has (typically) been discarded or donated to charities. Once sorted for quality and color, they can be shredded (pulled, UK, or picked, US) into a fibrous state. According to the specification and end-use, these fibers can be blended together or with 'new' fiber.</p>
+<p>Recycled or reclaimed fibers are recovered from either pre- or post-consumer sources. Those falling into the category of 'pre-consumer' are unworn/unused textile wastes from all the various stages of manufacture. Post-consumer textile waste could be any product that has been worn/used and has (typically) been discarded or donated to charities. Once sorted for quality and color, they can be shredded (pulled, UK, or picked, US) into a fibrous state. According to the specification and end-use, these fibers can be blended together or with 'new' fiber.</p>
 
 <p>While most textiles can be recycled, they are mainly downgraded almost immediately into low-quality end-uses, such as filling materials. The limited range of recycled materials available reflects the market dominance of cheap virgin fibers and the lack of technological innovation in the recycling industry. For over 200 years recycling technology has stayed the same; fibers are extracted from used fabric by mechanically tearing the fabric apart using carding machines. The process breaks the fibers, producing much shorter lengths that tend to result in a low-quality yarn. Textiles made from synthetic fibers can also be recycled chemically in a process that involves breaking down the fiber at the molecular level and then depolymerizing the feedstock. While chemical recycling is more energy-intensive than mechanical pulling, the resulting fiber tends to be of more predictable quality. The most commonly available recycled synthetic fibre is polyester made from plastic bottles, although recycled nylon is also available.</p>
 
@@ -1985,7 +1985,7 @@ Practising exactly what she preaches, Vivienne Westwood’s legendary label is s
    <li>2 teaspoons maple syrup/raw honey</li>
 </ul>
 
-<p>You can see the recipe <a href="https://www.wwf.org.uk/recipes/quinoa-power-pot">here<a></p>
+<p>You can see the recipe <a href="https://www.wwf.org.uk/recipes/quinoa-power-pot">here</a></p>
 
 <h3>Banana & Spelt Loaf Cake</h3>
 <p align="center"> 
@@ -2004,7 +2004,7 @@ Practising exactly what she preaches, Vivienne Westwood’s legendary label is s
    <li>1 Med/Large Banana for decoration</li>
 </ul>
 
-<p>You can see the recipe <a href="https://www.wwf.org.uk/recipes/banana-spelt-loaf-cake">here<a></p>
+<p>You can see the recipe <a href="https://www.wwf.org.uk/recipes/banana-spelt-loaf-cake">here</a></p>
 
 ## Sustainable Art
 
@@ -2577,5 +2577,4 @@ Oloi mazi boroume is another of the suggested organizations that are based in Gr
 <a href="https://github.com/ibalampanis/sustainable-living/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ibalampanis/sustainable-living"/>
 </a>
-
 Made with [contrib.rocks](https://contrib.rocks).
