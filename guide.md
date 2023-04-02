@@ -88,6 +88,7 @@
   - [Donate!](#donate)
     - [Donate to a good cause of your choice:](#donate-to-a-good-cause-of-your-choice)
   - [Volunteer](#volunteer)
+  - [Challenge yourself in a plastic free journey](#challenge-yourself-in-a-plastic-free-journey)
   - [Citations](#citations)
   - [Current Contributors](#current-contributors)
   - [Challenge yourserlef in a plastic free journey](#challenge-yourserlef-in-a-plastic-free-journey)
