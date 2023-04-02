@@ -162,7 +162,7 @@ if __name__ == '__main__':
         if(choice == "a" or choice == "b"):
             break
         else:
-            print("please answer with a or b")
+            print("\033[31mPlease answer with a or b\033[0m")
     
     if (choice == "a"):
         main1()
