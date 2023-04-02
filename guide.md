@@ -2241,6 +2241,7 @@ Snowpiercer is a 2013 post-apocalyptic science fiction action film based on the 
 - [Rainforest Alliance](#rainforest-alliance)
 - [Center Of Ecoliteracy](#center-of-ecoliteracy)
 - [Environmental Working Group](#EWG)
+- [Friends of the Earth](#FOE)
 
   <a name="conv-fund">
 
@@ -2549,9 +2550,43 @@ is based in the United States, but its work has a global impact. EWG is known fo
 and guides that provide information about the safety of various consumer products and foods,
 as well as its efforts to promote policies that protect not only public health but also the environment.
 
+[Donate to ewg.org](https://www.ewg.org/take-action/ways-give)
+
 </a>
 
-[Donate to ewg.org](https://www.ewg.org/take-action/ways-give)
+<a name="FOE">
+
+<br>
+
+<!-- Friends of the Earth -->
+
+<h3 style="font-size:20px" align="center">Friends of the Earth</h3>
+<br>
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/Foe.png" alt=""> 
+</p>
+
+<div align="right">
+
+[Image source](https://www.wikidata.org/wiki/Q196232#/media/File:Friends_of_the_Earth_logo.svg)
+
+</div>
+
+<br>
+
+Friends of the Earth is an international environmental organization that was founded in 1969.
+The organization's mission is to promote a sustainable world by working towards not only environmental
+protection or climate action, but also social justice. Friends of the Earth has branches in over 70
+countries, and it works on a range of environmental issues, including biodiversity loss, deforestation,
+sustainable agriculture, and clean energy. It also campaigns on social justice issues related to the
+environment, such as access to clean water and air, and protecting the rights of marginalized communities.
+The organization uses various approaches to achieve its goals, such as research, advocacy,
+public education, and grassroots activism.
+
+</a>
+
+[Donate to foe.org](https://foe.org/donate-now/)
 
 <h5 align="right">
 
