@@ -2190,6 +2190,13 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 4. [Cradle to Cradle: Remaking the Way We Make Things](https://www.amazon.co.uk/dp/0865475873?s=books&crid=1KROSYZVZVEQH&keywords=Cradle+to+Cradle&sprefix=cradle+to+cradle,stripbooks-intl-ship,86&ref_=as_li_ss_tl&language=en_US&sr=1-1&linkCode=gg2&linkId=d88b83dc91aa7e3854a1c51fe8be4695&tag=candicebatist-20)
    by William McDonough and Michael Braungart
 
+### Sustainable Business
+
+1. [The Responsible Company: What We've Learned From Patagonia's First 40 Years]
+(https://www.amazon.com/Responsible-Company-Learned-Patagonias-First/dp/0980122783) by Yvon Chouinard, Vincent Stanley
+2. [The Upcycle: Beyond Sustainability--Designing for Abundance](https://www.amazon.com/Upcycle-Beyond-Sustainability-Designing-Abundance/dp/0865477485) by William McDonough, Michael Braungart
+3. [Natural Capitalism: Creating the Next Industrial Revolution](https://www.amazon.com/Natural-Capitalism-Creating-Industrial-Revolution/dp/0316353000) by Paul Hawken, Amory Lovins, Hunter Lovins
+
 **P.S. Buy the e-book, audiobook or borrow a copy from a friend!**
 
 <h5 align="right">
