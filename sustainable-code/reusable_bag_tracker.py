@@ -1,8 +1,7 @@
 """
-    This is a reusable bag calculator for tracking the number of reusable and disposable bags used,
-    and calculating the number of bags saved from landfill by using reusable bags.
+This is a reusable bag calculator for tracking the number of reusable and disposable bags used,
+and calculating the number of bags saved from landfill by using reusable bags.
 """
-
 
 class ReusableBagTracker:
     def __init__(self):
@@ -23,9 +22,9 @@ class ReusableBagTracker:
         saved_bags = self.total_disposable_bags - self.total_reusable_bags
         return saved_bags
 
-
 if __name__ == '__main__':
     tracker = ReusableBagTracker()
+
     while True:
         print("Enter the number of reusable bags used this year (or 'q' to quit):")
         reusable_input = input()
@@ -34,7 +33,7 @@ if __name__ == '__main__':
         try:
             reusable_bags = int(reusable_input)
             tracker.add_bags(reusable_bags)
-            print("Enter the number of disposable bags you typically use every  week:")
+            print("Enter the number of disposable bags you typically use every week:")
             disposable_bags = int(input())
             tracker.add_disposable_bags(disposable_bags)
             savings = tracker.get_savings()
