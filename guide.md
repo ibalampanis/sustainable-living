@@ -1853,6 +1853,18 @@ Here are some examples of their sustainability initiatives:
    <li>Social Responsibility: Eileen Fisher is committed to ethical labor practices and fair wages for its workers. The company has developed partnerships with organizations that support women's empowerment and has established a program to provide job training and employment opportunities for women who have experienced homelessness or other challenges.</li>
 </ul>
 
+9. **VEJA**: VEJA is a French footwear brand founded in 2005 by Sebastien Kopp and Francois-Ghislain Morillon. Since its first day in business, VEJA has remained faithful to promoting a sustainable way of production through a series of different steps that aim at the protection of the environment and the promotion of fair trade.  
+
+More specifically, VEJA promotes sustainability through:
+
+<ul>
+   <li>The use of organic cotton grown by farmer’s associations in Brazil and Peru that harvest it while showing respect to the environment.</li>
+   <li>Upcycling, which means the use of recycled materials such as water bottles or old fabric in the production of the sneakers. In this way household waste is greatly reduced.</li>
+   <li>The use of energy derived from renewable sources.</li>
+   <li>The limited use of inks and printing on the packages and the use of cardboard boxes in order to ensure their recyclability.</li>
+</ul>
+
+
 <h5 align="right">
 
 [back to the top](#table-of-contents)
