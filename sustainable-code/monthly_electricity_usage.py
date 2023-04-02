@@ -33,7 +33,7 @@ opacity = 0.8
 index = [i * bar_width for i in range(len(data_sorted))]
 
 bars = fig.add_subplot(111).bar(index, [float(device[1]) for device in data_sorted], bar_width,
-              alpha=opacity, color='b', edgecolor='k')
+                                alpha=opacity, color='b', edgecolor='k')
 
 fig.axes[0].set_xticks(index)
 fig.axes[0].set_xticklabels([device[0] for device in data_sorted], rotation='vertical', fontsize=7)
@@ -61,9 +61,12 @@ scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
 
 canvas.get_tk_widget().configure(yscrollcommand=scrollbar.set)
 
+
 # Bind mouse scroll to scrollbar
 def _on_mousewheel(event):
-    canvas.get_tk_widget().yview_scroll(int(-1*(event.delta/120)), "units")
+    canvas.get_tk_widget().yview_scroll(int(-1 * (event.delta / 120)), "units")
+
+
 canvas.get_tk_widget().bind_all("<MouseWheel>", _on_mousewheel)
 
 root.mainloop()

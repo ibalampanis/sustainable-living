@@ -1,7 +1,9 @@
 """
     This is a reusable bag calculator for tracking the number of reusable and disposable bags used,
     and calculating the number of bags saved from landfill by using reusable bags.
-    """
+"""
+
+
 class ReusableBagTracker:
     def __init__(self):
         self.total_reusable_bags = 0
@@ -20,6 +22,7 @@ class ReusableBagTracker:
         # Calculate the number of bags saved from landfill
         saved_bags = self.total_disposable_bags - self.total_reusable_bags
         return saved_bags
+
 
 if __name__ == '__main__':
     tracker = ReusableBagTracker()

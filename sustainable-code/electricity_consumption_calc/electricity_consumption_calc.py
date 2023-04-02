@@ -15,7 +15,6 @@ with open(csv_path) as csvfile:
     for row in reader:
         device_info.append((row[0], float(row[1]), float(row[2])))
 
-
 # Initialize the GUI
 root = tk.Tk()
 root.title('Device Selector')
@@ -32,12 +31,13 @@ for i in range(rows):
     frame = tk.Frame(root)
     frame.pack(side='top', fill='x')
     for j in range(columns):
-        index = i*columns+j
+        index = i * columns + j
         if index < len(device_info):
             var = tk.BooleanVar(value=False)
             button = ttk.Checkbutton(frame, text=device_info[index][0], variable=var, style='Custom.TCheckbutton')
             button.pack(side='left', padx=5, pady=5)
             buttons.append((var, device_info[index]))
+
 
 # Define a function to handle button presses
 # Define a function to handle button presses
@@ -58,7 +58,8 @@ def on_button_press():
     else:
         message = "Your monthly energy consumption is very bad. Please reduce the number of devices you use for the sake of the environment."
 
-    results_label.config(text=f"Selected devices: {', '.join(selected_devices)}\nTotal energy consumption: {total_consumption:.2f} kWh\nMonthly energy consumption: {monthly_consumption:.2f} kWh\n\n{message}")
+    results_label.config(
+        text=f"Selected devices: {', '.join(selected_devices)}\nTotal energy consumption: {total_consumption:.2f} kWh\nMonthly energy consumption: {monthly_consumption:.2f} kWh\n\n{message}")
 
 
 # Add a button to submit the selection
