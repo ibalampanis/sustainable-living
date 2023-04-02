@@ -2628,6 +2628,12 @@ Oloi mazi boroume is another of the suggested organizations that are based in Gr
 
 [Visit the website](https://www.oloimaziboroume.gr)
 
+<h3 style="font-size:20px" align="center">Fibershed</h3>
+
+The Fibershed organization, founded in 2010 by Rebecca Burgess, is a non-profit organization based in California that aims to develop regional fiber systems based on sustainable agriculture, local manufacturing, and traditional craftsmanship. The organization works with farmers, ranchers, artisans, and designers to support sustainability, community resilience, and ecological balance in local and regional fiber systems. The Fibershed Producer Program connects fiber producers with designers and consumers, while the Climate Beneficial Wool Program promotes the use of regenerative agriculture practices to sequester carbon in soil. The Fibershed Marketplace provides a platform for sustainable textile businesses to sell their products directly to consumers.
+
+[Visit the website](https://fibershed.org/)
+
 <h5 align="right">
 
 [back to the top](#table-of-contents)
