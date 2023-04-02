@@ -139,7 +139,7 @@ def main2():
             print("\033[31mPlease answer with an integer\033[0m")
 
     while True:
-        cotton = str(input("do you own any cotton clothes? (Y/N)\n"))
+        cotton = str(input("Do you own any cotton clothes? (Y/N)\n"))
         if cotton.lower() == "y" or cotton.lower() == "n":
             if cotton.lower() == "y":
                 materials.append("cotton")
@@ -148,7 +148,7 @@ def main2():
             print("\033[31mPlease answer with Y/N\033[0m")
 
     while True:
-        polyester = str(input("do you own any polyester clothes? (Y/N)\n"))
+        polyester = str(input("Do you own any polyester clothes? (Y/N)\n"))
         if polyester.lower() == "y" or polyester.lower() == "n":
             if polyester.lower() == "y":
                 materials.append("polyester")
@@ -157,7 +157,7 @@ def main2():
             print("\033[31mPlease answer with Y/N\033[0m")
 
     while True:
-        nylon = str(input("do you own any nylon clothes? (Y/N)\n"))
+        nylon = str(input("Do you own any nylon clothes? (Y/N)\n"))
         if nylon.lower() == "y" or nylon.lower() == "n":
             if nylon.lower() == "y":
                 materials.append("nylon")
@@ -171,8 +171,8 @@ def main2():
 if __name__ == '__main__':
 
     while True:
-        choice = input("-Choose a to calculate your emission\n-Choose b to calculate your clothing emission ")
-        if choice == "a" or choice == "b":
+        choice = input("Choose a to calculate your emission\nChoose b to calculate your clothing emission ")
+        if choice.lower() == "a" or choice.lower() == "b":
             break
         else:
             print("\033[31mPlease answer with a or b\033[0m")
