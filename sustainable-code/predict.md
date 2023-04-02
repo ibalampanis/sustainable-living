@@ -55,7 +55,7 @@ Insert data into the table. You can do this by running the following command for
 INSERT INTO carbon_footprint (name, age, income, total_footprint)
 VALUES ('John', 25, 10000, 10000),
        ('Mary', 30, 20000, 20000),
-       ('Peter', 35, 30000, 30000)
+       ('Peter', 35, 30000, 30000);
 ```
 
 ## Step 5: Install MindsDB
