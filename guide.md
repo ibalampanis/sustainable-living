@@ -1864,6 +1864,17 @@ More specifically, VEJA promotes sustainability through:
    <li>The limited use of inks and printing on the packages and the use of cardboard boxes in order to ensure their recyclability.</li>
 </ul>
 
+10. **Girlfriend Collective**: Girlfriend Collective is a sportswear fashion brand established in 2016, in Seattle. The label's main mission is to offer high quality, size inclusive activewear while promoting sustainability and being as transparent as possible.
+
+More specifically, Girlfriend Collective promotes sustainability through:
+
+<ul>
+   <li>The use of recycled materials such as plastic bottles, fishing nets and others to produce the clothes.</li>
+   <li>The use of recyclable packaging that is also made from recycled materials.</li>
+   <li>The use of eco-friendly dyes and the cleaning of the wastewater.</li>
+   <li>Working with partners that share the same values and engage in ethical practices.</li>
+</ul>
+
 
 <h5 align="right">
 
