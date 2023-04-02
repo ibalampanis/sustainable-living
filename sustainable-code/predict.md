@@ -109,5 +109,3 @@ FROM mindsdb.carbon_footprint_model
 WHERE age = 69
   AND income = 42000;
 ```
-
-
