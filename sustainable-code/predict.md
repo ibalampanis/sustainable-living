@@ -30,13 +30,12 @@ CREATE DATABASE db;
 Create a table in MySQL. You can do this by running the following command:
 
 ```sql
-CREATE TABLE carbon_footprint
-(
-    id              INT          NOT NULL AUTO_INCREMENT,
-    name            VARCHAR(255) NOT NULL,
-    age             INT          NOT NULL,
-    income          INT          NOT NULL,
-    total_footprint FLOAT        NOT NULL
+CREATE TABLE carbon_footprint (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    age INT NOT NULL,
+    income INT NOT NULL,
+    total_footprint FLOAT NOT NULL
 );
 ```
 
