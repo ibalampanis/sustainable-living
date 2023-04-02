@@ -26,7 +26,6 @@ def get_user_usage(category: str) -> float:
         except ValueError:
             print("\033[31mInvalid input. Please enter a number.\033[0m")
 
-
 def get_footprint_comment(total_emissions) -> None:
     """Return a colored comment based on the given carbon footprint value.
     
@@ -45,7 +44,6 @@ def get_footprint_comment(total_emissions) -> None:
     # Print results
     print(f"Your monthly carbon footprint is {total_emissions:.2f} kg CO2e.")
     print(comment)
-
 
 def get_chart(usage: dict[str, float]) -> None:
     """Plot a donut chart of the usage of each emission category.
@@ -104,7 +102,6 @@ def suggest_actions(per_item_footprint) -> None:
     else:
         print("Your clothing carbon footprint is low. Keep up the good work!")
 
-
 def main1():
     # Emissions factors (kg CO2e/unit)
     emissions_factors = {
@@ -130,7 +127,6 @@ def main1():
 
     get_chart(cat_usage)
     get_footprint_comment(total_emissions)
-
 
 def main2():
     materials = []
@@ -171,7 +167,6 @@ def main2():
 
     per_item_footprint = calculate_clothing_carbon_footprint(number_of_materials, materials)
     suggest_actions(per_item_footprint)
-
 
 if __name__ == '__main__':
 
