@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 
 public class SustainabilityQuiz {
     // define enum class Answer & hold unchangeable answers and their properties
-    public enum Answer{
+    public enum Answer {
         Never("a", 0),
         Sometimes("b", 1),
         Always("c", 2);
@@ -35,7 +35,7 @@ public class SustainabilityQuiz {
         try {
             List<String> data = new ArrayList<String>();
             Scanner sc = new Scanner(new FileReader("Questions.txt"))
-                   	   .useDelimiter("!\\s*");
+                    .useDelimiter("!\\s*");
             String str;
             while (sc.hasNext()) {
                 str = sc.next();
@@ -57,16 +57,16 @@ public class SustainabilityQuiz {
         System.out.println();
         System.out.println("Do you...");
         System.out.println();
-        for(int i =0; i < questions.length; i++) {
-            System.out.println(i+1 + "." +questions[i] + "?");
+        for (int i = 0; i < questions.length; i++) {
+            System.out.println(i + 1 + "." + questions[i] + "?");
             Answer[] answers = Answer.values();
-            for(Answer a : answers) {
+            for (Answer a : answers) {
                 System.out.println(a.getReply() + ". " + a);
             }
             System.out.println();
             System.out.println("Enter your answer");
             String answer = keyboard.nextLine().toLowerCase();
-            if (!((answer.equals("a")) || answer.equals("b") || answer.equals("c"))) {
+            while (!((answer.equals("a")) || answer.equals("b") || answer.equals("c"))) {
                 System.out.println();
                 System.out.println("Error while entering your answer.");
                 System.out.println("Please try again!");
@@ -75,7 +75,13 @@ public class SustainabilityQuiz {
                 System.out.println("Provide 'b' for Sometimes.");
                 System.out.println("Provide 'c' for Always.");
                 System.out.println();
-                i--; // generally, not a good practice to modify loop variable
+                System.out.println(i + 1 + "." + questions[i] + "?");
+                for (Answer a : answers) {
+                    System.out.println(a.getReply() + ". " + a);
+                }
+                System.out.println();
+                System.out.println("Enter your answer");
+                answer = keyboard.nextLine().toLowerCase();
             }
             if (answer.equals(Answer.Sometimes.getReply())) {
                 result += Answer.Sometimes.getPoints();
