@@ -2690,9 +2690,10 @@ The Fibershed organization, founded in 2010 by Rebecca Burgess, is a non-profit 
  - Clean with vinegar and baking soda.
 
 <h5 align="right">
-[back to the top](#table-of-contents)
-</h5>
 
+[back to the top](#table-of-contents)
+
+</h5>
 <br>
 
 ## Citations
