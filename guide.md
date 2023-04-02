@@ -2240,6 +2240,8 @@ Snowpiercer is a 2013 post-apocalyptic science fiction action film based on the 
 - [Project Drawdown](#pr-drawd)
 - [Rainforest Alliance](#rainforest-alliance)
 - [Center Of Ecoliteracy](#center-of-ecoliteracy)
+- [Environmental Working Group](#EWG)
+
   <a name="conv-fund">
 
 <br>
@@ -2518,6 +2520,38 @@ They envision a world where all students experience and understand how nature su
 </a>
 
 [Donate to Center Of Ecoliteracy](https://www.ecoliteracy.org/donate)
+
+<a name="EWG">
+
+<br>
+
+<!-- Environmental Working Group -->
+
+<h3 style="font-size:20px" align="center">Environmental Working Group</h3>
+<br>
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/Ewg.png" alt=""> 
+</p>
+
+<div align="right">
+
+[Image source](https://en.wikipedia.org/wiki/Environmental_Working_Group#/media/File:Environmental_Working_Group_logo.png)
+
+</div>
+
+<br>
+
+EWG stands for the Environmental Working Group, a non-profit organization that specializes in
+research and advocacy related to human and environmental health, including topics such as toxic chemicals,
+agricultural practices, and consumer product safety. The organization was founded in 1993 and
+is based in the United States, but its work has a global impact. EWG is known for its databases
+and guides that provide information about the safety of various consumer products and foods,
+as well as its efforts to promote policies that protect not only public health but also the environment.
+
+</a>
+
+[Donate to ewg.org](https://www.ewg.org/take-action/ways-give)
 
 <h5 align="right">
 
