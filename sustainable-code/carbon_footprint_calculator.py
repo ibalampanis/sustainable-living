@@ -102,7 +102,7 @@ def suggest_actions(per_item_footprint) -> None:
     else:
         print("Your clothing carbon footprint is low. Keep up the good work!")
 
-def main1():
+def main():
     # Emissions factors (kg CO2e/unit)
     emissions_factors = {
         "electricity": 0.000645,  # kg CO2e/kWh
@@ -128,7 +128,7 @@ def main1():
     get_chart(cat_usage)
     get_footprint_comment(total_emissions)
 
-def main2():
+def clothes_main():
     materials = []
 
     while True:
@@ -178,6 +178,6 @@ if __name__ == '__main__':
             print("\033[31mPlease answer with a or b\033[0m")
 
     if choice == "a":
-        main1()
+        main()
     else:
-        main2()
+        clothes_main()
