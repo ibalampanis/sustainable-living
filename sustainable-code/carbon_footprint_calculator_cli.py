@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+from typing import Dict
+
 
 def get_user_usage(category: str) -> float:
     """Ask the user their usage in an emission category.
@@ -26,18 +28,35 @@ def get_user_usage(category: str) -> float:
         except ValueError:
             print("\033[31mInvalid input. Please enter a number.\033[0m")
 
+
 def get_footprint_comment(total_emissions) -> None:
     """Return a colored comment based on the given carbon footprint value.
     
     Arguments:
     total_emissions -- the sum of all the given emissions
+
+    Returns:
+    None
     """
     if total_emissions < 400:
         comment = "\033[32mYour carbon footprint is very low! Keep up the good work.\033"
     elif total_emissions < 1200:
-        comment = "\033[32mYour carbon footprint is low, but there is still room for improvement." + "\nConsider reducing your energy consumption and transportation emissions."
+        comment = "\033[32mYour carbon footprint is low, but there is still room for improvement." + "\nConsider " \
+                                                                                                     "reducing your " \
+                                                                                                     "energy " \
+                                                                                                     "consumption and " \
+                                                                                                     "transportation " \
+                                                                                                     "emissions."
     elif total_emissions < 1600:
-        comment = "\033[33mYour carbon footprint is average, but there is room for improvement." + "\nConsider reducing your meat consumption, choosing sustainable transportation, and using energy-efficient appliances.\033"
+        comment = "\033[33mYour carbon footprint is average, but there is room for improvement." + "\nConsider " \
+                                                                                                   "reducing your " \
+                                                                                                   "meat consumption, " \
+                                                                                                   "choosing " \
+                                                                                                   "sustainable " \
+                                                                                                   "transportation, " \
+                                                                                                   "and using " \
+                                                                                                   "energy-efficient " \
+                                                                                                   "appliances.\033"
     else:
         comment = "\033[31mYour carbon footprint is high. You should consider reducing your emissions.\033"
 
@@ -45,11 +64,15 @@ def get_footprint_comment(total_emissions) -> None:
     print(f"Your monthly carbon footprint is {total_emissions:.2f} kg CO2e.")
     print(comment)
 
-def get_chart(usage: dict[str, float]) -> None:
+
+def get_chart(usage: Dict[str, float]) -> None:
     """Plot a donut chart of the usage of each emission category.
     
     Arguments:
     usage -- dictionary where keys are the categories and values are each category's usage
+
+    Returns:
+    None
     """
     categories = list(usage.keys())
     values = list(usage.values())
@@ -61,6 +84,7 @@ def get_chart(usage: dict[str, float]) -> None:
     ax1.set_title("Emission Categories")
     ax1.legend(categories, loc="best")
     plt.show()
+
 
 def calculate_clothing_carbon_footprint(num_items, materials) -> float:
     """Calculate the carbon footprint of clothing based on the materials used.
@@ -83,11 +107,15 @@ def calculate_clothing_carbon_footprint(num_items, materials) -> float:
     per_item_footprint = carbon_footprint / num_items
     return per_item_footprint
 
+
 def suggest_actions(per_item_footprint) -> None:
     """Suggest actions to reduce the per-item carbon footprint of clothing.
 
     Arguments:
     per_item_footprint -- the carbon footprint per clothing item
+
+    Returns:
+    None
     """
     if per_item_footprint > 5:
         print("Your clothing carbon footprint is high. Consider making these changes:")
@@ -102,7 +130,16 @@ def suggest_actions(per_item_footprint) -> None:
     else:
         print("Your clothing carbon footprint is low. Keep up the good work!")
 
+
 def main():
+    """
+    Main function for the carbon footprint calculator.
+
+    Prompts the user for input and calculates the carbon footprint of their lifestyle.
+
+    Returns:
+    None
+    """
     # Emissions factors (kg CO2e/unit)
     emissions_factors = {
         "electricity": 0.000645,  # kg CO2e/kWh
@@ -128,7 +165,16 @@ def main():
     get_chart(cat_usage)
     get_footprint_comment(total_emissions)
 
+
 def clothes_main():
+    """
+    Main function for the clothing carbon footprint calculator.
+
+    Prompts the user for input and calculates the carbon footprint of their clothing.
+
+    Returns:
+    None
+    """
     materials = []
 
     while True:
@@ -167,6 +213,7 @@ def clothes_main():
 
     per_item_footprint = calculate_clothing_carbon_footprint(number_of_materials, materials)
     suggest_actions(per_item_footprint)
+
 
 if __name__ == '__main__':
 

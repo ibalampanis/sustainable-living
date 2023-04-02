@@ -15,6 +15,13 @@ gas_use = []  # Therms of natural gas used each month
 def calculate_emissions(electricity_use, gas_use):
     """
     Calculate the total CO2 emissions for a given month based on electricity and natural gas use.
+
+    :param electricity_use: kWh of electricity used in a month
+    :param gas_use: Therms of natural gas used in a month
+
+    Returns:
+    Total CO2 emissions in metric tons
+
     """
     electricity_emissions = electricity_use * KWH_TO_CO2_FACTOR
     gas_emissions = gas_use * 0.0053  # CO2 emissions per therm of natural gas in metric tons
@@ -25,6 +32,11 @@ def calculate_emissions(electricity_use, gas_use):
 def calculate_average_emissions(data):
     """
     Calculate the average monthly CO2 emissions for a given data set.
+
+    :param data: List of monthly CO2 emissions
+
+    Returns:
+    Average monthly CO2 emissions in metric tons
     """
     total_emissions = sum(data)
     average_emissions = total_emissions / len(data)
@@ -71,10 +83,12 @@ if electricity_use and gas_use:
             print("Your average monthly CO2 emissions are average for a household. Consider reducing your usage.")
         elif average_emissions <= 3:
             print(
-                "Your average monthly CO2 emissions are above average. You can make significant reductions with a few changes.")
+                "Your average monthly CO2 emissions are above average. You can make significant reductions with a few "
+                "changes.")
         else:
             print(
-                "Your average monthly CO2 emissions are very high. You should take immediate action to reduce your usage.")
+                "Your average monthly CO2 emissions are very high. You should take immediate action to reduce your "
+                "usage.")
     except ZeroDivisionError:
         print("Error: division by zero. Please enter at least one month of data.")
 else:

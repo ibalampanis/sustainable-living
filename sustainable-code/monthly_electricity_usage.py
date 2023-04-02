@@ -64,6 +64,14 @@ canvas.get_tk_widget().configure(yscrollcommand=scrollbar.set)
 
 # Bind mouse scroll to scrollbar
 def _on_mousewheel(event):
+    """Bind mouse scroll to scrollbar
+
+    Args:
+    event (tkinter.Event): Mouse scroll event
+
+    Returns
+    None
+    """
     canvas.get_tk_widget().yview_scroll(int(-1 * (event.delta / 120)), "units")
 
 

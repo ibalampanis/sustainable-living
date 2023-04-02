@@ -39,6 +39,6 @@ with open('data.csv', 'r') as csvfile:
         vegetable_emissions = vegetable_consumption * AVG_VEGETABLE_EMISSIONS
 
         # Calculate total emissions
-        total_emissions = electricity_emissions + natural_gas_emissions + oil_emissions + commute_emissions + flight_emissions + meat_emissions + vegetable_emissions
+        total_emissions = electricity_emissions + natural_gas_emissions + oil_emissions + commute_emissions + \
+                          flight_emissions + meat_emissions + vegetable_emissions
         print(total_emissions)
-        

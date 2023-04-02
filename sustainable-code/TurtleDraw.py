@@ -1,6 +1,17 @@
 import turtle
 
+
 def draw_trash_bin(x, color, label):
+    """Draw a trash bin at the specified x-coordinate with the specified color and label.
+
+    Args:
+        x (int): The x-coordinate of the trash bin
+        color (str): The color of the trash bin
+        label (str): The label of the trash bin
+
+    Returns:
+        None
+    """
     t.speed(5)
     t.color(color)
 
@@ -39,8 +50,9 @@ def draw_trash_bin(x, color, label):
     t.penup()
     t.goto(x, -80)
     t.write(label, align="center", font=("Arial", 16, "bold"))
-    
+
     t.hideturtle()
+
 
 t = turtle.Turtle()
 draw_trash_bin(-100, "blue", "Recycle")

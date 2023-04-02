@@ -19,7 +19,7 @@ with open(csv_path) as csvfile:
 root = tk.Tk()
 root.title('Device Selector')
 
-# Define a custom style for the Checkbuttons
+# Define a custom style for the Check buttons
 style = ttk.Style()
 style.configure('Custom.TCheckbutton', background=root.cget('bg'), foreground='black')
 
@@ -42,11 +42,22 @@ for i in range(rows):
 # Define a function to handle button presses
 # Define a function to handle button presses
 def on_button_press():
+    """Calculate the total energy consumption and monthly energy consumption based on the selected devices.
+
+    The total energy consumption is the sum of the power consumption of each device multiplied by the number of hours
+
+    The monthly energy consumption is the total energy consumption multiplied by 30 (assuming 30 days in a month)
+
+    The message displayed to the user is based on the monthly energy consumption.
+
+    Returns:
+    None
+    """
+
     selected_devices = [name for var, (name, _, _) in buttons if var.get()]
     total_consumption = sum(hours * power / 1000 for name, power, hours in device_info if name in selected_devices)
     monthly_consumption = total_consumption * 30  # Assuming 30 days in a month
 
-    message = ""
     if monthly_consumption < 100:
         message = "Your monthly energy consumption is very good!"
     elif monthly_consumption < 200:
@@ -56,10 +67,12 @@ def on_button_press():
     elif monthly_consumption < 400:
         message = "Your monthly energy consumption is bad. You should consider reducing the number of devices you use."
     else:
-        message = "Your monthly energy consumption is very bad. Please reduce the number of devices you use for the sake of the environment."
+        message = "Your monthly energy consumption is very bad. Please reduce the number of devices you use for the " \
+                  "sake of the environment."
 
     results_label.config(
-        text=f"Selected devices: {', '.join(selected_devices)}\nTotal energy consumption: {total_consumption:.2f} kWh\nMonthly energy consumption: {monthly_consumption:.2f} kWh\n\n{message}")
+        text=f"Selected devices: {', '.join(selected_devices)}\nTotal energy consumption: {total_consumption:.2f} kWh"
+             f"\nMonthly energy consumption: {monthly_consumption:.2f} kWh\n\n{message}")
 
 
 # Add a button to submit the selection
