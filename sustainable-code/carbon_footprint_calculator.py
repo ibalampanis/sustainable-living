@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
 
 def get_user_usage(category: str) -> float:
     '''Asks the user their usage in an emission category
