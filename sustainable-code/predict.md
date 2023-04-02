@@ -41,7 +41,8 @@ CREATE TABLE carbon_footprint (
 
 ## Step 3: Calculate carbon footprint
 
-Calculate carbon footprint for each person and store it in a file. You can do this by running the following command:
+You can add the information about each person in the `data.csv` file and then calculate carbon footprint
+for them and store it in a file. You can do this by running the following command:
 
 ```shell
 python carbon_footprint_calculator.py >> emmissions.txt
