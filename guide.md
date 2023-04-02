@@ -153,7 +153,7 @@ Following a green lifestyle, means to shape a way of life oriented to some earth
 - Be actively aware of the current threats posed to environment (i.e. climate crisis components) and get eco-conscious
 - Become more adaptive and open to eco-friendly practices
 
-<br>Want an indicator on how you're doing? Take some time to check your footprint using the calculator listed below so you can start reducing your footprint!
+<br>Want an indicator on how you're doing? Take some time to check your footprint using the calculator listed below, so you can start reducing your footprint!
 
 https://www.footprintcalculator.org/home/en
 
@@ -974,7 +974,7 @@ communities by turning our food scraps and yard waste into compost.
 2. The pile must be humid but not wet. Add sawdust to dry it or water to moisten it as needed.
 3. Stir the contents of the pile regularly. Turning the compost promotes oxygen flow and releases the heat that builds
    during decomposition. The ideal temperature should be between 32°-60° Celsius.
-4. Your compost is will be ready to use after several months, when the color is dark, the content crumbles and it stops
+4. Your compost is will be ready to use after several months, when the color is dark, the content crumbles, and it stops
    emitting heat. You should avoid unfinished compost on your garden, as it tends to be toxic for plants.
 
 <h1 align="center"> 
@@ -1777,7 +1777,7 @@ The city is estimated to populate 9 million residents, allover its 170 kilometer
 
 </div>
 
-Its sustainability plan: The city will use entirely renewable energy and it will consist of 3 layers; one on the surface for pedestrians, one underground for infrastructure, and another underground for transportation. (https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia)
+Its sustainability plan: The city will use entirely renewable energy, and it will consist of 3 layers; one on the surface for pedestrians, one underground for infrastructure, and another underground for transportation. (https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia)
 
 No roads, cars or emissions, it will run on 100% renewable energy and 95% of land will be preserved for nature. People's health and wellbeing will be prioritized over transportation and infrastructure, unlike traditional cities.(https://www.neom.com/en-us/regions/theline)
 
@@ -2527,7 +2527,7 @@ They envision a world where all students experience and understand how nature su
 
 ## Volunteer
 
-The act of volunteering can be considered a driving force to the protection of our environment and the promotion of sustainability with more and more people willing to contribute and act in favor of our planet. It is a well-known fact that many of the most famous organizations that promote sustainability such as Greenpeace, rely on volunteering to achieve their goals and keep going. As a volunteer you can work on different tasks, from promoting the cause of an organization on social media to cleaning the ocean! It all comes down to how experienced you are, what your talents are and most important of all how much of your time you are willing to offer. It is also worth mentioning that though volunteering not only do you contribute to the well-being of the society but you also achieve major benefits for yourself! First of all, you are given a sense of purpose and improve your self-esteem, you are also able to gain much needed experience that can enrich your CV and you get to meet new friends and socialize with others that share the same interests and concerns as you. However, the greatest benefit of it all is that you get to experience the sense of fulfillment of helping others and you come to realize the great impact that teamwork can have. Are you ready to take the next step and apply for a volunteering position? Here is a list of non-profit organizations in need of your help.
+The act of volunteering can be considered a driving force to the protection of our environment and the promotion of sustainability with more and more people willing to contribute and act in favor of our planet. It is a well-known fact that many of the most famous organizations that promote sustainability such as Greenpeace, rely on volunteering to achieve their goals and keep going. As a volunteer you can work on different tasks, from promoting the cause of an organization on social media to cleaning the ocean! It all comes down to how experienced you are, what your talents are and most important of all how much of your time you are willing to offer. It is also worth mentioning that though volunteering not only do you contribute to the well-being of the society, but you also achieve major benefits for yourself! First of all, you are given a sense of purpose and improve your self-esteem, you are also able to gain much needed experience that can enrich your CV and you get to meet new friends and socialize with others that share the same interests and concerns as you. However, the greatest benefit of it all is that you get to experience the sense of fulfillment of helping others, and you come to realize the great impact that teamwork can have. Are you ready to take the next step and apply for a volunteering position? Here is a list of non-profit organizations in need of your help.
 
 <h3 style="font-size:20px" align="center">WWF (World Wide Fund For Nature)</h3>
 
@@ -2543,7 +2543,7 @@ Boroume is a Greek non-profit organization that was founded in 2011 and whose mi
 
 <h3 style="font-size:20px" align="center">Greenpeace</h3>
 
-Greenpeace is an international non-profit organization whose mission is the protection of the environment. It was founded in 1991 and it is considered one of the most well-known non-profits in the world especially due to its impactful campaigns that take against any business, government or individual project that may have negative consequences on the environment. Greenpeace counts more than 3.000 employees in international level and has a very diverse network, meaning that you can contribute from many different places around the world.
+Greenpeace is an international non-profit organization whose mission is the protection of the environment. It was founded in 1991, and it is considered one of the most well-known non-profits in the world especially due to its impactful campaigns that take against any business, government or individual project that may have negative consequences on the environment. Greenpeace counts more than 3.000 employees in international level and has a very diverse network, meaning that you can contribute from many different places around the world.
 
 [Visit the website](https://www.greenpeace.org/international/)
 
@@ -2555,7 +2555,7 @@ we4all is a Greek non-profit organization aiming at the conservation of the envi
 
 <h3 style="font-size:20px" align="center">Oloi mazi boroume</h3>
 
-Oloi mazi boroume is another of the suggested organizations that are based in Greece. It was founded in 2011 and it is responsible for many great activities taking place each of whom can concern either education, medicine, the environment or social welfare. Some actions worth of mention that take place frequently are the collection of medicine for people in need, the organization of blood drives as well as the collection of food and tree planting. Oloi mazi boroume is a nice suggestion for anyone who wants to take part in different programs that vary in character but are equally important to the wellbeing of our society.
+Oloi mazi boroume is another of the suggested organizations that are based in Greece. It was founded in 2011, and it is responsible for many great activities taking place each of whom can concern either education, medicine, the environment or social welfare. Some actions worth of mention that take place frequently are the collection of medicine for people in need, the organization of blood drives as well as the collection of food and tree planting. Oloi mazi boroume is a nice suggestion for anyone who wants to take part in different programs that vary in character but are equally important to the wellbeing of our society.
 
 [Visit the website](https://www.oloimaziboroume.gr)
 
