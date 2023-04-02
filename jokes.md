@@ -43,8 +43,8 @@ Here are some more jokes found in websites hosting sustainable living themes!
 - If Mac users care more about the environment more than Windows users?\
   Then why do Macs have a trash can and Windows has a recycling bin?
 
-- If I ride my bike twice….does that count as RE-CYCLING?
-  (Encouraging people to use more sustainable means of transport.)\
+- If I ride my bike twice….does that count as RE-CYCLING?\
+  (Encouraging people to use more sustainable means of transport.)
   
   <h4 align="right">
 
