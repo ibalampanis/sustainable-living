@@ -1567,9 +1567,7 @@ products.(The Top 5 Myths About Sustainable Living," MindBodyGreen, 2019.)
 
 Fact: Sustainable living can be as simple or as complex as you make it. Even small changes, such as using cloth napkins
 instead of paper ones or turning off lights when leaving a room, can make a difference. Sustainable living is about
-making conscious choices that align with your values and goals.(5 Myths About Sustainable Living," One Green Planet,
-
-2018.
+making conscious choices that align with your values and goals.(5 Myths About Sustainable Living," One Green Planet, 2018.)
 
 ---
 
