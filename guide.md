@@ -40,6 +40,7 @@
     - [Reduce paper usage:](#reduce-paper-usage)
     - [Support environmental organizations:](#support-environmental-organizations)
     - [Composting at Home](#composting-at-home)
+    - [Plant a garden](#plant-a-garden)
   - [Get informed: Environmental News Sources](#get-informed-environmental-news-sources)
     - [ERM: The Sustainability Institute News](#erm-the-sustainability-institute-news)
     - [Business Green](#business-green)
@@ -987,6 +988,21 @@ communities by turning our food scraps and yard waste into compost.
 
 </h4>
 
+</h1>
+
+### Plant a garden
+
+Growing your own fruits and vegetables is a great way to reduce your carbon footprint while also providing fresh, 
+healthy food for you and your family.
+
+<h1 align="center">
+	<img width="250" src="media/tree-planting-man.png">
+
+<h4 align="right">
+
+[Image source](https://static.thenounproject.com/png/1971282-200.png)
+
+</h4>
 </h1>
 
 <h5 align="right">
