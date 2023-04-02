@@ -1542,7 +1542,7 @@ There are several myths about sustainable living that are widely believed but fa
 Fact: While some sustainable products may have higher upfront costs, sustainable living can actually save money in the
 long run. For example, energy-efficient appliances and LED light bulbs can save money on utility bills. Additionally,
 sustainable living can involve making lifestyle changes, such as reducing meat consumption, which can lead to cost
-savings.(7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2019)
+savings. (7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2019)
 
 ---
 
@@ -1550,7 +1550,7 @@ savings.(7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2
 
 Fact: Sustainable living is not about giving up modern conveniences, but rather finding ways to use them more
 efficiently and responsibly. For example, using a reusable water bottle instead of single-use plastic bottles is a
-simple way to reduce waste without giving up the convenience of having water on-the-go.(5 Myths About Sustainable
+simple way to reduce waste without giving up the convenience of having water on-the-go. (5 Myths About Sustainable
 Living," One Green Planet, 2018)
 
 ---
@@ -1559,7 +1559,7 @@ Living," One Green Planet, 2018)
 
 Fact: While living off the grid is one option for sustainable living, it is not the only one. Sustainable living can be
 achieved in many ways, such as reducing energy consumption, using public transportation, or buying locally-sourced
-products.(The Top 5 Myths About Sustainable Living," MindBodyGreen, 2019.)
+products. (The Top 5 Myths About Sustainable Living," MindBodyGreen, 2019)
 
 ---
 
@@ -1567,7 +1567,7 @@ products.(The Top 5 Myths About Sustainable Living," MindBodyGreen, 2019.)
 
 Fact: Sustainable living can be as simple or as complex as you make it. Even small changes, such as using cloth napkins
 instead of paper ones or turning off lights when leaving a room, can make a difference. Sustainable living is about
-making conscious choices that align with your values and goals.(5 Myths About Sustainable Living," One Green Planet, 2018.)
+making conscious choices that align with your values and goals. (5 Myths About Sustainable Living," One Green Planet, 2018)
 
 ---
 
@@ -1575,7 +1575,7 @@ making conscious choices that align with your values and goals.(5 Myths About Su
 
 Fact: Sustainable living is for everyone. While many people may be drawn to sustainable living for environmental
 reasons, the benefits extend beyond just the planet. Sustainable living can also improve health, save money, and build
-stronger communities.(7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2019)
+stronger communities. (7 Myths About Sustainable Living That Need to Be Debunked," EcoWatch, 2019)
 
 ---
 
