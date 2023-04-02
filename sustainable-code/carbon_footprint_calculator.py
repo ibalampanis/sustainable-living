@@ -1,18 +1,19 @@
 import matplotlib.pyplot as plt
 
+
 def get_user_usage(category: str) -> float:
-    '''Asks the user their usage in an emission category
-    
+    """Asks the user their usage in an emission category
+
     Parameters:
         category: the type of emission
 
     Returns:
         usage: a float number of user's input
-    '''
+    """
     prompt = {'electricity': 'usage in kWh',
               'natural gas': 'usage in kWh',
               'oil': 'usage in kWh',
-              'commute':'distance in miles',
+              'commute': 'distance in miles',
               'flight': 'distance in miles',
               'meat': 'consumption in kg',
               'vegetable': 'consumption in kg'
@@ -49,11 +50,13 @@ def get_chart(usage):
     values = list(usage.values())
     colors = ['#FFC300', '#FF5733', '#C70039', '#900C3F', '#581845', '#4CAF50', '#2196F3']
     _, ax1 = plt.subplots()
-    ax1.pie(values, colors=colors, startangle=90, counterclock=False, autopct='%1.1f%%', pctdistance=0.85, labeldistance=1.05)
+    ax1.pie(values, colors=colors, startangle=90, counterclock=False, autopct='%1.1f%%', pctdistance=0.85,
+            labeldistance=1.05)
     ax1.axis('equal')
     ax1.set_title("Emission Categories")
     ax1.legend(categories, loc="best")
     plt.show()
+
 
 def calculate_clothing_carbon_footprint(num_items, materials):
     # Calculate the carbon footprint of clothing based on the materials used
@@ -67,6 +70,7 @@ def calculate_clothing_carbon_footprint(num_items, materials):
             carbon_footprint += 7
     per_item_footprint = carbon_footprint / num_items
     return per_item_footprint
+
 
 def suggest_actions(per_item_footprint):
     # Suggest actions to reduce the per-item carbon footprint of clothing
@@ -82,6 +86,7 @@ def suggest_actions(per_item_footprint):
         print("- Choose high-quality clothes that last longer")
     else:
         print("Your clothing carbon footprint is low. Keep up the good work!")
+
 
 def main1():
     # Emissions factors (kg CO2e/unit)
@@ -106,12 +111,11 @@ def main1():
     # Calculate total emissions
     total_emissions = sum(inputs.values())
 
-
     get_chart(cat_usage)
     get_footprint_comment(total_emissions)
 
-def main2():
 
+def main2():
     materials = []
 
     while True:
@@ -120,11 +124,11 @@ def main2():
             break
         except ValueError:
             print("\033[31mPlease answer with an integer\033[0m")
-    
+
     while True:
         cotton = str(input("do you own any cotton clothes? (Y/N)\n"))
-        if(cotton.lower() == "y" or cotton.lower() == "n"):
-            if(cotton.lower() == "y"):
+        if cotton.lower() == "y" or cotton.lower() == "n":
+            if cotton.lower() == "y":
                 materials.append("cotton")
             break
         else:
@@ -132,38 +136,36 @@ def main2():
 
     while True:
         polyester = str(input("do you own any polyester clothes? (Y/N)\n"))
-        if(polyester.lower() == "y" or polyester.lower() == "n"):
-            if(polyester.lower() == "y"):
+        if polyester.lower() == "y" or polyester.lower() == "n":
+            if polyester.lower() == "y":
                 materials.append("polyester")
             break
         else:
             print("\033[31mPlease answer with Y/N\033[0m")
-        
+
     while True:
         nylon = str(input("do you own any nylon clothes? (Y/N)\n"))
-        if(nylon.lower() == "y" or nylon.lower() == "n"):
-            if(nylon.lower() == "y"):
+        if nylon.lower() == "y" or nylon.lower() == "n":
+            if nylon.lower() == "y":
                 materials.append("nylon")
             break
         else:
             print("\033[31mPlease answer with Y/N\033[0m")
 
-    
     per_item_footprint = calculate_clothing_carbon_footprint(number_of_materials, materials)
     suggest_actions(per_item_footprint)
 
-              
 
 if __name__ == '__main__':
 
     while True:
-        choice = input("-Choose a to calculate your emmission\n-Choose b to calculate your clothing emmission ")
-        if(choice == "a" or choice == "b"):
+        choice = input("-Choose a to calculate your emission\n-Choose b to calculate your clothing emission ")
+        if choice == "a" or choice == "b":
             break
         else:
             print("\033[31mPlease answer with a or b\033[0m")
-    
-    if (choice == "a"):
+
+    if choice == "a":
         main1()
     else:
         main2()
