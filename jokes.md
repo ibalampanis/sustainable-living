@@ -1,7 +1,14 @@
-# Jokes about sustainable living :)
+<h1 align="center">
+ Jokes about sustainable living :)
+</h1>
+
 
 Who said sustainable living couldn't be **fun**?  
 Here are some jokes Chat-GPT wrote to encourage more people to adapt a sustainable lifestyle!
+
+<p align="center"> 
+	<img height="200"  width=""  src="media/happy-robot.png" alt=""> 
+</p>
 
 #
 
