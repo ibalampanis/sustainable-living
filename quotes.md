@@ -24,6 +24,10 @@ Here are some inspiring quotes about sustainable living that can encourage peopl
 
 10. "The environment is where we all meet; where we all have a mutual interest; it is the one thing all of us share." - **_*Lady Bird Johnson*_**
 
+11. "Αν ένας τρόπος είναι καλύτερος από έναν άλλο, τότε σίγουρα είναι ο τρόπος της φύσης." - **_*Αριστοτέλης*_**
+
+12. "Η ηθική οφείλει να ξεκινάει από τη στάση μας απέναντι στη φύση." - **_*Ιάσονας Ευάγγελου*_**
+
 #
 
 I hope these quotes inspire people to take action towards living a more sustainable lifestyle!
