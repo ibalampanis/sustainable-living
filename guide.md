@@ -2152,6 +2152,10 @@ Renewable energy art is a fairly new genre that either incorporates renewable en
 1. Cowspiracy ([IMDB](https://www.imdb.com/title/tt3302820/?ref_=fn_al_tt_1))
 2. Minimalism ([IMDB](https://www.imdb.com/title/tt3810760/))
 3. The True Cost ([IMDB](https://www.imdb.com/title/tt3162938/?ref_=nv_sr_srsg_0))
+4. Planet Earth ([IMDB](https://www.imdb.com/title/tt0795176/))
+5. Planet Earth II ([IMDB](https://www.imdb.com/title/tt5491994/))
+6. Before the Flood ([IMDB](https://www.imdb.com/title/tt5929776/))
+7. An Inconvenient Truth ([IMDB](https://www.imdb.com/title/tt0497116/))
 
 <h5 align="right">
 
