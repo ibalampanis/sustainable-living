@@ -89,6 +89,7 @@
   - [Volunteer](#volunteer)
   - [Citations](#citations)
   - [Current Contributors](#current-contributors)
+  - [Challenge yourserlef in a plastic free journey](#challenge-yourserlef-in-a-plastic-free-journey)
 
 ---
 
@@ -2632,6 +2633,40 @@ Oloi mazi boroume is another of the suggested organizations that are based in Gr
 
 [back to the top](#table-of-contents)
 
+</h5>
+
+## Challenge yourself in a plastic free journey
+
+ - Eat more home-cooked food. Ultra-processed convenience food and to-go food almost always come in plastic wrappers and containers.
+ - Bring your own cloth shopping bags.
+ - Bring your own cloth produce bags.
+ - Bring your own glass jars and bottles.
+ - Bring your own metal containers.
+ - Make a shopping list and stick to it.
+ - Shop more frequently for less food.
+ - Fill up at the bulk bins.
+ - Hit the farmers’ market.
+ - Choose fresh, seasonal fruit and vegetables.
+ - Opt for foods lower on the food chain.
+ - Buy milk in returnable glass bottles.
+ - Buy loose bread in your own cloth bag.
+ - Drink loose-leaf tea.
+ - Cut out the processed food.
+ - Ban bottled water.
+ - Skip the bottled beverages. 
+ - Kick the K-cup.
+ - Keep a zero-waste kit packed and ready to go.
+ - Tell your server up front.
+ - Learn to preserve food.
+ - Nut milks
+ - Compost.
+ - Freeze food without plastic.
+ - Store produce without plastic.
+ - Ditch the plastic wrap.
+ - Clean with vinegar and baking soda.
+
+<h5 align="right">
+[back to the top](#table-of-contents)
 </h5>
 
 <br>
