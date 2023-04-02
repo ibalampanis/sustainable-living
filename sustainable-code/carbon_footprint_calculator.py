@@ -49,16 +49,42 @@ def get_chart(usage):
     categories = list(usage.keys())
     values = list(usage.values())
     colors = ['#FFC300', '#FF5733', '#C70039', '#900C3F', '#581845', '#4CAF50', '#2196F3']
-    fig, ax1 = plt.subplots()
+    _, ax1 = plt.subplots()
     ax1.pie(values, colors=colors, startangle=90, counterclock=False, autopct='%1.1f%%', pctdistance=0.85, labeldistance=1.05)
     ax1.axis('equal')
     ax1.set_title("Emission Categories")
     ax1.legend(categories, loc="best")
     plt.show()
 
+def calculate_clothing_carbon_footprint(num_items, materials):
+    # Calculate the carbon footprint of clothing based on the materials used
+    carbon_footprint = 0
+    for material in materials:
+        if material == "cotton":
+            carbon_footprint += 5
+        elif material == "polyester":
+            carbon_footprint += 2
+        elif material == "nylon":
+            carbon_footprint += 7
+    per_item_footprint = carbon_footprint / num_items
+    return per_item_footprint
 
+def suggest_actions(per_item_footprint):
+    # Suggest actions to reduce the per-item carbon footprint of clothing
+    if per_item_footprint > 5:
+        print("Your clothing carbon footprint is high. Consider making these changes:")
+        print("- Choose clothes made from sustainable materials such as organic cotton, bamboo, or hemp")
+        print("- Shop at thrift stores or clothing rental services to reduce waste")
+        print("- Avoid fast fashion brands that produce large amounts of low-quality clothing")
+    elif per_item_footprint > 3:
+        print("Your clothing carbon footprint is moderate. Consider making these changes:")
+        print("- Wash clothes in cold water and hang dry instead of using the dryer")
+        print("- Donate or recycle old clothing instead of throwing it away")
+        print("- Choose high-quality clothes that last longer")
+    else:
+        print("Your clothing carbon footprint is low. Keep up the good work!")
 
-def main():
+def main1():
     # Emissions factors (kg CO2e/unit)
     emissions_factors = {
         "electricity": 0.000645,  # kg CO2e/kWh
@@ -85,5 +111,60 @@ def main():
     get_chart(cat_usage)
     get_footprint_comment(total_emissions)
 
+def main2():
+
+    materials = []
+
+    while True:
+        try:
+            number_of_materials = int(input("Approximately how many pieces of clothing do you own?\n"))
+            break
+        except ValueError:
+            print("\033[31mPlease answer with an integer\033[0m")
+    
+    while True:
+        cotton = str(input("do you own any cotton clothes? (Y/N)\n"))
+        if(cotton.lower() == "y" or cotton.lower() == "n"):
+            if(cotton.lower() == "y"):
+                materials.append("cotton")
+            break
+        else:
+            print("\033[31mPlease answer with Y/N\033[0m")
+
+    while True:
+        polyester = str(input("do you own any polyester clothes? (Y/N)\n"))
+        if(polyester.lower() == "y" or polyester.lower() == "n"):
+            if(polyester.lower() == "y"):
+                materials.append("polyester")
+            break
+        else:
+            print("\033[31mPlease answer with Y/N\033[0m")
+        
+    while True:
+        nylon = str(input("do you own any nylon clothes? (Y/N)\n"))
+        if(nylon.lower() == "y" or nylon.lower() == "n"):
+            if(nylon.lower() == "y"):
+                materials.append("nylon")
+            break
+        else:
+            print("\033[31mPlease answer with Y/N\033[0m")
+
+    
+    per_item_footprint = calculate_clothing_carbon_footprint(number_of_materials, materials)
+    suggest_actions(per_item_footprint)
+
+              
+
 if __name__ == '__main__':
-    main()
+
+    while True:
+        choice = input("-Choose a to calculate your emmission\n-Choose b to calculate your clothing emmission ")
+        if(choice == "a" or choice == "b"):
+            break
+        else:
+            print("please answer with a or b")
+    
+    if (choice == "a"):
+        main1()
+    else:
+        main2()
